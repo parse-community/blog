@@ -1,0 +1,5 @@
+<div>
+    {% for category in categories %}
+    <a href="{{ root_url }}/blog/categories/{{ category | downcase }}" class="btn btn--dark--outline btn--small category">{{ category }}</a>
+    {% endfor %}
+</div>

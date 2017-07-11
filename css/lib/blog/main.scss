@@ -90,6 +90,13 @@
   font-weight: bold;
 }
 
+.hero--docs-landing__content {
+  .date {
+    color: #fff;
+    opacity: .48;
+  }
+}
+
 .paginator {
   a {
     font-weight: 700;
@@ -102,4 +109,18 @@
   padding: 0 10px;
   line-height: 30px;
   height: 32px;
+}
+
+.signature {
+  font-size: 16px;
+
+  .author {
+    font-size: 22px;
+    font-weight: 400;
+  }
+
+  .byline {
+    font-size: 22px;
+    color: rgba(102,99,122,.44);
+  }
 }

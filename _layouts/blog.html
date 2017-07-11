@@ -37,30 +37,16 @@ layout: page
         {% for post in paginator.posts %}
         <article class="margin-top-40 padding-bottom-40 post">
             <div>
-                <div>
-                    <span class="author">{{ site.authors[post.author].name }} -</span>
-                    <span class="date">
-                        {{ post.date | date: "%B" }}
-                        {% assign day = post.date | date: "%-d"  %}
-                        {% case day %}
-                          {% when '1' or '21' or '31' %}{{ day }}st,
-                          {% when '2' or '22' %}{{ day }}nd,
-                          {% when '3' or '23' %}{{ day }}rd,
-                          {% else %}{{ day }}th,
-                        {% endcase %}
-                        {{ post.date | date: "%Y" }}
-                    </span>
-                </div>
+                {% assign author = site.authors[post.author] %}
+                {% assign postdate = post.date %}
+                {% include posts/author.html %}
                 <h1 class="margin-top-10 margin-bottom-10">
                     <a href="{{ root_url }}{{ post.url }}">
                         {% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}
                     </a>
                 </h1>
-                <div>
-                    {% for category in post.categories %}
-                    <a href="{{ root_url }}/blog/categories/{{ category | downcase }}" class="btn btn--dark--outline btn--small category">{{ category }}</a>
-                    {% endfor %}
-                </div>
+                {% assign categories = post.categories %}
+                {% include posts/categories.html %}
             </div>
             <div>
                 {% assign content = post.content %}

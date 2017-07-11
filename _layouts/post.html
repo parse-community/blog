@@ -5,6 +5,9 @@ layout: page
     <div class="grid-container">
         <div class="col--9">
             <div class="hero--docs-landing__content">
+                {% assign author = site.authors[page.author] %}
+                {% assign postdate = page.date %}
+                {% include posts/author.html %}
                 <h1 class="h1 h1--white">
                     {% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}
                 </h1>
@@ -13,18 +16,14 @@ layout: page
     </div>
 </aside><!-- .hero -->
 <div class="container padding-top-40 padding-bottom-50" data-nav-waypoint>
-    <article role="article">
-        <div>{{ content }}</div>
-        <div>
-            {% assign author = site.authors[page.author] %}
+    <article role="article" class="posts">
+        {% assign categories = page.categories %}
+        {% include posts/categories.html %}
+        <div class="padding-bottom-40 post">{{ content }}</div>
+        <div class="copy-block margin-top-40 signature">
             <div>
-                {{ author.name }}
+                <span class="author">{{ author.name }}{% if author.byline %},</span> <span class="byline">{{ author.byline }}{% endif %}</span>
             </div>
-            {% if author.byline %}
-            <div>
-                {{ author.byline }}
-            </div>
-            {% endif %}
             {% if author.github %}
             <div>
                 <a href="https://github.com/{{ author.github }}">GitHub</a>
@@ -39,19 +38,6 @@ layout: page
             <div>
                 <a href="{{ author.site }}">Site</a>
             </div>
-            {% endif %}
-        </div>
-        <div>
-            {% for category in page.categories %}
-                <a href="{{ root_url }}/blog/categories/{{ category | downcase }}">{{ category }}</a>
-            {% endfor %}
-        </div>
-        <div>
-            {% if page.previous.url %}
-            <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; {{page.previous.title}}</a>
-            {% endif %}
-            {% if page.next.url %}
-            <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">{{page.next.title}} &raquo;</a>
             {% endif %}
         </div>
     </article>
