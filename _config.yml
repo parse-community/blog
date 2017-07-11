@@ -50,9 +50,9 @@ exclude: [ Gemfile, Gemfile.lock, README.md, .gitignore, CNAME ]
 
 # Include you as an author here.
 authors:
-  davimacedo:
-    name: Davi Macedo
-    byline: Co-founder at Back4App
-    github: davimacedo
-    twitter: adavimacedo
-    site: https://www.back4app.com
+  flovilmart:
+    name: Florent Vilmart
+    byline: Core Contributor on Parse
+    github: flovilmart
+    twitter: flovilmart
+    site: http://parseplatform.org/

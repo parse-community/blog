@@ -28,12 +28,12 @@ Send your contribution via PR. Once it is merged, it will be automatically publi
 Authors are key-value stored, so you will need to give yourself a key inside [_config.yml](_config.yml) - for example:
 
 ```yaml
-  davimacedo:
-    name: Davi Macedo
-    byline: Co-founder at Back4App
-    github: davimacedo
-    twitter: adavimacedo
-    site: https://www.back4app.com
+  flovilmart:
+    name: Florent Vilmart
+    byline: Core Contributor on Parse
+    github: flovilmart
+    twitter: flovilmart
+    site: http://parseplatform.org/
 ```
 
 Everything but name is optional.
@@ -47,7 +47,7 @@ layout: post
 title: Welcome to the new Parse Blog
 date: 2017-07-06 13:08 -0700
 comments: true
-author: davimacedo
+author: flovilmart
 categories: [Announcements, Learn, Events, Customers, Videos]
 ```
 
