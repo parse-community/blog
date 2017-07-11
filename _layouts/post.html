@@ -43,7 +43,7 @@ layout: page
         </div>
         <div>
             {% for category in page.categories %}
-                {{ category }}&nbsp
+                <a href="{{ root_url }}/blog/categories/{{ category | downcase }}">{{ category }}</a>
             {% endfor %}
         </div>
         <div>
