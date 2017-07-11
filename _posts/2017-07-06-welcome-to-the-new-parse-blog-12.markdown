@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to the new Parse Blog 12
-date: 2017-07-06 13:08 -0700
+date: 2017-07-06 13:22 -0700
 comments: true
 author: Davi Macedo
 github-url: https://www.github.com/davimacedo

@@ -20,12 +20,20 @@ keywords: backend, mobile, development, server, code
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://blog.parseplatform.org/ # the base hostname & protocol for your site, e.g. http://example.com
 
+# Gems
+gems:
+  - jekyll-paginate-v2
+
 # Build settings
 markdown: kramdown
 sass:
   sass_dir: css
-paginate: 10
-paginate_path: "/blog/:num/"
+pagination:
+   enabled: true
+   per_page: 10
+   permalink: /blog/:num/
+   sort_field: 'date'
+   sort_reverse: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

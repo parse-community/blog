@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to the new Parse Blog
-date: 2017-07-06 13:08 -0700
+date: 2017-07-06 13:30 -0700
 comments: true
 author: davimacedo
 categories: [Announcements, Learn, Events, Customers, Videos]

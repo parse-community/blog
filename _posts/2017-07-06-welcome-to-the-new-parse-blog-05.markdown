@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Welcome to the new Parse Blog 05
-date: 2017-07-06 13:08 -0700
+date: 2017-07-06 13:15 -0700
 comments: true
 author: Davi Macedo
 github-url: https://www.github.com/davimacedo
 twitter-url: http://twitter.com/adavimacedo
 blog-url: https://blog.back4app.com
-categories: [Announcements, Learn, Events, Customers, Videos]
+categories: [Announcements]
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
