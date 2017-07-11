@@ -24,21 +24,17 @@ layout: page
             <div>
                 <span class="author">{{ author.name }}{% if author.byline %},</span> <span class="byline">{{ author.byline }}{% endif %}</span>
             </div>
-            {% if author.github %}
-            <div>
-                <a href="https://github.com/{{ author.github }}">GitHub</a>
+            <div class="margin-top-20">
+                {% if author.github %}
+                <span class="margin-left-10 margin-right-10"><a href="https://github.com/{{ author.github }}">GitHub</a></span>
+                {% endif %}
+                {% if author.twitter %}
+                <span class="margin-left-10 margin-right-10"><a href="https://twitter.com/{{ author.twitter }}">@{{author.twitter}}</a></span>
+                {% endif %}
+                {% if author.site %}
+                <span class="margin-left-10 margin-right-10"><a href="{{ author.site }}">Site</a></span>
+                {% endif %}
             </div>
-            {% endif %}
-            {% if author.twitter %}
-            <div>
-                <a href="https://twitter.com/{{ author.twitter }}">@{{author.twitter}}</a>
-            </div>
-            {% endif %}
-            {% if author.site %}
-            <div>
-                <a href="{{ author.site }}">Site</a>
-            </div>
-            {% endif %}
         </div>
     </article>
 </div>
