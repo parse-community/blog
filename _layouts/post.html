@@ -1,0 +1,58 @@
+---
+layout: page
+---
+<aside class="hero hero--docs-landing">
+    <div class="grid-container">
+        <div class="col--9">
+            <div class="hero--docs-landing__content">
+                <h1 class="h1 h1--white">
+                    {% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}
+                </h1>
+            </div>
+        </div>
+    </div>
+</aside><!-- .hero -->
+<div class="container padding-top-40 padding-bottom-50" data-nav-waypoint>
+    <article role="article">
+        <div>{{ content }}</div>
+        <div>
+            {% assign author = site.authors[page.author] %}
+            <div>
+                {{ author.name }}
+            </div>
+            {% if author.byline %}
+            <div>
+                {{ author.byline }}
+            </div>
+            {% endif %}
+            {% if author.github %}
+            <div>
+                <a href="https://github.com/{{ author.github }}">GitHub</a>
+            </div>
+            {% endif %}
+            {% if author.twitter %}
+            <div>
+                <a href="https://twitter.com/{{ author.twitter }}">@{{author.twitter}}</a>
+            </div>
+            {% endif %}
+            {% if author.site %}
+            <div>
+                <a href="{{ author.site }}">Site</a>
+            </div>
+            {% endif %}
+        </div>
+        <div>
+            {% for category in page.categories %}
+                {{ category }}&nbsp
+            {% endfor %}
+        </div>
+        <div>
+            {% if page.previous.url %}
+            <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; {{page.previous.title}}</a>
+            {% endif %}
+            {% if page.next.url %}
+            <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">{{page.next.title}} &raquo;</a>
+            {% endif %}
+        </div>
+    </article>
+</div>
