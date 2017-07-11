@@ -3,7 +3,7 @@ layout: post
 title: Welcome to the new Parse Blog 01
 date: 2017-07-06 13:11 -0700
 comments: true
-author: Davi Macedo
+author: davimacedo
 github-url: https://www.github.com/davimacedo
 twitter-url: http://twitter.com/adavimacedo
 blog-url: https://blog.back4app.com
