@@ -89,3 +89,9 @@ $svg-plus: "{{ '/assets/svgs/plus.svg' | prepend: site.baseurl }}";
 
 @import "lib/marketing/globals/helpers";
 @import "lib/multisite/wysiwyg";
+
+// ============================================================================
+//   Blog specifics
+// ============================================================================
+
+@import "lib/blog/main";
