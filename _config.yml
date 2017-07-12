@@ -49,7 +49,7 @@ pagination:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-exclude: [ Gemfile, Gemfile.lock, README.md, .gitignore, CNAME ]
+exclude: [ Gemfile, Gemfile.lock, README.md, .gitignore ]
 
 # Include you as an author here.
 authors:
