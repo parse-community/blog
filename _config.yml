@@ -24,6 +24,9 @@ url: http://blog.parseplatform.org/ # the base hostname & protocol for your site
 gems:
   - jekyll-paginate-v2
 
+whitelist:
+  - jekyll-paginate-v2
+
 # Build settings
 markdown: kramdown
 sass:
