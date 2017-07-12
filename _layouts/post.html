@@ -19,6 +19,7 @@ layout: page
     <article role="article" class="posts">
         {% assign categories = page.categories %}
         {% include posts/categories.html %}
+        {% include posts/wp-compat.html %}
         <div class="padding-bottom-40 post">{{ content }}</div>
         <div class="copy-block margin-top-40 signature">
             <div>

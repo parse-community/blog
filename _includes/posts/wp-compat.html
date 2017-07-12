@@ -1,0 +1,8 @@
+<div class="padding-bottom-20 padding-top-20">
+  {% if page.post_format contains 'feat-video' %}
+  <iframe width="440" height="240" src="{{ page.feature_video }}" frameborder="0" allowfullscreen=""></iframe>
+  {% endif %}
+  {% if page.post_format contains 'feat-image' %}
+  <img src="/assets/{{ page.image }}"></iframe>
+  {% endif %}
+</div>
