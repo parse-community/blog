@@ -1,0 +1,14 @@
+AddType text/plain .pl .cgi .php
+
+<IfVersion >= 2.4>
+ <FilesMatch "\.php$">
+  Require all denied
+ </FilesMatch>
+</IfVersion>
+
+<IfVersion < 2.4>
+ <FilesMatch "\.php$">
+    Order Allow,Deny
+    Deny from all
+ </FilesMatch>
+</IfVersion>
