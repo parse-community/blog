@@ -1,4 +1,6 @@
 language: ruby
+branches:
+- gh-pages
 rvm:
 - 2.1
 script: "bundle exec jekyll build"
