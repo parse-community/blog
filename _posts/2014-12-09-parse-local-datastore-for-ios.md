@@ -2,7 +2,7 @@
 id: 2646
 title: Parse Local Datastore for iOS
 date: 2014-12-09T15:51:44+00:00
-author: GrantlandChew
+author: grantlandchew
 layout: post
 guid: http://blog.parse.com/?p=2646
 permalink: /learn/parse-local-datastore-for-ios/

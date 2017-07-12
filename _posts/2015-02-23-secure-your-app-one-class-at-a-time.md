@@ -2,7 +2,7 @@
 id: 2689
 title: Secure Your App, One Class at a Time
 date: 2015-02-23T21:29:17+00:00
-author: JamieKarraker
+author: jamiekarraker
 layout: post
 guid: http://blog.parse.com/?p=2689
 permalink: /learn/secure-your-app-one-class-at-a-time/

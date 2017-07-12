@@ -2,7 +2,7 @@
 id: 2289
 title: 'Parse Pricing: Now Cheaper and Simpler!'
 date: 2014-04-30T10:25:58+00:00
-author: IlyaSukhar
+author: ilyasukhar
 layout: post
 guid: http://blog.parse.com/?p=2289
 permalink: /announcements/parse-pricing-now-cheaper-and-simpler/

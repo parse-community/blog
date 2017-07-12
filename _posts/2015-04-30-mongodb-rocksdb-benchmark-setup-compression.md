@@ -2,7 +2,7 @@
 id: 3478
 title: 'MongoDB + RocksDB: Benchmark Setup &amp; Compression'
 date: 2015-04-30T10:00:31+00:00
-author: MikeKania
+author: mikekania
 layout: post
 guid: http://blog.parse.com/?p=3478
 permalink: /learn/engineering/mongodb-rocksdb-benchmark-setup-compression/

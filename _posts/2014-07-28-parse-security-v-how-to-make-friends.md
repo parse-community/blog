@@ -2,7 +2,7 @@
 id: 2415
 title: 'Parse Security V - How to Make Friends'
 date: 2014-07-28T17:28:54+00:00
-author: BryanKlimt
+author: bryanklimt
 layout: post
 guid: http://blog.parse.com/?p=2415
 permalink: /learn/engineering/parse-security-v-how-to-make-friends/

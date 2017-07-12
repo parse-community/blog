@@ -2,7 +2,7 @@
 id: 2662
 title: Using Parse to Power Up Your Framer Prototypes (Part I)
 date: 2014-12-18T21:48:08+00:00
-author: George KedenburgIII
+author: georgekedenburgiii
 layout: post
 guid: http://blog.parse.com/?p=2662
 permalink: /learn/using-parse-to-power-up-your-framer-prototypes-part-i/

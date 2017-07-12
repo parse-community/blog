@@ -2,7 +2,7 @@
 id: 3517
 title: Our Docs Are Now Open Sourced
 date: 2015-05-13T12:49:47+00:00
-author: MattieuGamache-Asselin
+author: mattieugamacheasselin
 layout: post
 guid: http://blog.parse.com/?p=3517
 permalink: /announcements/our-docs-are-now-open-sourced/

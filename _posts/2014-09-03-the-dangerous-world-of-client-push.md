@@ -2,7 +2,7 @@
 id: 2494
 title: The Dangerous World of Client Push
 date: 2014-09-03T19:08:02+00:00
-author: JamieKarraker
+author: jamiekarraker
 layout: post
 guid: http://blog.parse.com/?p=2494
 permalink: /learn/engineering/the-dangerous-world-of-client-push/

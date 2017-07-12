@@ -2,7 +2,7 @@
 id: 3392
 title: Chart New Territory with Parse Explorer
 date: 2015-03-25T10:50:14+00:00
-author: ChristineYen
+author: christineyen
 layout: post
 guid: http://blog.parse.com/?p=3392
 permalink: /learn/chart-new-territory-with-parse-explorer/

@@ -2,7 +2,7 @@
 id: 2232
 title: Smart Indexing at Parse
 date: 2014-04-01T10:30:24+00:00
-author: CharityMajors
+author: charitymajors
 layout: post
 guid: http://blog.parse.com/?p=2232
 permalink: /learn/engineering/smart-indexing-at-parse/

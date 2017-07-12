@@ -2,7 +2,7 @@
 id: 3447
 title: F8 2015 — The Latest and Greatest from Parse
 date: 2015-03-25T12:00:41+00:00
-author: Parse
+author: parse
 layout: post
 guid: http://blog.parse.com/?p=3447
 permalink: /videos/f8-2015-the-latest-and-greatest-from-parse/

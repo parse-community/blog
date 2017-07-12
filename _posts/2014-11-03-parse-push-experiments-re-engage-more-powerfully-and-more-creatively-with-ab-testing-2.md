@@ -2,7 +2,7 @@
 id: 2588
 title: 'Parse Push Experiments: Re-engage more powerfully and more creatively with A/B testing'
 date: 2014-11-03T18:39:08+00:00
-author: StanleyWang
+author: stanleywang
 layout: post
 guid: http://blog.parse.com/?p=2588
 permalink: /learn/parse-push-experiments-re-engage-more-powerfully-and-more-creatively-with-ab-testing-2/

@@ -2,7 +2,7 @@
 id: 3388
 title: Announcing New Enhanced Sessions
 date: 2015-03-25T10:50:03+00:00
-author: StanleyWang
+author: stanleywang
 layout: post
 guid: http://blog.parse.com/?p=3388
 permalink: /announcements/announcing-new-enhanced-sessions/

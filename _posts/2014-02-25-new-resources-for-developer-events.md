@@ -2,7 +2,7 @@
 id: 2118
 title: New Resources for Developer Events
 date: 2014-02-25T19:28:58+00:00
-author: BearDouglas
+author: beardouglas
 layout: post
 guid: http://blog.parse.com/?p=2118
 permalink: /events/new-resources-for-developer-events/

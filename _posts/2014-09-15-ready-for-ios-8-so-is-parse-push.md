@@ -2,7 +2,7 @@
 id: 2523
 title: Ready for iOS 8? So is Parse Push
 date: 2014-09-15T21:17:16+00:00
-author: ThomasBouldin
+author: thomasbouldin
 layout: post
 guid: http://blog.parse.com/?p=2523
 permalink: /learn/ready-for-ios-8-so-is-parse-push/

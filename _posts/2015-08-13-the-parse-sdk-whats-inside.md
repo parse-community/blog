@@ -2,7 +2,7 @@
 id: 3675
 title: 'The Parse SDK: What’s inside?'
 date: 2015-08-13T10:58:35+00:00
-author: GrantlandChew
+author: grantlandchew
 layout: post
 guid: http://blog.parse.com/?p=3675
 permalink: /learn/the-parse-sdk-whats-inside/

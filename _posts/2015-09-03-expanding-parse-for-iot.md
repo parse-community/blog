@@ -2,7 +2,7 @@
 id: 3768
 title: Expanding Parse for IoT
 date: 2015-09-03T11:02:39+00:00
-author: DamianKowalewski
+author: damiankowalewski
 layout: post
 guid: http://blog.parse.com/?p=3768
 permalink: /announcements/expanding-parse-for-iot/

@@ -2,7 +2,7 @@
 id: 3583
 title: Releasing the Schema API
 date: 2015-05-28T13:37:11+00:00
-author: AbhishekKona
+author: abhishekkona
 layout: post
 guid: http://blog.parse.com/?p=3583
 permalink: /announcements/releasing-the-schema-api/

@@ -2,7 +2,7 @@
 id: 2408
 title: 'Parse Security I - Are you the Key Master?'
 date: 2014-06-30T20:54:56+00:00
-author: BryanKlimt
+author: bryanklimt
 layout: post
 guid: http://blog.parse.com/?p=2408
 permalink: /learn/engineering/parse-security-i-are-you-the-key-master/

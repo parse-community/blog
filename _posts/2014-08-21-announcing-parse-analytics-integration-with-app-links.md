@@ -2,7 +2,7 @@
 id: 2486
 title: Announcing Parse Analytics Integration with App Links
 date: 2014-08-21T17:00:22+00:00
-author: ChristineAbernathy
+author: christineabernathy
 layout: post
 guid: http://blog.parse.com/?p=2486
 permalink: /announcements/announcing-parse-analytics-integration-with-app-links/

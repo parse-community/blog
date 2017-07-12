@@ -2,7 +2,7 @@
 id: 2120
 title: Parse Command Line Gets a Power Up
 date: 2014-04-09T17:06:58+00:00
-author: ListiarsoWastuargo
+author: listiarsowastuargo
 layout: post
 guid: http://blog.parse.com/?p=2120
 permalink: /announcements/parse-command-line-gets-a-power-up/

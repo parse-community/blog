@@ -2,7 +2,7 @@
 id: 3444
 title: F8 2015 — Running at Scale
 date: 2015-03-27T12:00:07+00:00
-author: Parse
+author: parse
 layout: post
 guid: http://blog.parse.com/?p=3444
 permalink: /videos/f8-2015-running-at-scale/

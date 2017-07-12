@@ -2,7 +2,7 @@
 id: 2073
 title: Static File Requests, All by Themselves
 date: 2014-02-06T18:31:20+00:00
-author: ChristineYen
+author: christineyen
 layout: post
 guid: http://blog.parse.com/?p=2073
 permalink: /announcements/static-file-requests-all-by-themselves/

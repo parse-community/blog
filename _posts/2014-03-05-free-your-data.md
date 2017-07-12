@@ -2,7 +2,7 @@
 id: 2151
 title: Free Your Data
 date: 2014-03-05T10:21:38+00:00
-author: MattieuGamache-Asselin
+author: mattieugamacheasselin
 layout: post
 guid: http://blog.parse.com/?p=2151
 permalink: /announcements/free-your-data/

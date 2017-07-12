@@ -2,7 +2,7 @@
 id: 3504
 title: 'MongoDB + RocksDB: Writing so Fast it Makes Your Head Spin'
 date: 2015-05-07T09:35:00+00:00
-author: MikeKania
+author: mikekania
 layout: post
 guid: http://blog.parse.com/?p=3504
 permalink: /learn/engineering/mongodb-rocksdb-writing-so-fast-it-makes-your-head-spin/

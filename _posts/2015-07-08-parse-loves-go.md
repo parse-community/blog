@@ -2,7 +2,7 @@
 id: 3636
 title: Parse Loves Go
 date: 2015-07-08T08:25:57+00:00
-author: AbhishekKona
+author: abhishekkona
 layout: post
 guid: http://blog.parse.com/?p=3636
 permalink: /learn/parse-loves-go/

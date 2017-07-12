@@ -2,7 +2,7 @@
 id: 3601
 title: Create Parse Apps with the new Apps API
 date: 2015-06-09T15:34:19+00:00
-author: JamieKarraker
+author: jamiekarraker
 layout: post
 guid: http://blog.parse.com/?p=3601
 permalink: /announcements/create-parse-apps-with-the-new-apps-api/

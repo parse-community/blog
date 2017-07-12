@@ -2,7 +2,7 @@
 id: 3443
 title: F8 2015 — Getting Started with Parse
 date: 2015-03-27T12:00:02+00:00
-author: Parse
+author: parse
 layout: post
 guid: http://blog.parse.com/?p=3443
 permalink: /videos/f8-2015-getting-started-with-parse/

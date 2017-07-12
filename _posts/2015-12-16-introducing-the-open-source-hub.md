@@ -2,7 +2,7 @@
 id: 3896
 title: Introducing the Open Source Hub
 date: 2015-12-16T13:15:24+00:00
-author: jakelakeley
+author: jakeblakeley
 layout: post
 guid: http://blog.parse.com/?p=3896
 permalink: /learn/introducing-the-open-source-hub/
