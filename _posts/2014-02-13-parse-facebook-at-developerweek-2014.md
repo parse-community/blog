@@ -2,7 +2,7 @@
 id: 2086
 title: Parse + Facebook at DeveloperWeek 2014
 date: 2014-02-13T20:27:51+00:00
-author: Courtney Witmer
+author: courtneywitmer
 layout: post
 guid: http://blog.parse.com/?p=2086
 permalink: /events/parse-facebook-at-developerweek-2014/

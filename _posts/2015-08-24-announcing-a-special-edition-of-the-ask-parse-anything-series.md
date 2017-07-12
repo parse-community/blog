@@ -2,7 +2,7 @@
 id: 3734
 title: Announcing a Special Edition of the Ask Parse Anything Series
 date: 2015-08-24T15:59:39+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=3734
 permalink: /learn/announcing-a-special-edition-of-the-ask-parse-anything-series/

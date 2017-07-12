@@ -2,7 +2,7 @@
 id: 3970
 title: Parse Server Goes Realtime with Live Queries
 date: 2016-03-21T11:35:05+00:00
-author: Mengyan Wang
+author: mengyanwang
 layout: post
 guid: http://blog.parse.com/?p=3970
 permalink: /announcements/parse-server-goes-realtime-with-live-queries/

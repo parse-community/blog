@@ -2,7 +2,7 @@
 id: 3911
 title: Introducing Parse Server and the Database Migration Tool
 date: 2016-01-28T13:05:34+00:00
-author: Fosco Marotto
+author: foscomarotto
 layout: post
 guid: http://blog.parse.com/?p=3911
 permalink: /announcements/introducing-parse-server-and-the-database-migration-tool/

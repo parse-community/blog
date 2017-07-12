@@ -2,7 +2,7 @@
 id: 2407
 title: 'Parse Security VI - Quiz Time'
 date: 2014-08-04T20:41:36+00:00
-author: Bryan Klimt
+author: BryanKlimt
 layout: post
 guid: http://blog.parse.com/?p=2407
 permalink: /learn/engineering/parse-security-vi-quiz-time/

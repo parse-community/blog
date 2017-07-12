@@ -2,7 +2,7 @@
 id: 3892
 title: Apple TV and Apple Watch SDKs are Here
 date: 2015-12-14T10:00:41+00:00
-author: Nikita Lutsenko
+author: nikitalutsenko
 layout: post
 guid: http://blog.parse.com/?p=3892
 permalink: /announcements/apple-tv-and-apple-watch-sdks-are-here/

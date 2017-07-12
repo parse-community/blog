@@ -2,7 +2,7 @@
 id: 3486
 title: Introducing Local Data Sharing for Apple Watch and App Extensions
 date: 2015-04-27T13:01:29+00:00
-author: Nikita Lutsenko
+author: nikitalutsenko
 layout: post
 guid: http://blog.parse.com/?p=3486
 permalink: /announcements/introducing-local-data-sharing-for-apple-watch-and-app-extensions/

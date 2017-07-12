@@ -2,7 +2,7 @@
 id: 2227
 title: Production vs Development Apps
 date: 2014-03-31T10:00:04+00:00
-author: Christophe Tauziet
+author: ChristopheTauziet
 layout: post
 guid: http://blog.parse.com/?p=2227
 permalink: /announcements/production-vs-development-apps/

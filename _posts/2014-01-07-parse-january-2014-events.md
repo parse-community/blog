@@ -2,7 +2,7 @@
 id: 2009
 title: Parse January 2014 Events
 date: 2014-01-07T19:21:09+00:00
-author: Courtney Witmer
+author: courtneywitmer
 layout: post
 guid: http://blog.parse.com/?p=2009
 permalink: /events/parse-january-2014-events/

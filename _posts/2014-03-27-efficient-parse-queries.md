@@ -2,7 +2,7 @@
 id: 2194
 title: Writing Efficient Parse Queries
 date: 2014-03-27T10:56:41+00:00
-author: Abhishek Kona
+author: AbhishekKona
 layout: post
 guid: http://blog.parse.com/?p=2194
 permalink: /learn/engineering/efficient-parse-queries/

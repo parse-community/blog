@@ -2,7 +2,7 @@
 id: 4001
 title: Our Docs Are Now Hosted on GitHub
 date: 2016-08-30T09:00:16+00:00
-author: Héctor Ramos
+author: hectorramos
 layout: post
 guid: http://blog.parse.com/?p=4001
 permalink: /announcements/our-docs-are-now-hosted-on-github/

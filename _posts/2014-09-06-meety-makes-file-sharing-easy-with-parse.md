@@ -2,7 +2,7 @@
 id: 2482
 title: Meety Makes File Sharing Easy With Parse
 date: 2014-09-06T15:33:27+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=2482
 permalink: /customers/meety-makes-file-sharing-easy-with-parse/

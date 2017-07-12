@@ -2,7 +2,7 @@
 id: 2353
 title: HarperCollins Pages Parse to Tackle Mobile
 date: 2014-06-13T19:34:38+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=2353
 permalink: /customers/harpercollins-pages-parse-to-tackle-mobile/

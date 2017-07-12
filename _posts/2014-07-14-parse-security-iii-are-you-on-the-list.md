@@ -2,7 +2,7 @@
 id: 2413
 title: 'Parse Security III - Are You On the List?'
 date: 2014-07-14T17:44:25+00:00
-author: Bryan Klimt
+author: BryanKlimt
 layout: post
 guid: http://blog.parse.com/?p=2413
 permalink: /learn/engineering/parse-security-iii-are-you-on-the-list/

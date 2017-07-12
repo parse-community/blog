@@ -2,7 +2,7 @@
 id: 2414
 title: 'Parse Security IV - Ahead in the Cloud'
 date: 2014-07-21T16:42:28+00:00
-author: Bryan Klimt
+author: BryanKlimt
 layout: post
 guid: http://blog.parse.com/?p=2414
 permalink: /learn/engineering/parse-security-iv-ahead-in-the-cloud/

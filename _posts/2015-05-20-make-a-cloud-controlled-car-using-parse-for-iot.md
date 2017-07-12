@@ -2,7 +2,7 @@
 id: 3558
 title: Make a Cloud-Controlled Car using Parse for IoT
 date: 2015-05-20T12:19:58+00:00
-author: Ronald Yang
+author: RonaldYang
 layout: post
 guid: http://blog.parse.com/?p=3558
 permalink: /learn/make-a-cloud-controlled-car-using-parse-for-iot/

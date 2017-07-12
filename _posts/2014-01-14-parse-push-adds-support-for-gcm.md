@@ -2,7 +2,7 @@
 id: 2016
 title: Parse Push Adds Support for GCM
 date: 2014-01-14T18:34:39+00:00
-author: Ben Nham
+author: BenNham
 layout: post
 guid: http://blog.parse.com/?p=2016
 permalink: /learn/engineering/parse-push-adds-support-for-gcm/

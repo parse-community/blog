@@ -2,7 +2,7 @@
 id: 2264
 title: RedTape Design Builds Alicia Keys Vault with Parse
 date: 2014-04-25T19:48:01+00:00
-author: Courtney Witmer
+author: courtneywitmer
 layout: post
 guid: http://blog.parse.com/?p=2264
 permalink: /non-technical/redtape-design-builds-alicia-keys-vault-with-parse/

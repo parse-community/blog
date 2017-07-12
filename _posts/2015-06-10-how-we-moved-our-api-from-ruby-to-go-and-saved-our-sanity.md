@@ -2,7 +2,7 @@
 id: 3599
 title: How We Moved Our API From Ruby to Go and Saved Our Sanity
 date: 2015-06-10T09:05:19+00:00
-author: Charity Majors
+author: CharityMajors
 layout: post
 guid: http://blog.parse.com/?p=3599
 permalink: /learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/

@@ -2,7 +2,7 @@
 id: 2489
 title: Open Sourcing the f8 Conference Apps
 date: 2014-08-28T18:21:40+00:00
-author: Christine Abernathy
+author: ChristineAbernathy
 layout: post
 guid: http://blog.parse.com/?p=2489
 permalink: /announcements/open-sourcing-the-f8-conference-apps/

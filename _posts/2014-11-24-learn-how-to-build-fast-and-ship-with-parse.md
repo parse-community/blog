@@ -2,7 +2,7 @@
 id: 2627
 title: Learn How to Build Fast and Ship with Parse
 date: 2014-11-24T19:40:04+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=2627
 permalink: /customers/learn-how-to-build-fast-and-ship-with-parse/

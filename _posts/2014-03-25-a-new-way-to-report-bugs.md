@@ -2,7 +2,7 @@
 id: 2146
 title: A New Way to Report Bugs
 date: 2014-03-25T17:27:19+00:00
-author: Héctor Ramos
+author: hectorramos
 layout: post
 guid: http://blog.parse.com/?p=2146
 permalink: /announcements/a-new-way-to-report-bugs/

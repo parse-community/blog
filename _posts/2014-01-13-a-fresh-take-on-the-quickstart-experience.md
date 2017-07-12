@@ -2,7 +2,7 @@
 id: 2014
 title: A Fresh Take on the Quickstart Experience
 date: 2014-01-13T20:10:14+00:00
-author: Andrew Imm
+author: andrewimm
 layout: post
 guid: http://blog.parse.com/?p=2014
 permalink: /announcements/a-fresh-take-on-the-quickstart-experience/

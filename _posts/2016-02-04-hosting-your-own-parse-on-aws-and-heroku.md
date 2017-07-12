@@ -2,7 +2,7 @@
 id: 3919
 title: Hosting Your Own Parse on AWS and Heroku
 date: 2016-02-04T14:00:55+00:00
-author: James Yu
+author: jamesyu
 layout: post
 guid: http://blog.parse.com/?p=3919
 permalink: /announcements/hosting-your-own-parse-on-aws-and-heroku/

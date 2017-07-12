@@ -52,10 +52,10 @@ layout: page
                 {% assign content = post.content %}
                 {% if post.content contains '<!-- more -->' %}
                 {{ post.content | split:'<!-- more -->' | first }}
-                <div><a href="{{ post.url }}" class="btn btn--outline">Read more</a></div>
                 {% else %}
-                {{ post.content }}
+                {{ post.excerpt }}
                 {% endif %}
+                <div><a href="{{ post.url }}" class="btn btn--outline">Read more</a></div>
             </div>
         </article>
         {% endfor %}

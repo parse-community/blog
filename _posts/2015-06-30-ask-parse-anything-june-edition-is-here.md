@@ -2,7 +2,7 @@
 id: 3634
 title: 'Ask Parse Anything - June Edition Is Here!'
 date: 2015-06-30T11:29:33+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=3634
 permalink: /videos/ask-parse-anything-june-edition-is-here/

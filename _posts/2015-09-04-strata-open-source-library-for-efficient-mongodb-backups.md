@@ -2,7 +2,7 @@
 id: 3779
 title: 'Strata: Open Source Library for Efficient MongoDB Backups'
 date: 2015-09-04T08:00:15+00:00
-author: Travis Redman
+author: travisredman
 layout: post
 guid: http://blog.parse.com/?p=3779
 permalink: /learn/engineering/strata-open-source-library-for-efficient-mongodb-backups/

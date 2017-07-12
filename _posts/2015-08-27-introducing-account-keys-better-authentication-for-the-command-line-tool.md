@@ -2,7 +2,7 @@
 id: 3755
 title: 'Introducing Account Keys: Better Authentication for the Command Line Tool'
 date: 2015-08-27T10:54:25+00:00
-author: Pavan Athivarapu
+author: pavanathivarapu
 layout: post
 guid: http://blog.parse.com/?p=3755
 permalink: /announcements/introducing-account-keys-better-authentication-for-the-command-line-tool/

@@ -2,7 +2,7 @@
 id: 2404
 title: FOX International Channels Scores Another Goal with Parse
 date: 2014-06-27T19:32:04+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=2404
 permalink: /customers/fox-international-channels-scores-another-goal-with-parse/

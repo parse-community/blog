@@ -2,7 +2,7 @@
 id: 2087
 title: 'Dayre: Long-Form Blogging Simplified'
 date: 2014-02-14T20:02:52+00:00
-author: Courtney Witmer
+author: courtneywitmer
 layout: post
 guid: http://blog.parse.com/?p=2087
 permalink: /non-technical/dayre-long-form-blogging-simplified/

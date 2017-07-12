@@ -2,7 +2,7 @@
 id: 2410
 title: 'Parse Security II - Class Hysteria!'
 date: 2014-07-07T16:28:18+00:00
-author: Bryan Klimt
+author: BryanKlimt
 layout: post
 guid: http://blog.parse.com/?p=2410
 permalink: /learn/engineering/parse-security-ii-class-hysteria/

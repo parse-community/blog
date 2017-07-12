@@ -2,7 +2,7 @@
 id: 3640
 title: How I Built Linkmoji in an Hour (and made over 100k emoji links)
 date: 2015-07-14T08:58:21+00:00
-author: Eric Nakagawa
+author: ericnakagawa
 layout: post
 guid: http://blog.parse.com/?p=3640
 permalink: /learn/how-i-built-linkmoji-in-an-hour-and-made-over-100k-emoji-links/

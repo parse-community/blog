@@ -2,7 +2,7 @@
 id: 3935
 title: Hosting Files on Parse Server
 date: 2016-02-19T13:31:52+00:00
-author: Patrick Pelletier
+author: patrickpelletier
 layout: post
 guid: http://blog.parse.com/?p=3935
 permalink: /announcements/hosting-files-on-parse-server/

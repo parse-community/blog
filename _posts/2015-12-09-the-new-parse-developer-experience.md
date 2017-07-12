@@ -2,7 +2,7 @@
 id: 3886
 title: The New Parse Developer Experience
 date: 2015-12-09T13:16:44+00:00
-author: Andrew Imm
+author: andrewimm
 layout: post
 guid: http://blog.parse.com/?p=3886
 permalink: /announcements/the-new-parse-developer-experience/

@@ -2,7 +2,7 @@
 id: 2011
 title: 'Parse Developer Day Video Series: Relationships in Parse'
 date: 2014-01-08T10:00:48+00:00
-author: Courtney Witmer
+author: courtneywitmer
 layout: post
 guid: http://blog.parse.com/?p=2011
 permalink: /events/parse-developer-day-video-series-relationships-in-parse/

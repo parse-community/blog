@@ -2,7 +2,7 @@
 id: 2444
 title: OKpanda Tackles Language Learning in Asia With Parse
 date: 2014-08-08T18:35:59+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=2444
 permalink: /customers/okpanda-tackles-language-learning-in-asia-with-parse/

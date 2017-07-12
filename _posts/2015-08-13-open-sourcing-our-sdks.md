@@ -2,7 +2,7 @@
 id: 3684
 title: Open Sourcing Our SDKs
 date: 2015-08-13T10:57:48+00:00
-author: Nikita Lutsenko
+author: nikitalutsenko
 layout: post
 guid: http://blog.parse.com/?p=3684
 permalink: /announcements/open-sourcing-our-sdks/

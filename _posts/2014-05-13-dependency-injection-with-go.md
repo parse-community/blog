@@ -2,7 +2,7 @@
 id: 2327
 title: Dependency Injection with Go
 date: 2014-05-13T12:00:45+00:00
-author: Naitik Shah
+author: NaitikShah
 layout: post
 guid: http://blog.parse.com/?p=2327
 permalink: /learn/engineering/dependency-injection-with-go/

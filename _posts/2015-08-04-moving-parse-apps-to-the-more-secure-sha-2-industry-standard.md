@@ -2,7 +2,7 @@
 id: 3659
 title: Moving Parse Apps to the More Secure SHA-2 Industry Standard
 date: 2015-08-04T12:09:47+00:00
-author: Stanley Wang
+author: StanleyWang
 layout: post
 guid: http://blog.parse.com/?p=3659
 permalink: /announcements/moving-parse-apps-to-the-more-secure-sha-2-industry-standard/

@@ -2,7 +2,7 @@
 id: 3405
 title: Nullability Annotations in the Parse iOS/OSX SDKs
 date: 2015-04-09T18:38:16+00:00
-author: Nikita Lutsenko
+author: nikitalutsenko
 layout: post
 guid: http://blog.parse.com/?p=3405
 permalink: /learn/nullability-annotations-in-the-parse-iososx-sdks/

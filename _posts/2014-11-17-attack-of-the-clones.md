@@ -2,7 +2,7 @@
 id: 2610
 title: Attack of the Clones
 date: 2014-11-17T22:03:36+00:00
-author: Mattieu Gamache-Asselin
+author: MattieuGamache-Asselin
 layout: post
 guid: http://blog.parse.com/?p=2610
 permalink: /learn/attack-of-the-clones/

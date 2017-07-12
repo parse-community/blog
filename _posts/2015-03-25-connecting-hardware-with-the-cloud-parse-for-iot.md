@@ -2,7 +2,7 @@
 id: 3394
 title: 'Connecting Hardware with the Cloud: Parse for IoT'
 date: 2015-03-25T10:51:44+00:00
-author: James Yu
+author: jamesyu
 layout: post
 guid: http://blog.parse.com/?p=3394
 permalink: /learn/connecting-hardware-with-the-cloud-parse-for-iot/

@@ -2,7 +2,7 @@
 id: 3401
 title: Introducing Parse Pigeon
 date: 2015-04-01T16:20:51+00:00
-author: George Kedenburg III
+author: George KedenburgIII
 layout: post
 guid: http://blog.parse.com/?p=3401
 permalink: /announcements/introducing-parse-pigeon/

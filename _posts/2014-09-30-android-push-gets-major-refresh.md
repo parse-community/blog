@@ -2,7 +2,7 @@
 id: 2540
 title: Android Push Gets Major Refresh
 date: 2014-09-30T18:25:31+00:00
-author: Thomas Bouldin
+author: ThomasBouldin
 layout: post
 guid: http://blog.parse.com/?p=2540
 permalink: /learn/android-push-gets-major-refresh/

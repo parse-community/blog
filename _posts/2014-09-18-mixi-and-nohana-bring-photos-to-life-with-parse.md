@@ -2,7 +2,7 @@
 id: 2470
 title: Mixi and Nohana Bring Photos to Life With Parse
 date: 2014-09-18T22:44:06+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=2470
 permalink: /customers/mixi-and-nohana-bring-photos-to-life-with-parse/

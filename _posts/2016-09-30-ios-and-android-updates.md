@@ -2,7 +2,7 @@
 id: 4005
 title: iOS and Android Updates
 date: 2016-09-30T16:00:32+00:00
-author: Eric Nakagawa
+author: ericnakagawa
 layout: post
 guid: http://blog.parse.com/?p=4005
 permalink: /announcements/ios-and-android-updates/
@@ -17,8 +17,6 @@ feature_image_style:
 categories:
   - Announcements
 ---
-# iOS and Android Updates
-
 New versions of iOS and Android OS are now widely available. Here are some suggestions to think about as you update your application.
 
 # iOS 10

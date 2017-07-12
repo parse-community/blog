@@ -2,7 +2,7 @@
 id: 3707
 title: 'Improving Push: Better Error Reporting, Localization, and Reusable Audiences'
 date: 2015-08-19T13:13:34+00:00
-author: Vítor Fernandes
+author: VítorFernandes
 layout: post
 guid: http://blog.parse.com/?p=3707
 permalink: /announcements/improving-push-better-error-reporting-localization-and-reusable-audiences/

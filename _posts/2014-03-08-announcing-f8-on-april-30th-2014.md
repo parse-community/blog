@@ -2,7 +2,7 @@
 id: 2164
 title: Announcing f8 on April 30th, 2014
 date: 2014-03-08T04:30:05+00:00
-author: Ashley Smith
+author: ashleysmith
 layout: post
 guid: http://blog.parse.com/?p=2164
 permalink: /events/announcing-f8-on-april-30th-2014/

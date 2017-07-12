@@ -2,7 +2,7 @@
 id: 3613
 title: Improving the Parse Command Line Tool
 date: 2015-06-17T08:41:03+00:00
-author: Pavan Athivarapu
+author: pavanathivarapu
 layout: post
 guid: http://blog.parse.com/?p=3613
 permalink: /announcements/improving-the-parse-command-line-tool/

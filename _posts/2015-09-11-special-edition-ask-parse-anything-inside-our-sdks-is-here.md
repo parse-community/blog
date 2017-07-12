@@ -2,7 +2,7 @@
 id: 3795
 title: 'Special Edition Ask Parse Anything: Inside Our SDKs is Here!'
 date: 2015-09-11T08:33:47+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=3795
 permalink: /videos/special-edition-ask-parse-anything-inside-our-sdks-is-here/

@@ -2,7 +2,7 @@
 id: 2139
 title: New Musx App from Savvy Apps Makes Music Sharing Simple
 date: 2014-02-28T10:00:34+00:00
-author: Courtney Witmer
+author: courtneywitmer
 layout: post
 guid: http://blog.parse.com/?p=2139
 permalink: /non-technical/new-musx-app-from-savvy-apps-makes-music-sharing-simple/

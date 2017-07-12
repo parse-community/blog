@@ -2,7 +2,7 @@
 id: 3656
 title: Open-Sourcing the Parse Command Line Tool
 date: 2015-08-05T09:23:42+00:00
-author: Pavan Athivarapu
+author: pavanathivarapu
 layout: post
 guid: http://blog.parse.com/?p=3656
 permalink: /announcements/open-sourcing-the-parse-command-line-tool/

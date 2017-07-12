@@ -2,7 +2,7 @@
 id: 2658
 title: Vevo Takes On the Mobile Stage with Parse Push
 date: 2014-12-12T23:02:44+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=2658
 permalink: /customers/vevo-takes-on-the-mobile-stage-with-parse-push/

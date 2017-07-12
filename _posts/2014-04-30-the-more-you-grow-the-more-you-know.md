@@ -2,7 +2,7 @@
 id: 2284
 title: The More You Grow, the More You Know
 date: 2014-04-30T10:35:32+00:00
-author: Christine Yen
+author: ChristineYen
 layout: post
 guid: http://blog.parse.com/?p=2284
 permalink: /announcements/the-more-you-grow-the-more-you-know/

@@ -2,7 +2,7 @@
 id: 3901
 title: 'Ask Parse Anything - December Edition Is Here!'
 date: 2015-12-18T08:55:10+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=3901
 permalink: /videos/ask-parse-anything-december-edition-is-here/

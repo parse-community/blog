@@ -2,7 +2,7 @@
 id: 3801
 title: 'Parse Debugging Tools: Identify Client-Side Issues Faster'
 date: 2015-09-15T12:51:51+00:00
-author: Mengyan Wang
+author: mengyanwang
 layout: post
 guid: http://blog.parse.com/?p=3801
 permalink: /announcements/parse-debugging-tools-identify-client-side-issues-faster/

@@ -2,7 +2,7 @@
 id: 3626
 title: Introducing Parse Push for OS X
 date: 2015-06-24T11:35:29+00:00
-author: Nikita Lutsenko
+author: nikitalutsenko
 excerpt: "We're excited to announce today that we're bringing Parse Push to OS X. Add push in a matter of minutes to your OS X app and take advantage of advanced features such as A/B testing, scheduling and audience segmentation."
 layout: post
 guid: http://blog.parse.com/?p=3626

@@ -2,7 +2,7 @@
 id: 2640
 title: Migrating from Urban Airship
 date: 2014-12-08T19:15:11+00:00
-author: Mattieu Gamache-Asselin
+author: MattieuGamache-Asselin
 layout: post
 guid: http://blog.parse.com/?p=2640
 permalink: /learn/migrating-from-urban-airship/

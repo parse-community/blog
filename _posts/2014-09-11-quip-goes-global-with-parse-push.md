@@ -2,7 +2,7 @@
 id: 2519
 title: Quip Goes Global With Parse Push
 date: 2014-09-11T18:41:37+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=2519
 permalink: /customers/quip-goes-global-with-parse-push/

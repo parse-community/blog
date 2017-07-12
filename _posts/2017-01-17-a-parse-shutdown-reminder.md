@@ -2,7 +2,7 @@
 id: 4014
 title: A Parse Shutdown Reminder
 date: 2017-01-17T11:00:38+00:00
-author: Kevin Lacker
+author: kevinlacker
 layout: post
 guid: http://blog.parse.com/?p=4014
 permalink: /announcements/a-parse-shutdown-reminder/

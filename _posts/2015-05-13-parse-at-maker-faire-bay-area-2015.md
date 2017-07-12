@@ -2,7 +2,7 @@
 id: 3516
 title: Parse at Maker Faire Bay Area 2015
 date: 2015-05-13T10:29:47+00:00
-author: Devin Cheevers
+author: DevinCheevers
 layout: post
 guid: http://blog.parse.com/?p=3516
 permalink: /events/parse-at-maker-faire-bay-area-2015/

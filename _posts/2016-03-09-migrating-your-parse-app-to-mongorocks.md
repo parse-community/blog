@@ -2,7 +2,7 @@
 id: 3959
 title: Migrating Your Parse App to MongoRocks
 date: 2016-03-09T11:10:04+00:00
-author: Travis Redman
+author: travisredman
 layout: post
 guid: http://blog.parse.com/?p=3959
 permalink: /learn/engineering/migrating-your-parse-app-to-mongorocks/

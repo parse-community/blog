@@ -2,7 +2,7 @@
 id: 2548
 title: Let the Browser Handle Your UI Logic for You
 date: 2014-11-10T18:41:22+00:00
-author: Andrew Imm
+author: andrewimm
 layout: post
 guid: http://blog.parse.com/?p=2548
 permalink: /learn/let-the-browser-handle-your-ui-logic-for-you/

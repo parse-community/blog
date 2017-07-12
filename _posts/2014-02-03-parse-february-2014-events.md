@@ -2,7 +2,7 @@
 id: 2069
 title: Parse February 2014 Events
 date: 2014-02-03T21:00:41+00:00
-author: Courtney Witmer
+author: courtneywitmer
 layout: post
 guid: http://blog.parse.com/?p=2069
 permalink: /events/parse-february-2014-events/

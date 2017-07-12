@@ -2,7 +2,7 @@
 id: 3923
 title: Parse Server Push Notifications
 date: 2016-02-11T10:50:34+00:00
-author: Mengyan Wang
+author: mengyanwang
 layout: post
 guid: http://blog.parse.com/?p=3923
 permalink: /announcements/parse-server-push-notifications/

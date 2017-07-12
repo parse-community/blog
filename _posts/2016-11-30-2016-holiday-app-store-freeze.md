@@ -2,7 +2,7 @@
 id: 4011
 title: 2016 Holiday App Store Freeze
 date: 2016-11-30T09:29:43+00:00
-author: Eric Nakagawa
+author: ericnakagawa
 layout: post
 guid: http://blog.parse.com/?p=4011
 permalink: /announcements/2016-holiday-app-store-freeze/

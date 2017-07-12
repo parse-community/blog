@@ -2,7 +2,7 @@
 id: 3453
 title: Parse at MongoDB World 2015
 date: 2015-04-30T15:38:49+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=3453
 permalink: /events/parse-at-mongodb-world-2015/

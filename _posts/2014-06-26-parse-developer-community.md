@@ -2,7 +2,7 @@
 id: 2393
 title: Parse Developer Community
 date: 2014-06-26T17:59:11+00:00
-author: Héctor Ramos
+author: hectorramos
 layout: post
 guid: http://blog.parse.com/?p=2393
 permalink: /announcements/parse-developer-community/

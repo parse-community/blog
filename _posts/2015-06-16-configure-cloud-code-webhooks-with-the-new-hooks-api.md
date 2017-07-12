@@ -2,7 +2,7 @@
 id: 3609
 title: Configure Cloud Code Webhooks with the New Hooks API
 date: 2015-06-16T13:51:14+00:00
-author: Pavan Athivarapu
+author: pavanathivarapu
 layout: post
 guid: http://blog.parse.com/?p=3609
 permalink: /announcements/configure-cloud-code-webhooks-with-the-new-hooks-api/

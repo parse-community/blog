@@ -2,7 +2,7 @@
 id: 3617
 title: Secure Your App from the Data Browser with Pointer Permissions
 date: 2015-06-23T13:27:13+00:00
-author: Drew Gross
+author: drewgross
 layout: post
 guid: http://blog.parse.com/?p=3617
 permalink: /learn/secure-your-app-from-the-data-browser-with-pointer-permissions/

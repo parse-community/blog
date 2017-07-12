@@ -2,7 +2,7 @@
 id: 2017
 title: Adding Third-Party Authentication to Your Web App
 date: 2014-01-14T23:38:24+00:00
-author: Fosco Marotto
+author: foscomarotto
 layout: post
 guid: http://blog.parse.com/?p=2017
 permalink: /learn/adding-third-party-authentication-to-your-web-app/

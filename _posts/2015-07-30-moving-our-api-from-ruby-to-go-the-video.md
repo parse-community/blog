@@ -2,7 +2,7 @@
 id: 3653
 title: Moving our API From Ruby to Go, the Video
 date: 2015-07-30T13:52:51+00:00
-author: Devin Cheevers
+author: DevinCheevers
 layout: post
 guid: http://blog.parse.com/?p=3653
 permalink: /learn/moving-our-api-from-ruby-to-go-the-video/

@@ -2,7 +2,7 @@
 id: 2037
 title: Global Game Jam 2014 at Facebook, January 24-26
 date: 2014-01-17T19:45:57+00:00
-author: Fosco Marotto
+author: foscomarotto
 layout: post
 guid: http://blog.parse.com/?p=2037
 permalink: /events/global-game-jam-2014-at-facebook-january-24-26/

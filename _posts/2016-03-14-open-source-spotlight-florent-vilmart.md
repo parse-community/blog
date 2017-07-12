@@ -2,7 +2,7 @@
 id: 3964
 title: 'Open Source Spotlight: Florent Vilmart'
 date: 2016-03-14T14:30:34+00:00
-author: Fosco Marotto
+author: foscomarotto
 layout: post
 guid: http://blog.parse.com/?p=3964
 permalink: /learn/open-source-spotlight-florent-vilmart/

@@ -2,7 +2,7 @@
 id: 2032
 title: 'Parse Developer Day Video Series: Building a Call Center with Parse and Twilio'
 date: 2014-01-15T19:01:30+00:00
-author: Courtney Witmer
+author: courtneywitmer
 layout: post
 guid: http://blog.parse.com/?p=2032
 permalink: /events/parse-developer-day-video-series-building-a-call-center-with-parse-and-twilio/

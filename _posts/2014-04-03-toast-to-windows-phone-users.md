@@ -2,7 +2,7 @@
 id: 2000
 title: A Toast to Windows Phone Users
 date: 2014-04-03T09:00:55+00:00
-author: Andrew Imm
+author: andrewimm
 layout: post
 guid: http://blog.parse.com/?p=2000
 permalink: /announcements/toast-to-windows-phone-users/

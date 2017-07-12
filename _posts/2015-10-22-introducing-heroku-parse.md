@@ -2,7 +2,7 @@
 id: 3857
 title: Introducing Heroku + Parse
 date: 2015-10-22T10:00:53+00:00
-author: Pavan Athivarapu
+author: pavanathivarapu
 layout: post
 guid: http://blog.parse.com/?p=3857
 permalink: /announcements/introducing-heroku-parse/

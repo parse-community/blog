@@ -2,7 +2,7 @@
 id: 1945
 title: The Dirty Outlaw
 date: 2014-01-16T18:03:40+00:00
-author: Listiarso Wastuargo
+author: ListiarsoWastuargo
 layout: post
 guid: http://blog.parse.com/?p=1945
 permalink: /learn/engineering/the-dirty-outlaw/

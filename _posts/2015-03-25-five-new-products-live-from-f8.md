@@ -2,7 +2,7 @@
 id: 3399
 title: Five New Products, Live From F8
 date: 2015-03-25T17:51:23+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=3399
 permalink: /announcements/five-new-products-live-from-f8/

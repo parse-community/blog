@@ -2,7 +2,7 @@
 id: 3637
 title: 'Dial Into More Users in <4 Min: Phone Number Login with Parse + Twilio'
 date: 2015-07-09T13:26:47+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=3637
 permalink: /learn/dial-into-more-users-in/

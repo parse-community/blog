@@ -2,7 +2,7 @@
 id: 2213
 title: CyberAgent Uses Parse Push to Power Pashaoku Auction App
 date: 2014-03-26T21:09:54+00:00
-author: Courtney Witmer
+author: courtneywitmer
 layout: post
 guid: http://blog.parse.com/?p=2213
 permalink: /non-technical/cyberagent-uses-parse-push-to-power-pashaoku-auction-app/

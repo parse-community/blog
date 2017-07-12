@@ -2,7 +2,7 @@
 id: 3737
 title: The Joy of Weekend Hacking
 date: 2015-08-26T11:07:46+00:00
-author: Fosco Marotto
+author: foscomarotto
 layout: post
 guid: http://blog.parse.com/?p=3737
 permalink: /learn/the-joy-of-weekend-hacking/

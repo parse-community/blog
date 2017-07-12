@@ -2,7 +2,7 @@
 id: 3989
 title: 'Parse Server Video Series - April 2016'
 date: 2016-04-18T11:13:33+00:00
-author: Fosco Marotto
+author: foscomarotto
 layout: post
 guid: http://blog.parse.com/?p=3989
 permalink: /learn/parse-server-video-series-april-2016/

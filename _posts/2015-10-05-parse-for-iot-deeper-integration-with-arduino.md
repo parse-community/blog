@@ -2,7 +2,7 @@
 id: 3841
 title: 'Parse for IoT: Deeper Integration with Arduino'
 date: 2015-10-05T09:28:37+00:00
-author: George Yakovlev
+author: georgeyakovlev
 layout: post
 guid: http://blog.parse.com/?p=3841
 permalink: /announcements/parse-for-iot-deeper-integration-with-arduino/

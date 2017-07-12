@@ -2,7 +2,7 @@
 id: 2572
 title: 'Get Off My Lawn: a New Way to Control Access to Your App'
 date: 2014-10-21T18:35:56+00:00
-author: Jamie Karraker
+author: JamieKarraker
 layout: post
 guid: http://blog.parse.com/?p=2572
 permalink: /learn/get-off-my-lawn-a-new-way-to-control-access-to-your-app/

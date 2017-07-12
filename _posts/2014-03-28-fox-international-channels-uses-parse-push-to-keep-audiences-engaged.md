@@ -2,7 +2,7 @@
 id: 2237
 title: FOX International Channels Uses Parse Push to Keep Audiences Engaged
 date: 2014-03-28T19:23:10+00:00
-author: Courtney Witmer
+author: courtneywitmer
 layout: post
 guid: http://blog.parse.com/?p=2237
 permalink: /non-technical/fox-international-channels-uses-parse-push-to-keep-audiences-engaged/

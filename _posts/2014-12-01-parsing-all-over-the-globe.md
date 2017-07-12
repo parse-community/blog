@@ -2,7 +2,7 @@
 id: 2630
 title: Parsing All Over the Globe
 date: 2014-12-01T19:16:40+00:00
-author: Ilya Sukhar
+author: IlyaSukhar
 layout: post
 guid: http://blog.parse.com/?p=2630
 permalink: /learn/parsing-all-over-the-globe/

@@ -2,7 +2,7 @@
 id: 3977
 title: Push and Config come to the Parse Dashboard
 date: 2016-03-30T12:38:53+00:00
-author: Drew Gross
+author: drewgross
 layout: post
 guid: http://blog.parse.com/?p=3977
 permalink: /announcements/push-and-config-come-to-the-parse-dashboard/

@@ -2,7 +2,7 @@
 id: 3419
 title: The New Parse Blog
 date: 2015-04-15T02:30:22+00:00
-author: George Kedenburg III
+author: George KedenburgIII
 excerpt: "We've given the blog a full, from-scratch overhaul to help you keep up with the latest Parse happenings through a much more pleasant experience."
 layout: post
 guid: http://blog.parse.com/?p=3419

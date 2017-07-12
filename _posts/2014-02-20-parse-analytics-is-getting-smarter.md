@@ -2,7 +2,7 @@
 id: 2090
 title: Parse Analytics is Getting Smarter
 date: 2014-02-20T21:50:17+00:00
-author: Listiarso Wastuargo
+author: ListiarsoWastuargo
 layout: post
 guid: http://blog.parse.com/?p=2090
 permalink: /announcements/parse-analytics-is-getting-smarter/

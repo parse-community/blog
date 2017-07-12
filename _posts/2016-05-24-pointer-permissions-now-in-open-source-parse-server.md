@@ -2,7 +2,7 @@
 id: 3998
 title: Pointer Permissions now in Open Source Parse Server
 date: 2016-05-24T16:58:36+00:00
-author: Drew Gross
+author: drewgross
 layout: post
 guid: http://blog.parse.com/?p=3998
 permalink: /learn/engineering/pointer-permissions-now-in-open-source-parse-server/

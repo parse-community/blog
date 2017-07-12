@@ -2,7 +2,7 @@
 id: 2041
 title: 'Parse Developer Day Video Series - Email: Driving Repeat Usage for Your App'
 date: 2014-01-22T18:18:21+00:00
-author: Courtney Witmer
+author: courtneywitmer
 layout: post
 guid: http://blog.parse.com/?p=2041
 permalink: /events/driving-repeat-usage-for-your-app/

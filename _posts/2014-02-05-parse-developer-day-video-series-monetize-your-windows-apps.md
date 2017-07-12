@@ -2,7 +2,7 @@
 id: 2070
 title: 'Parse Developer Day Video Series: Monetize Your Windows Apps'
 date: 2014-02-05T20:31:23+00:00
-author: Courtney Witmer
+author: courtneywitmer
 layout: post
 guid: http://blog.parse.com/?p=2070
 permalink: /events/parse-developer-day-video-series-monetize-your-windows-apps/

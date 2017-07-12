@@ -2,7 +2,7 @@
 id: 2508
 title: Announcing Parse Config
 date: 2014-09-08T17:38:23+00:00
-author: Karan Gajwani
+author: KaranGajwani
 layout: post
 guid: http://blog.parse.com/?p=2508
 permalink: /announcements/announcing-parse-config/

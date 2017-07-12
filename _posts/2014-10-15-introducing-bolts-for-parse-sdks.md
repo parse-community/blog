@@ -2,7 +2,7 @@
 id: 2558
 title: Introducing Bolts for Parse SDKs
 date: 2014-10-15T16:39:28+00:00
-author: Nikita Lutsenko
+author: nikitalutsenko
 layout: post
 guid: http://blog.parse.com/?p=2558
 permalink: /learn/introducing-bolts-for-parse-sdks/

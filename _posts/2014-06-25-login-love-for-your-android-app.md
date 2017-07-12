@@ -2,7 +2,7 @@
 id: 2386
 title: Login Love for your Android App
 date: 2014-06-25T18:47:54+00:00
-author: Stanley Wang
+author: StanleyWang
 layout: post
 guid: http://blog.parse.com/?p=2386
 permalink: /learn/engineering/login-love-for-your-android-app/

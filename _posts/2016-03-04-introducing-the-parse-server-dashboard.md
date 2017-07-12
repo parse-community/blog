@@ -2,7 +2,7 @@
 id: 3955
 title: Introducing the Parse Server Dashboard
 date: 2016-03-04T12:58:58+00:00
-author: Drew Gross
+author: drewgross
 layout: post
 guid: http://blog.parse.com/?p=3955
 permalink: /announcements/introducing-the-parse-server-dashboard/

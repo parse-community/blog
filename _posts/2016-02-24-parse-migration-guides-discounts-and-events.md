@@ -2,7 +2,7 @@
 id: 3945
 title: Parse Migration Guides, Discounts, and Events
 date: 2016-02-24T12:13:04+00:00
-author: Eric Nakagawa
+author: ericnakagawa
 layout: post
 guid: http://blog.parse.com/?p=3945
 permalink: /announcements/parse-migration-guides-discounts-and-events/

@@ -2,7 +2,7 @@
 id: 2533
 title: Parse SDK for iOS 8, Performance, and Security
 date: 2014-09-18T11:00:12+00:00
-author: Nikita Lutsenko
+author: nikitalutsenko
 layout: post
 guid: http://blog.parse.com/?p=2533
 permalink: /announcements/parse-sdk-for-ios-8-performance-and-security/

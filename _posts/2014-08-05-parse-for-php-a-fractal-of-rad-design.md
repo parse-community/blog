@@ -2,7 +2,7 @@
 id: 2455
 title: 'Parse for PHP: A Fractal of Rad Design'
 date: 2014-08-05T18:13:04+00:00
-author: Fosco Marotto
+author: foscomarotto
 layout: post
 guid: http://blog.parse.com/?p=2455
 permalink: /announcements/parse-for-php-a-fractal-of-rad-design/

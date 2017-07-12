@@ -2,7 +2,7 @@
 id: 3949
 title: What is Parse Server?
 date: 2016-03-01T10:31:09+00:00
-author: Fosco Marotto
+author: foscomarotto
 layout: post
 guid: http://blog.parse.com/?p=3949
 permalink: /announcements/what-is-parse-server/

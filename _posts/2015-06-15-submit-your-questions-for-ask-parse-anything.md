@@ -2,7 +2,7 @@
 id: 3607
 title: Submit Your Questions for Ask Parse Anything
 date: 2015-06-15T10:30:42+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=3607
 permalink: /learn/submit-your-questions-for-ask-parse-anything/

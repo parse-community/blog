@@ -2,7 +2,7 @@
 id: 2358
 title: Fun with TokuMX
 date: 2014-06-20T22:37:42+00:00
-author: Kai Liu
+author: KaiLiu
 layout: post
 guid: http://blog.parse.com/?p=2358
 permalink: /learn/engineering/fun-with-tokumx/

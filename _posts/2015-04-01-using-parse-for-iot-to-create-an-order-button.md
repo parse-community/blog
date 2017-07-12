@@ -2,7 +2,7 @@
 id: 3403
 title: Using Parse for IoT to Create an Order Button
 date: 2015-04-01T19:09:44+00:00
-author: Mattieu Gamache-Asselin
+author: MattieuGamache-Asselin
 layout: post
 guid: http://blog.parse.com/?p=3403
 permalink: /learn/using-parse-for-iot-to-create-an-order-button/

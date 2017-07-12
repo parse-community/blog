@@ -2,7 +2,7 @@
 id: 3514
 title: Introducing the Ask Parse Anything Video Series
 date: 2015-05-12T15:00:08+00:00
-author: Nancy Xiao
+author: nancyxiao
 layout: post
 guid: http://blog.parse.com/?p=3514
 permalink: /announcements/introducing-the-ask-parse-anything-video-series/

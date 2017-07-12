@@ -2,7 +2,7 @@
 id: 3570
 title: Parse is Back in NYC
 date: 2015-05-21T13:05:41+00:00
-author: Devin Cheevers
+author: DevinCheevers
 layout: post
 guid: http://blog.parse.com/?p=3570
 permalink: /events/parse-is-back-in-nyc/
