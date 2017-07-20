@@ -59,6 +59,11 @@ authors:
     github: flovilmart
     twitter: flovilmart
     site: http://parseplatform.org/
+  montymxb:
+    name: Ben Friedman
+    byline: Core Contributor on Parse
+    github: montymxb
+    site: http://parseplatform.org/
   # Original Parse Team
   courtneywitmer:
     name: Courtney Witmer
