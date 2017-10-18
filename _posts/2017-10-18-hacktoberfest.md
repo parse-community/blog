@@ -10,7 +10,7 @@ categories: [open source, hacktoberfest, github]
 Hacktoberfest 2017 is underway! 
 
 We encourage you to take the time to sign up for Hacktoberfest and start contributing to parse-server or other open source projects on github.
-You can find more details and signup [here](https://hacktoberfest.digitalocean.com/), oh and did we mention there are free tee-shirts?
+You can find more details and signup [here](https://hacktoberfest.digitalocean.com/), oh and did we mention there are free t-shirts?
 
 <!-- more -->
 
