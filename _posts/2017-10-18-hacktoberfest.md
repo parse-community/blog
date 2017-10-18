@@ -1,13 +1,13 @@
 ---
 layout: post
-title: It's Hackoberfest 2017!
+title: It's Hacktoberfest 2017!
 date: 2017-10-18 08:28 -0700
 comments: true
 author: montymxb
-categories: [open source, hackoberfest, github]
+categories: [open source, hacktoberfest, github]
 ---
 
-Hackoberfest 2017 is underway! 
+Hacktoberfest 2017 is underway! 
 
 We encourage you to take the time to sign up for Hacktoberfest and start contributing to parse-server or other open source projects on github.
 You can find more details and signup [here](https://hacktoberfest.digitalocean.com/), oh and did we mention there are free tee-shirts?
