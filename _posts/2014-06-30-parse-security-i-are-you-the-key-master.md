@@ -4,7 +4,7 @@ title: 'Parse Security I - Are you the Key Master?'
 date: 2014-06-30T20:54:56+00:00
 author: bryanklimt
 layout: post
-guid: http://blog.parse.com/?p=2408
+guid: http://blog.parseplatform.org/?p=2408
 permalink: /learn/engineering/parse-security-i-are-you-the-key-master/
 post_format:
   - basic
@@ -30,4 +30,4 @@ The master key, on the other hand, is definitely a security mechanism. Using the
 
 In Part II, we'll take a look at Parse's advanced features, which allow you to control what people with your client key can do.
 
-<span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/07/07/parse-security-ii-class-hysteria/" target="_blank">Part II</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/07/14/parse-security-iii-are-you-on-the-list/" target="_blank">Part III</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/07/21/parse-security-iv-ahead-in-the-cloud/" target="_blank">Part IV</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/07/28/parse-security-v-how-to-make-friends/" target="_blank">Part V</a></span>
+<span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/07/07/parse-security-ii-class-hysteria/" target="_blank">Part II</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/07/14/parse-security-iii-are-you-on-the-list/" target="_blank">Part III</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/07/21/parse-security-iv-ahead-in-the-cloud/" target="_blank">Part IV</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/07/28/parse-security-v-how-to-make-friends/" target="_blank">Part V</a></span>

@@ -4,7 +4,7 @@ title: Using Parse for IoT to Create an Order Button
 date: 2015-04-01T19:09:44+00:00
 author: mattieugamacheasselin
 layout: post
-guid: http://blog.parse.com/?p=3403
+guid: http://blog.parseplatform.org/?p=3403
 permalink: /learn/using-parse-for-iot-to-create-an-order-button/
 post_format:
   - basic
@@ -23,7 +23,7 @@ tags:
   - hardware
   - IoT
 ---
-Yesterday, Amazon announced the [Dash button](https://www.amazon.com/oc/dash-button), a small device with a single button and a single purpose: Pressing the button orders an item on Amazon. This is just the latest in the continuing trend toward connected smart devices, and we immediately saw the possibilities for our developer community to create devices for their own apps. Feeling inspired to experiment, we spent half an hour with an Arduino Yún, a push button, and the new [Parse for IoT](http://blog.parse.com/2015/03/25/connecting-hardware-with-the-cloud-parse-for-iot/) SDK to create a device that simulates ordering toilet paper when we're running low. As you'll see here, it's amazingly simple to build a working order button that connects to your app using Parse tools. Here's how we did it:
+Yesterday, Amazon announced the [Dash button](https://www.amazon.com/oc/dash-button), a small device with a single button and a single purpose: Pressing the button orders an item on Amazon. This is just the latest in the continuing trend toward connected smart devices, and we immediately saw the possibilities for our developer community to create devices for their own apps. Feeling inspired to experiment, we spent half an hour with an Arduino Yún, a push button, and the new [Parse for IoT](http://blog.parseplatform.org/2015/03/25/connecting-hardware-with-the-cloud-parse-for-iot/) SDK to create a device that simulates ordering toilet paper when we're running low. As you'll see here, it's amazingly simple to build a working order button that connects to your app using Parse tools. Here's how we did it:
 
 We connected a push button to the Arduino and used a small breadboard so the button would sit neatly on top of the Arduino. As you'll see later, we used the Arduino's packaging as an enclosure.
 

@@ -4,7 +4,7 @@ title: Open Sourcing Our SDKs
 date: 2015-08-13T10:57:48+00:00
 author: nikitalutsenko
 layout: post
-guid: http://blog.parse.com/?p=3684
+guid: http://blog.parseplatform.org/?p=3684
 permalink: /announcements/open-sourcing-our-sdks/
 post_format:
   - feat-image
@@ -37,13 +37,13 @@ We’ve had to figure out a way to make a public-facing API easy to understand a
 
 ### Architecture Unity
 
-In order to achieve unity in architecture we developed a whole new approach to asynchronous operations with 'promises' and Bolts framework `Tasks`, which we [previously](http://blog.parse.com/announcements/lets-bolt/) open sourced.
+In order to achieve unity in architecture we developed a whole new approach to asynchronous operations with 'promises' and Bolts framework `Tasks`, which we [previously](http://blog.parseplatform.org/announcements/lets-bolt/) open sourced.
 
 ### Performance
 
 To tackle speed and stability, we also built a loosely coupled architecture model, which lets us move much faster and stay confident in the reliability of our SDKs' existing functionality.
 
-You can read about all this in more detail [here](http://blog.parse.com/learn/the-parse-sdk-whats-inside/).
+You can read about all this in more detail [here](http://blog.parseplatform.org/learn/the-parse-sdk-whats-inside/).
 
 * * *
 
@@ -57,4 +57,4 @@ By sharing our SDK source code with the community, we want to share everything w
   
 You can find it here for [Android](https://github.com/ParsePlatform/Parse-SDK-Android) and [iOS/OS X](https://github.com/ParsePlatform/Parse-SDK-iOS-OSX).
 
-_Update - September 22, 2015 - We just finished open sourcing all of our SDKs! Here are the repositories for our [JavaScript](https://github.com/ParsePlatform/Parse-SDK-JS) and [.NET](https://github.com/ParsePlatform/Parse-SDK-dotNET) SDKs. Want more? Find out the approaches we took and what we learned in our [Writing Libraries for the Modern Web](http://blog.parse.com/learn/engineering/writing-libraries-for-modern-web/) blog post and [Open Sesame: Parse .NET SDK](http://blog.parse.com/announcements/open-sesame-parse-net-sdk/) blog post!</p>
+_Update - September 22, 2015 - We just finished open sourcing all of our SDKs! Here are the repositories for our [JavaScript](https://github.com/ParsePlatform/Parse-SDK-JS) and [.NET](https://github.com/ParsePlatform/Parse-SDK-dotNET) SDKs. Want more? Find out the approaches we took and what we learned in our [Writing Libraries for the Modern Web](http://blog.parseplatform.org/learn/engineering/writing-libraries-for-modern-web/) blog post and [Open Sesame: Parse .NET SDK](http://blog.parseplatform.org/announcements/open-sesame-parse-net-sdk/) blog post!</p>

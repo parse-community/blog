@@ -4,7 +4,7 @@ title: Global Game Jam 2014 at Facebook, January 24-26
 date: 2014-01-17T19:45:57+00:00
 author: foscomarotto
 layout: post
-guid: http://blog.parse.com/?p=2037
+guid: http://blog.parseplatform.org/?p=2037
 permalink: /events/global-game-jam-2014-at-facebook-january-24-26/
 dsq_thread_id:
   - "4132627437"

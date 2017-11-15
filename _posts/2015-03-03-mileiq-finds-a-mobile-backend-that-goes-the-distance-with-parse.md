@@ -4,7 +4,7 @@ title: MileIQ Finds a Mobile Backend that Goes the Distance with Parse
 date: 2015-03-03T00:57:16+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=3386
+guid: http://blog.parseplatform.org/?p=3386
 permalink: /customers/mileiq-finds-a-mobile-backend-that-goes-the-distance-with-parse/
 post_format:
   - basic

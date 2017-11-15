@@ -4,7 +4,7 @@ title: Open Sourcing Our Facebook and Twitter Integration Frameworks
 date: 2015-10-08T13:11:50+00:00
 author: nikitalutsenko
 layout: post
-guid: http://blog.parse.com/?p=3852
+guid: http://blog.parseplatform.org/?p=3852
 permalink: /announcements/open-sourcing-our-facebook-and-twitter-integration-frameworks/
 post_format:
   - feat-image

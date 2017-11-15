@@ -4,7 +4,7 @@ title: Parse Server Push Notifications
 date: 2016-02-11T10:50:34+00:00
 author: mengyanwang
 layout: post
-guid: http://blog.parse.com/?p=3923
+guid: http://blog.parseplatform.org/?p=3923
 permalink: /announcements/parse-server-push-notifications/
 post_format:
   - basic

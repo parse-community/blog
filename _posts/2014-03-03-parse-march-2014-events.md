@@ -4,7 +4,7 @@ title: Parse March 2014 Events
 date: 2014-03-03T19:18:25+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2148
+guid: http://blog.parseplatform.org/?p=2148
 permalink: /events/parse-march-2014-events/
 dsq_thread_id:
   - "3705620613"
@@ -16,7 +16,7 @@ March is going to be a busy month for the Parse team. We'll be attending and hos
 
 **<a href="http://sxsw.com/interactive" target="_blank">SXSW Interactive</a> - March 7 - 11, 2014 - Austin, TX**
 
-Facebook, Parse, and Instagram will be hosting several events during the course of the SXSW festival this year, as well as several talks at the conference. Check out <a href="http://blog.parse.com/2014/02/27/parse-facebook-at-sxsw-2014/" target="_blank">this blog post</a> for a full listing of events.
+Facebook, Parse, and Instagram will be hosting several events during the course of the SXSW festival this year, as well as several talks at the conference. Check out <a href="http://blog.parseplatform.org/2014/02/27/parse-facebook-at-sxsw-2014/" target="_blank">this blog post</a> for a full listing of events.
 
 **<a href="http://parseaustinmeetup.splashthat.com/" target="_blank">Parse Austin Meetup</a> - March 10, 2014 - Austin, TX**
   

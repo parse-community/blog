@@ -4,7 +4,7 @@ title: "Seatwave's Timbre App Sounds Out Success with Parse"
 date: 2014-10-24T21:40:07+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=2581
+guid: http://blog.parseplatform.org/?p=2581
 permalink: /customers/seatwaves-timbre-app-sounds-out-success-with-parse/
 post_format:
   - basic

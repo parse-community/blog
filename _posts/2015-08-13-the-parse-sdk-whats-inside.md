@@ -4,7 +4,7 @@ title: 'The Parse SDK: What’s inside?'
 date: 2015-08-13T10:58:35+00:00
 author: grantlandchew
 layout: post
-guid: http://blog.parse.com/?p=3675
+guid: http://blog.parseplatform.org/?p=3675
 permalink: /learn/the-parse-sdk-whats-inside/
 post_format:
   - feat-image
@@ -24,7 +24,7 @@ tags:
   - opensource
   - sdk
 ---
-The Parse SDK has been and continues to be an important part of mobile development on Parse. As Parse developers, you've already gotten to know the Parse SDK from its public API, but today we [open sourced our SDKs](http://blog.parse.com/announcements/open-sourcing-our-sdks/) so you'll finally be able to take a peek at its inner workings.
+The Parse SDK has been and continues to be an important part of mobile development on Parse. As Parse developers, you've already gotten to know the Parse SDK from its public API, but today we [open sourced our SDKs](http://blog.parseplatform.org/announcements/open-sourcing-our-sdks/) so you'll finally be able to take a peek at its inner workings.
 
 In this post, **we'll unpack a few of the most challenging aspects** of building the Parse SDKs — structuring an asynchronous API, decoupling architecture, and achieving API consistency. Over the next few weeks, we'll publish a series of blog posts diving into even more under-the-hood features of our SDKs.
 
@@ -32,7 +32,7 @@ In this post, **we'll unpack a few of the most challenging aspects** of building
 
 ## Asynchronous API
 
-Some of the important functionalities of the Parse SDK include communicating over the network, persisting data to disk, and returning data to the developer so that they can update their UI. All of this needs to happen asynchronously, in parallel and off the main thread. With this in mind, it should be no surprise to you that the most important part of our SDK is how we do asynchronous programming. Last year, we released `Tasks` as a part of [Bolts](http://blog.parse.com/announcements/lets-bolt/), a composable promise-based library that simplifies parallelism and concurrency. We mentioned that we used it internally to solve some of our concurrency issues, but now you can finally see the extent of it.
+Some of the important functionalities of the Parse SDK include communicating over the network, persisting data to disk, and returning data to the developer so that they can update their UI. All of this needs to happen asynchronously, in parallel and off the main thread. With this in mind, it should be no surprise to you that the most important part of our SDK is how we do asynchronous programming. Last year, we released `Tasks` as a part of [Bolts](http://blog.parseplatform.org/announcements/lets-bolt/), a composable promise-based library that simplifies parallelism and concurrency. We mentioned that we used it internally to solve some of our concurrency issues, but now you can finally see the extent of it.
 
 Almost all of our internal APIs are Task-based. We utilize them to simplify serial execution of asynchronous operations such as persisting a dependency chain of `ParseObject`s to the server as well as parallel asynchronous operations such as persisting batches of unrelated `ParseObject`s. It's so powerful that we're even able to manage splicing the two together into a single asynchronous operation.
 

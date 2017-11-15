@@ -4,7 +4,7 @@ title: Russian Developer Playrix Builds Township on Parse
 date: 2014-03-14T17:32:08+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2181
+guid: http://blog.parseplatform.org/?p=2181
 permalink: /non-technical/russian-developers-build-township-on-parse/
 dsq_thread_id:
   - "3687614256"

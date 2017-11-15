@@ -4,7 +4,7 @@ title: Apple TV and Apple Watch SDKs are Here
 date: 2015-12-14T10:00:41+00:00
 author: nikitalutsenko
 layout: post
-guid: http://blog.parse.com/?p=3892
+guid: http://blog.parseplatform.org/?p=3892
 permalink: /announcements/apple-tv-and-apple-watch-sdks-are-here/
 post_format:
   - feat-image
@@ -25,7 +25,7 @@ tags:
   - tvOS
   - watchOS
 ---
-With the launch of Apple TV this past fall, a new development medium and platform has been unleashed. Here at Parse, we're extremely excited about the potential of this new platform and its ability to change the way you interact with your television. This isn't the first time we've seen Apple monumentally influence the world of software development—we've also seen its impact with watchOS, iOS, and and OS X. Over the years, our Parse iOS and OS X SDKs have been well-loved by developers around the globe, and in April, [we released](http://blog.parse.com/announcements/introducing-local-data-sharing-for-apple-watch-and-app-extensions/) support for the Apple Watch and App Extensions.
+With the launch of Apple TV this past fall, a new development medium and platform has been unleashed. Here at Parse, we're extremely excited about the potential of this new platform and its ability to change the way you interact with your television. This isn't the first time we've seen Apple monumentally influence the world of software development—we've also seen its impact with watchOS, iOS, and and OS X. Over the years, our Parse iOS and OS X SDKs have been well-loved by developers around the globe, and in April, [we released](http://blog.parseplatform.org/announcements/introducing-local-data-sharing-for-apple-watch-and-app-extensions/) support for the Apple Watch and App Extensions.
 
 Today, we are happy to announce the launch of new Parse SDKs for Apple's tvOS and watchOS 2. Now, you can utilize the full power and simplicity of the Parse SDKs to build incredibly immersive apps for the Apple TV and the Apple Watch.
 
@@ -43,9 +43,9 @@ Another core difference of tvOS is the user input experience. Since there is no 
 
 ## watchOS 2
 
-Earlier this year, we released support for <a href="http://blog.parse.com/announcements/introducing-local-data-sharing-for-apple-watch-and-app-extensions/" target="_blank">watchOS 1 and App Extensions</a>, which lets you build apps that could have an extension running on Apple Watch. With this new SDK for watchOS 2 we've brought the full amazing experience of the Parse SDK, so you can build apps that run purely on the Watch. As a result, your app can load faster and won't need a phone to stay connected.
+Earlier this year, we released support for <a href="http://blog.parseplatform.org/announcements/introducing-local-data-sharing-for-apple-watch-and-app-extensions/" target="_blank">watchOS 1 and App Extensions</a>, which lets you build apps that could have an extension running on Apple Watch. With this new SDK for watchOS 2 we've brought the full amazing experience of the Parse SDK, so you can build apps that run purely on the Watch. As a result, your app can load faster and won't need a phone to stay connected.
 
-One of the most exciting aspects of this project was the development process itself. Throughout it all, the open source community was instrumental in providing the Parse team with early end-to-end testing and valuable feedback, which resulted in an incredibly rapid release. You can read more about our efforts of open sourcing our SDKs [here](http://blog.parse.com/announcements/open-sourcing-our-sdks/).
+One of the most exciting aspects of this project was the development process itself. Throughout it all, the open source community was instrumental in providing the Parse team with early end-to-end testing and valuable feedback, which resulted in an incredibly rapid release. You can read more about our efforts of open sourcing our SDKs [here](http://blog.parseplatform.org/announcements/open-sourcing-our-sdks/).
 
 We are excited to bring the Parse SDK to more platforms than ever, and especially to see what you build for the big screen with Apple TV and for the Apple Watch!
 

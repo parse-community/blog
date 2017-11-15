@@ -4,7 +4,7 @@ title: f8 2014 Schedule Now Available
 date: 2014-04-02T10:00:55+00:00
 author: ashleysmith
 layout: post
-guid: http://blog.parse.com/?p=2241
+guid: http://blog.parseplatform.org/?p=2241
 permalink: /events/f8-2014-schedule-now-available/
 dsq_thread_id:
   - "3688789815"

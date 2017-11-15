@@ -4,7 +4,7 @@ title: Thread Safety Basics on iOS/OS X
 date: 2015-11-03T09:05:59+00:00
 author: richardross
 layout: post
-guid: http://blog.parse.com/?p=3868
+guid: http://blog.parseplatform.org/?p=3868
 permalink: /learn/thread-safety-basics-on-iosos-x/
 post_format:
   - basic

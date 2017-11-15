@@ -4,7 +4,7 @@ title: "Health &#038; Parenting's Apps Top the Global Charts With Parse"
 date: 2014-10-17T20:09:09+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=2570
+guid: http://blog.parseplatform.org/?p=2570
 permalink: /customers/health-parentings-apps-top-the-global-charts-with-parse/
 post_format:
   - basic

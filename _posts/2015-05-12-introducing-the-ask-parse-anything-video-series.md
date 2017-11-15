@@ -4,7 +4,7 @@ title: Introducing the Ask Parse Anything Video Series
 date: 2015-05-12T15:00:08+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=3514
+guid: http://blog.parseplatform.org/?p=3514
 permalink: /announcements/introducing-the-ask-parse-anything-video-series/
 post_format:
   - basic

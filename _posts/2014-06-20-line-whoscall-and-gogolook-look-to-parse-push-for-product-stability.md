@@ -4,7 +4,7 @@ title: Gogolook and LINE whoscall Look to Parse Push for Product Stability
 date: 2014-06-20T16:51:39+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=2376
+guid: http://blog.parseplatform.org/?p=2376
 permalink: /customers/line-whoscall-and-gogolook-look-to-parse-push-for-product-stability/
 post_format:
   - basic

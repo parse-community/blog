@@ -4,7 +4,7 @@ title: Parse Local Datastore for iOS
 date: 2014-12-09T15:51:44+00:00
 author: grantlandchew
 layout: post
-guid: http://blog.parse.com/?p=2646
+guid: http://blog.parseplatform.org/?p=2646
 permalink: /learn/parse-local-datastore-for-ios/
 post_format:
   - feat-image
@@ -28,7 +28,7 @@ Too often, we've seen bad reception or lack of connectivity become the downfall 
 
 Parse Local Datastore makes it a lot easier, and today we're excited to announce that it's available in our iOS/OS X SDK. You can now create a seamless, uninterrupted user experience free from connectivity constraints.
 
-It's the same functionality found in [our Android implementation](http://blog.parse.com/2014/04/30/take-your-app-offline-with-parse-local-datastore/), but now for iPhones , iPads, and Macs everywhere. `[PFObject pin]` persists `PFObject`s to the Local Datastore and `[PFObject unpin]` removes them. Once pinned, you can access them anytime with a normal `PFQuery`:
+It's the same functionality found in [our Android implementation](http://blog.parseplatform.org/2014/04/30/take-your-app-offline-with-parse-local-datastore/), but now for iPhones , iPads, and Macs everywhere. `[PFObject pin]` persists `PFObject`s to the Local Datastore and `[PFObject unpin]` removes them. Once pinned, you can access them anytime with a normal `PFQuery`:
 
 <pre class="EnlighterJSRAW" data-enlighter-language="csharp">PFQuery *query = [PFQuery queryWithClassName:@"Feed"];
 

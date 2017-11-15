@@ -4,7 +4,7 @@ title: Award-Winning BADLAND App Uses Parse for Android
 date: 2014-01-03T19:23:13+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=1997
+guid: http://blog.parseplatform.org/?p=1997
 permalink: /non-technical/award-winning-badland-app-uses-parse-for-android/
 dsq_thread_id:
   - "3687613973"

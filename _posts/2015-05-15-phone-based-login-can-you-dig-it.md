@@ -4,7 +4,7 @@ title: Phone-Based Login, Can You Dig It?
 date: 2015-05-15T10:16:00+00:00
 author: foscomarotto
 layout: post
-guid: http://blog.parse.com/?p=3538
+guid: http://blog.parseplatform.org/?p=3538
 permalink: /announcements/phone-based-login-can-you-dig-it/
 post_format:
   - feat-image

@@ -4,7 +4,7 @@ title: Introducing the Parse API Console
 date: 2015-05-22T09:34:57+00:00
 author: björnkaiser
 layout: post
-guid: http://blog.parse.com/?p=3576
+guid: http://blog.parseplatform.org/?p=3576
 permalink: /announcements/introducing-the-parse-api-console/
 post_format:
   - basic

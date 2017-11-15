@@ -4,7 +4,7 @@ title: Fable Age Uncovers a Reliable Solution to Server Needs With Parse
 date: 2014-09-25T21:18:00+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=2445
+guid: http://blog.parseplatform.org/?p=2445
 permalink: /customers/fable-age-uncovers-a-reliable-solution-to-server-needs-with-parse/
 post_format:
   - basic

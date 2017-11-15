@@ -4,7 +4,7 @@ title: Big Fish Games Releases A New Hit With Parse
 date: 2014-08-15T21:00:50+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=2480
+guid: http://blog.parseplatform.org/?p=2480
 permalink: /customers/big-fish-games-releases-a-new-hit-with-parse/
 post_format:
   - basic

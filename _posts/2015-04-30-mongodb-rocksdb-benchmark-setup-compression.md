@@ -4,7 +4,7 @@ title: 'MongoDB + RocksDB: Benchmark Setup &amp; Compression'
 date: 2015-04-30T10:00:31+00:00
 author: mikekania
 layout: post
-guid: http://blog.parse.com/?p=3478
+guid: http://blog.parseplatform.org/?p=3478
 permalink: /learn/engineering/mongodb-rocksdb-benchmark-setup-compression/
 post_format:
   - basic
@@ -25,7 +25,7 @@ tags:
 ---
 Parse has been running on MongoDB since version 1.8, so we’ve accumulated a massive amount of operational knowledge about what it takes to run a production MongoDB deployment. Running MongoDB is fairly easy operationally; however, scaling MongoDB can be challenging with things like storage inefficiencies and database-level lock contention. The new modular storage engine API in MongoDB 3.0 is like a magical wand that enables us to run MongoDB on a storage engine optimized for our workloads.
 
-As we said [last week](http://blog.parse.com/announcements/mongodb-rocksdb-parse/), this will be the first in a series of posts where we do a deep dive into our experiences benchmarking MongoDB 3.0 with RocksDB. Parse has had the tremendous benefit of working side by side with the [RocksDB](http://rocksdb.org/) team, who have engineered a screaming fast write-optimized storage engine that is already being used to power multiple internal Facebook services.
+As we said [last week](http://blog.parseplatform.org/announcements/mongodb-rocksdb-parse/), this will be the first in a series of posts where we do a deep dive into our experiences benchmarking MongoDB 3.0 with RocksDB. Parse has had the tremendous benefit of working side by side with the [RocksDB](http://rocksdb.org/) team, who have engineered a screaming fast write-optimized storage engine that is already being used to power multiple internal Facebook services.
 
 ## Benchmark Setup
 

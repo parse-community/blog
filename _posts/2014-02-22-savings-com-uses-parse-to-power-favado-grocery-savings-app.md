@@ -4,7 +4,7 @@ title: Savings.com Uses Parse to Power Favado Grocery Savings App
 date: 2014-02-22T00:24:28+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2112
+guid: http://blog.parseplatform.org/?p=2112
 permalink: /non-technical/savings-com-uses-parse-to-power-favado-grocery-savings-app/
 dsq_thread_id:
   - "3704192875"

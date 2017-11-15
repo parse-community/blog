@@ -4,7 +4,7 @@ title: Cubefree by Citrix Labs Unleashes New Possibilities for Mobile Workers Wi
 date: 2014-10-09T19:36:29+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=2555
+guid: http://blog.parseplatform.org/?p=2555
 permalink: /customers/cubefree-by-citrix-labs-unleashes-new-possibilities-for-mobile-workers-with-parse/
 post_format:
   - basic

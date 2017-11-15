@@ -4,7 +4,7 @@ title: Migrating Your Parse App to MongoRocks
 date: 2016-03-09T11:10:04+00:00
 author: travisredman
 layout: post
-guid: http://blog.parse.com/?p=3959
+guid: http://blog.parseplatform.org/?p=3959
 permalink: /learn/engineering/migrating-your-parse-app-to-mongorocks/
 post_format:
   - basic
@@ -46,7 +46,7 @@ To address these issues, we ultimately turned to <a href="http://www.rocksdb.org
 
 ## Greater Performance and Efficiency
 
-Parse migrated all of its app database storage to MongoRocks in mid-2015, after seeing <a href="http://blog.parse.com/learn/engineering/mongodb-rocksdb-writing-so-fast-it-makes-your-head-spin/" target="_blank">dramatically improved performance</a> in benchmarks over the original MMAP storage engine. Some highlights include:
+Parse migrated all of its app database storage to MongoRocks in mid-2015, after seeing <a href="http://blog.parseplatform.org/learn/engineering/mongodb-rocksdb-writing-so-fast-it-makes-your-head-spin/" target="_blank">dramatically improved performance</a> in benchmarks over the original MMAP storage engine. Some highlights include:
 
 <ul class="standard-list">
   <li>
@@ -64,7 +64,7 @@ With MongoRocks, Parse was able to more effectively utilize its existing infrast
 
 ## Easier Backups
 
-RocksDB's LSM-based data structure enables backups to be easy and efficient. Using the <a href="http://blog.parse.com/learn/engineering/strata-open-source-library-for-efficient-mongodb-backups/" target="_blank">strata</a> tool that we open-sourced last year, and Amazon S3, you can have backups going in a matter of minutes. Backups with strata:
+RocksDB's LSM-based data structure enables backups to be easy and efficient. Using the <a href="http://blog.parseplatform.org/learn/engineering/strata-open-source-library-for-efficient-mongodb-backups/" target="_blank">strata</a> tool that we open-sourced last year, and Amazon S3, you can have backups going in a matter of minutes. Backups with strata:
 
 <ul class="standard-list">
   <li>

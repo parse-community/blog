@@ -4,7 +4,7 @@ title: 'Ask Parse Anything - May Edition Is Here!'
 date: 2015-05-29T15:46:58+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=3589
+guid: http://blog.parseplatform.org/?p=3589
 permalink: /videos/ask-parse-anything-may-edition-is-here/
 post_format:
   - feat-video
@@ -57,7 +57,7 @@ Our developer advocates take on your questions covering Cloud Code, push notific
     Do you have any plans to add servers in Asia? <a href="https://www.youtube.com/watch?feature=player_embedded&v=7mmnW2p6c2k#t=281" target="_blank">(4:41)</a>
   </li>
   <li>
-    Is phone number verification a planned feature? If so, can you publish a timeline? <a href="https://www.youtube.com/watch?feature=player_embedded&v=7mmnW2p6c2k#t=330" target="_blank">(5:30)</a> - AnyPhone demo <a href="http://blog.parse.com/announcements/phone-based-login-can-you-dig-it/" target="_blank">here</a>
+    Is phone number verification a planned feature? If so, can you publish a timeline? <a href="https://www.youtube.com/watch?feature=player_embedded&v=7mmnW2p6c2k#t=330" target="_blank">(5:30)</a> - AnyPhone demo <a href="http://blog.parseplatform.org/announcements/phone-based-login-can-you-dig-it/" target="_blank">here</a>
   </li>
   <li>
     What does the Parse team think about the Apple Watch and what does the Apple Watch mean for Parse Push notifications? <a href="https://www.youtube.com/watch?feature=player_embedded&v=7mmnW2p6c2k#t=372" target="_blank">(6:12)</a>

@@ -4,7 +4,7 @@ title: The More You Grow, the More You Know
 date: 2014-04-30T10:35:32+00:00
 author: christineyen
 layout: post
-guid: http://blog.parse.com/?p=2284
+guid: http://blog.parseplatform.org/?p=2284
 permalink: /announcements/the-more-you-grow-the-more-you-know/
 post_format:
   - feat-image
@@ -39,7 +39,7 @@ Curious how to read these numbers? We’ve brought in our expert analyst, Dev, t
 
 **Now that I’ve got users, how do I make sure they’re sticking around?**
 
-You’ve been able to [track your app activity](http://blog.parse.com/2013/07/17/api-request-analytics-better-faster-more-insightful/) for months, so the natural next step for us was to combine activity data with something more meaningful to you: your users. You can now track retention of your user base — in other words, how many of your users continue to return to your app day after day.
+You’ve been able to [track your app activity](http://blog.parseplatform.org/2013/07/17/api-request-analytics-better-faster-more-insightful/) for months, so the natural next step for us was to combine activity data with something more meaningful to you: your users. You can now track retention of your user base — in other words, how many of your users continue to return to your app day after day.
 
 [<img class="aligncenter size-full wp-image-2307" src="{{ site.url }}/assets/wp-content/uploads/2014/06/growthanalytics-retention.png" alt="The Retention tab of our new Growth Analytics." width="1015" height="645" />]({{ site.url }}/assets/wp-content/uploads/2014/06/growthanalytics-retention.png)
 

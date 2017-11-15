@@ -4,7 +4,7 @@ title: 'Parse Developer Day Video Series: Building a Call Center with Parse and 
 date: 2014-01-15T19:01:30+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2032
+guid: http://blog.parseplatform.org/?p=2032
 permalink: /events/parse-developer-day-video-series-building-a-call-center-with-parse-and-twilio/
 dsq_thread_id:
   - "3701620181"

@@ -4,7 +4,7 @@ title: Tune in to F8 Tomorrow
 date: 2015-03-24T19:37:45+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=3387
+guid: http://blog.parseplatform.org/?p=3387
 permalink: /events/tune-in-to-f8-tomorrow/
 post_format:
   - basic

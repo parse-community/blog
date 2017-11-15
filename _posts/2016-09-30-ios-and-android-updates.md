@@ -4,7 +4,7 @@ title: iOS and Android Updates
 date: 2016-09-30T16:00:32+00:00
 author: ericnakagawa
 layout: post
-guid: http://blog.parse.com/?p=4005
+guid: http://blog.parseplatform.org/?p=4005
 permalink: /announcements/ios-and-android-updates/
 post_format:
   - basic
@@ -47,7 +47,7 @@ Android's latest OS code named “Nougat” began rolling out to devices on Augu
 
 We hope some of the tips and suggestions above can help you to improve the experience for your apps across each platform
 
-With these new OS updates it's important to strive to provide the best user experience you can for your users. The Parse SDKs shall continue functioning normally as expected. However, if you have not migrated your application yet, now is an excellent time to familiarize yourself with our [migration guide](https://www.parse.com/migration). Partner migration guides can be found [here](http://blog.parse.com/guides-discounts-and-events/).
+With these new OS updates it's important to strive to provide the best user experience you can for your users. The Parse SDKs shall continue functioning normally as expected. However, if you have not migrated your application yet, now is an excellent time to familiarize yourself with our [migration guide](https://www.parse.com/migration). Partner migration guides can be found [here](http://blog.parseplatform.org/guides-discounts-and-events/).
 
 Migrating your database is a quick and painlessly process. Take a look at our guide to find a database host like mLab, Object Rocket, or host your database yourself on AWS, Digital Ocean, or another hosting provider.
 

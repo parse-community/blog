@@ -4,7 +4,7 @@ title: Introducing Parse Server and the Database Migration Tool
 date: 2016-01-28T13:05:34+00:00
 author: foscomarotto
 layout: post
-guid: http://blog.parse.com/?p=3911
+guid: http://blog.parseplatform.org/?p=3911
 permalink: /announcements/introducing-parse-server-and-the-database-migration-tool/
 post_format:
   - feat-image
@@ -18,7 +18,7 @@ image: /wp-content/uploads/2016/01/Open-DB-Launch.png
 categories:
   - Announcements
 ---
-Today, we are releasing two tools to help you transition your app from Parse to another service. With the <a href="http://blog.parse.com/announcements/moving-on/" target="_blank">announcement</a> that Parse's hosted service will be retired on January 28, 2017, we want to help share resources to make your migration as straightforward as possible.
+Today, we are releasing two tools to help you transition your app from Parse to another service. With the <a href="http://blog.parseplatform.org/announcements/moving-on/" target="_blank">announcement</a> that Parse's hosted service will be retired on January 28, 2017, we want to help share resources to make your migration as straightforward as possible.
 
 ### Parse Server, An Open-Source Parse API Server
 

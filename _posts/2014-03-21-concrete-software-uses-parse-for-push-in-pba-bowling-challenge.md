@@ -4,7 +4,7 @@ title: Concrete Software Uses Parse for Push in PBA® Bowling Challenge
 date: 2014-03-21T19:29:30+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2186
+guid: http://blog.parseplatform.org/?p=2186
 permalink: /non-technical/concrete-software-uses-parse-for-push-in-pba-bowling-challenge/
 dsq_thread_id:
   - "3687615180"

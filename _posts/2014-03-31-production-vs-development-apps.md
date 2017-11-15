@@ -4,7 +4,7 @@ title: Production vs Development Apps
 date: 2014-03-31T10:00:04+00:00
 author: christophetauziet
 layout: post
-guid: http://blog.parse.com/?p=2227
+guid: http://blog.parseplatform.org/?p=2227
 permalink: /announcements/production-vs-development-apps/
 post_format:
   - feat-image

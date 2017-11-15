@@ -4,7 +4,7 @@ title: 'Strata: Open Source Library for Efficient MongoDB Backups'
 date: 2015-09-04T08:00:15+00:00
 author: travisredman
 layout: post
-guid: http://blog.parse.com/?p=3779
+guid: http://blog.parseplatform.org/?p=3779
 permalink: /learn/engineering/strata-open-source-library-for-efficient-mongodb-backups/
 post_format:
   - basic
@@ -23,7 +23,7 @@ tags:
   - ops
   - RocksDB
 ---
-If you saw Charity's [post](http://blog.parse.com/announcements/mongodb-rocksdb-parse/) back in April, you'll recall that Parse is using MongoDB built on RocksDB ("MongoRocks") in our production MongoDB deployment. MongoRocks combines the MongoDB storage API and RocksDB storage engine to deliver faster writes and more efficient storage utilization compared with MMAP. At Parse we've seen write speed improvements of up to 50x and up to a 90% reduction in disk space. As we have hardened operations and tooling around MongoRocks deployments, we've found another great advantage: it can make doing full and incremental backups incredibly easy!
+If you saw Charity's [post](http://blog.parseplatform.org/announcements/mongodb-rocksdb-parse/) back in April, you'll recall that Parse is using MongoDB built on RocksDB ("MongoRocks") in our production MongoDB deployment. MongoRocks combines the MongoDB storage API and RocksDB storage engine to deliver faster writes and more efficient storage utilization compared with MMAP. At Parse we've seen write speed improvements of up to 50x and up to a 90% reduction in disk space. As we have hardened operations and tooling around MongoRocks deployments, we've found another great advantage: it can make doing full and incremental backups incredibly easy!
 
 * * *
 
@@ -58,7 +58,7 @@ EBS snapshots put a lot of stress on the EBS volume while in progress, and the b
 
 ### Slow Restore Times
 
-Provisioning volumes from an EBS snapshot is fast, but to have production-ready volumes, they need to be warmed, and this can take up to 24H (with 1TB volumes). This delay is expensive and slows us down when we want to rapidly access restored data, such as in [benchmarking](http://blog.parse.com/learn/engineering/mongodb-rocksdb-benchmark-setup-compression/) or in a potential DR scenario.
+Provisioning volumes from an EBS snapshot is fast, but to have production-ready volumes, they need to be warmed, and this can take up to 24H (with 1TB volumes). This delay is expensive and slows us down when we want to rapidly access restored data, such as in [benchmarking](http://blog.parseplatform.org/learn/engineering/mongodb-rocksdb-benchmark-setup-compression/) or in a potential DR scenario.
 
 ### Cost
 

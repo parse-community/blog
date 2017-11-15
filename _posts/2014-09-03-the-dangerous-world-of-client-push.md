@@ -4,7 +4,7 @@ title: The Dangerous World of Client Push
 date: 2014-09-03T19:08:02+00:00
 author: jamiekarraker
 layout: post
-guid: http://blog.parse.com/?p=2494
+guid: http://blog.parseplatform.org/?p=2494
 permalink: /learn/engineering/the-dangerous-world-of-client-push/
 post_format:
   - basic
@@ -25,7 +25,7 @@ tags:
 </p>
 
 <p class="p1">
-  One easy way to send push notifications to particular users from within an app is to send the pushes directly from the client code, for example by using <code>PFPush</code> on iOS. This is tempting, because you have all the information you need to send the push straight from within iOS, and the code to send the push is very simple. But as Bryan mentioned in his <a title="Parse Security IV – Ahead in the Cloud" href="http://blog.parse.com/2014/07/21/parse-security-iv-ahead-in-the-cloud/" target="_blank">security series</a>, clients can’t be trusted to send push notifications directly. Some nefarious hacker could modify the client code, changing the Objective-C or Java code to modify the push's alert text, or to send pushes to people they shouldn’t be able to. The hacker could steal your app's keys and send pushes himself without even using the app.
+  One easy way to send push notifications to particular users from within an app is to send the pushes directly from the client code, for example by using <code>PFPush</code> on iOS. This is tempting, because you have all the information you need to send the push straight from within iOS, and the code to send the push is very simple. But as Bryan mentioned in his <a title="Parse Security IV – Ahead in the Cloud" href="http://blog.parseplatform.org/2014/07/21/parse-security-iv-ahead-in-the-cloud/" target="_blank">security series</a>, clients can’t be trusted to send push notifications directly. Some nefarious hacker could modify the client code, changing the Objective-C or Java code to modify the push's alert text, or to send pushes to people they shouldn’t be able to. The hacker could steal your app's keys and send pushes himself without even using the app.
 </p>
 
 <p class="p1">

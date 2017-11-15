@@ -4,7 +4,7 @@ title: 'Dayre: Long-Form Blogging Simplified'
 date: 2014-02-14T20:02:52+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2087
+guid: http://blog.parseplatform.org/?p=2087
 permalink: /non-technical/dayre-long-form-blogging-simplified/
 dsq_thread_id:
   - "3688874071"

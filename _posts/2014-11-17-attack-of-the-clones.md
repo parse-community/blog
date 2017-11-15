@@ -4,7 +4,7 @@ title: Attack of the Clones
 date: 2014-11-17T22:03:36+00:00
 author: mattieugamacheasselin
 layout: post
-guid: http://blog.parse.com/?p=2610
+guid: http://blog.parseplatform.org/?p=2610
 permalink: /learn/attack-of-the-clones/
 post_format:
   - basic

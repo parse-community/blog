@@ -4,7 +4,7 @@ title: Parse February 2014 Events
 date: 2014-02-03T21:00:41+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2069
+guid: http://blog.parseplatform.org/?p=2069
 permalink: /events/parse-february-2014-events/
 dsq_thread_id:
   - "3878435098"
@@ -20,7 +20,7 @@ Facebook + Parse will be hosting a booth at Apps World North America, and Develo
 
 **<a href="http://developerweek.com/" target="_blank">DeveloperWeek</a> - February 15-18, 2014 - San Francisco, CA**
   
-Parse engineer Bryan Klimt, of the always popular <a href="http://blog.parse.com/2013/01/29/whats-so-great-about-javascript-promises/" target="_blank">"What's so Great about JavaScript Promises" blog post</a>, will be keynoting at DeveloperWeek this year. Besides his not-to-be-missed talk, we'll also have members of our sales and advocacy teams on hand at the Expo to answer any questions you have about building on Parse.
+Parse engineer Bryan Klimt, of the always popular <a href="http://blog.parseplatform.org/2013/01/29/whats-so-great-about-javascript-promises/" target="_blank">"What's so Great about JavaScript Promises" blog post</a>, will be keynoting at DeveloperWeek this year. Besides his not-to-be-missed talk, we'll also have members of our sales and advocacy teams on hand at the Expo to answer any questions you have about building on Parse.
 
 **<a href="http://www.meetup.com/Bay-Area-Parse-Developer-Meetup/events/163101792/" target="_blank">February Bay Area Parse Developer Meetup</a> - February 19, 2014 - San Francisco, CA**
   

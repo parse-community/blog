@@ -4,7 +4,7 @@ title: Moving our API From Ruby to Go, the Video
 date: 2015-07-30T13:52:51+00:00
 author: devincheevers
 layout: post
-guid: http://blog.parse.com/?p=3653
+guid: http://blog.parseplatform.org/?p=3653
 permalink: /learn/moving-our-api-from-ruby-to-go-the-video/
 post_format:
   - feat-video
@@ -25,4 +25,4 @@ tags:
   - APIs
   - go
 ---
-It was awesome to see how many of you were interested in our recent [blogpost](http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/) on moving our API stack from Ruby to Go. In fact, it's one of our most visited and commented on posts, ever. We also blogged about some of the [libraries](http://blog.parse.com/learn/parse-loves-go/) we used. Earlier this month, Parse engineer Abhishek Kona spoke about how we tackled this at Gophercon. Enjoy this deeper dive into a fun project.
+It was awesome to see how many of you were interested in our recent [blogpost](http://blog.parseplatform.org/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/) on moving our API stack from Ruby to Go. In fact, it's one of our most visited and commented on posts, ever. We also blogged about some of the [libraries](http://blog.parseplatform.org/learn/parse-loves-go/) we used. Earlier this month, Parse engineer Abhishek Kona spoke about how we tackled this at Gophercon. Enjoy this deeper dive into a fun project.

@@ -4,7 +4,7 @@ title: Android Push Gets Major Refresh
 date: 2014-09-30T18:25:31+00:00
 author: thomasbouldin
 layout: post
-guid: http://blog.parse.com/?p=2540
+guid: http://blog.parseplatform.org/?p=2540
 permalink: /learn/android-push-gets-major-refresh/
 post_format:
   - basic
@@ -49,7 +49,7 @@ We're also introducing a new special field for Android pushes too! If you specif
   where: new Parse.Query(Parse.Installation), // Everyone
   data: {
     alert: "Android Push Gets Major Refresh",
-    uri: "http://blog.parse.com",
+    uri: "http://blog.parseplatform.org",
   }
 })</pre>
 

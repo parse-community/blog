@@ -4,7 +4,7 @@ title: Parsing All Over the Globe
 date: 2014-12-01T19:16:40+00:00
 author: ilyasukhar
 layout: post
-guid: http://blog.parse.com/?p=2630
+guid: http://blog.parseplatform.org/?p=2630
 permalink: /learn/parsing-all-over-the-globe/
 post_format:
   - feat-image
@@ -26,7 +26,7 @@ tags:
   - growth
   - international
 ---
-_View this post in:  _<a href="http://blog.parse.com/2014/12/01/cn/" target="_blank">中文(简体)</a>   |  <a href="http://blog.parse.com/2014/12/01/tw/" target="_blank">中文(台灣)</a>   |    <a href="http://blog.parse.com/2014/12/01/kr/" target="_blank">한국어</a>    |    <a href="http://blog.parse.com/2014/12/01/jp/" target="_blank">日本語</a>    |    <a href="http://blog.parse.com/2014/12/01/ru/" target="_blank">Русский</a>
+_View this post in:  _<a href="http://blog.parseplatform.org/2014/12/01/cn/" target="_blank">中文(简体)</a>   |  <a href="http://blog.parseplatform.org/2014/12/01/tw/" target="_blank">中文(台灣)</a>   |    <a href="http://blog.parseplatform.org/2014/12/01/kr/" target="_blank">한국어</a>    |    <a href="http://blog.parseplatform.org/2014/12/01/jp/" target="_blank">日本語</a>    |    <a href="http://blog.parseplatform.org/2014/12/01/ru/" target="_blank">Русский</a>
 
 My cofounders and I started Parse in 2011 to solve our own problems. We were frustrated with all the repetitive work needed to build great cross platform mobile apps. Our first customers were our friends who also built apps and they mostly lived near us in San Francisco. Over time, we started attracting more customers that weren't just our friends — first in Silicon Valley and soon throughout North America. Today, over 500,000 apps have been created on Parse, and hundreds of thousands of our developers hail from outside of the United States. Our team is incredibly honored that so many developers across the globe have trusted Parse with their businesses and apps. Here are some cool stats about our global presence:
 

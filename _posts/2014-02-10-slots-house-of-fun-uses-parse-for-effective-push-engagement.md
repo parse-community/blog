@@ -4,7 +4,7 @@ title: Playtika Uses Parse for Effective Push Engagement
 date: 2014-02-10T20:39:50+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2080
+guid: http://blog.parseplatform.org/?p=2080
 permalink: /non-technical/slots-house-of-fun-uses-parse-for-effective-push-engagement/
 dsq_thread_id:
   - "3687614162"

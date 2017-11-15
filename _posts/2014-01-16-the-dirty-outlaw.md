@@ -4,7 +4,7 @@ title: The Dirty Outlaw
 date: 2014-01-16T18:03:40+00:00
 author: listiarsowastuargo
 layout: post
-guid: http://blog.parse.com/?p=1945
+guid: http://blog.parseplatform.org/?p=1945
 permalink: /learn/engineering/the-dirty-outlaw/
 dsq_thread_id:
   - "3688802007"

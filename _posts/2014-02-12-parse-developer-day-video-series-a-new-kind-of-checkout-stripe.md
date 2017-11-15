@@ -4,7 +4,7 @@ title: 'Parse Developer Day Video Series: A New Kind of Checkout (Stripe)'
 date: 2014-02-12T10:00:51+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2084
+guid: http://blog.parseplatform.org/?p=2084
 permalink: /events/parse-developer-day-video-series-a-new-kind-of-checkout-stripe/
 dsq_thread_id:
   - "3699372216"

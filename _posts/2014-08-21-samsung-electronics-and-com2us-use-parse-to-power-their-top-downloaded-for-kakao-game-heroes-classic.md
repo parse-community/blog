@@ -4,7 +4,7 @@ title: Com2uS Uses Parse to Power their Top Downloaded for-Kakao Game “Heroes 
 date: 2014-08-21T14:00:36+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=2447
+guid: http://blog.parseplatform.org/?p=2447
 permalink: /customers/samsung-electronics-and-com2us-use-parse-to-power-their-top-downloaded-for-kakao-game-heroes-classic/
 post_format:
   - basic

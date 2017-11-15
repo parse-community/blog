@@ -4,7 +4,7 @@ title: Migrating from Urban Airship
 date: 2014-12-08T19:15:11+00:00
 author: mattieugamacheasselin
 layout: post
-guid: http://blog.parse.com/?p=2640
+guid: http://blog.parseplatform.org/?p=2640
 permalink: /learn/migrating-from-urban-airship/
 post_format:
   - basic
@@ -32,6 +32,6 @@ Parse Push allows developers to send **unlimited** push notifications to up to 1
 
 After the import is complete, check out the Data Browser to see all of your data. You can then immediately start sending pushes to existing devices without requiring an update to your app. Until you require an update, you can continue using the migration tool to import any new devices. Don't worry, we're keeping track of which ones you've already imported, so there won't be any duplicates. Once you've integrated the Parse SDK and updated your app, new devices will start showing up in Parse. You can then start taking advantage of our powerful analytics features. To learn more about the steps of migrating to Parse, take a look at [our tutorial](https://www.parse.com/tutorials/migrating-from-urban-airship) that will guide you through the whole process.
 
-We're excited for you to experience all that Parse has to offer. With Parse Push, you can now enjoy device targeting, in-depth analytics, and timezone and badge increment support for your push messaging. Plus, don't miss our [brand new A/B testing feature](http://blog.parse.com/2014/11/03/parse-push-experiments-re-engage-more-powerfully-and-more-creatively-with-ab-testing-2/ "Push A/B testing") — engage with your users more intimately and effectively than ever before.
+We're excited for you to experience all that Parse has to offer. With Parse Push, you can now enjoy device targeting, in-depth analytics, and timezone and badge increment support for your push messaging. Plus, don't miss our [brand new A/B testing feature](http://blog.parseplatform.org/2014/11/03/parse-push-experiments-re-engage-more-powerfully-and-more-creatively-with-ab-testing-2/ "Push A/B testing") — engage with your users more intimately and effectively than ever before.
 
 If there's any other importer you'd like to see, [let us know](https://groups.google.com/forum/#!forum/parse-developers "Parse Help")!

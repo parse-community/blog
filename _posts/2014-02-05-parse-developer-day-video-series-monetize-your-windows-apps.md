@@ -4,7 +4,7 @@ title: 'Parse Developer Day Video Series: Monetize Your Windows Apps'
 date: 2014-02-05T20:31:23+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2070
+guid: http://blog.parseplatform.org/?p=2070
 permalink: /events/parse-developer-day-video-series-monetize-your-windows-apps/
 dsq_thread_id:
   - "3695136962"

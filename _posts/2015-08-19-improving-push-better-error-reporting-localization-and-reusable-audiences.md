@@ -4,7 +4,7 @@ title: 'Improving Push: Better Error Reporting, Localization, and Reusable Audie
 date: 2015-08-19T13:13:34+00:00
 author: vítorfernandes
 layout: post
-guid: http://blog.parse.com/?p=3707
+guid: http://blog.parseplatform.org/?p=3707
 permalink: /announcements/improving-push-better-error-reporting-localization-and-reusable-audiences/
 post_format:
   - feat-image

@@ -4,7 +4,7 @@ title: 'Parse Security IV - Ahead in the Cloud'
 date: 2014-07-21T16:42:28+00:00
 author: bryanklimt
 layout: post
-guid: http://blog.parse.com/?p=2414
+guid: http://blog.parseplatform.org/?p=2414
 permalink: /learn/engineering/parse-security-iv-ahead-in-the-cloud/
 dsq_thread_id:
   - "3679015206"
@@ -43,4 +43,4 @@ One very common use case for Cloud Code is sending push notifications to particu
 
 In this post, we've looked at how you can use Cloud Code to write trusted code, to keep your data secure in cases where class-level permissions and ACLs aren't enough. In Part V, we'll dive into a particular example of how to use ACLs, Roles, and Cloud Code to let users have data that is shared only to their friends.
 
-<span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/06/30/parse-security-i-are-you-the-key-master/" target="_blank">Part I</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/07/07/parse-security-ii-class-hysteria/" target="_blank">Part II</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/07/14/parse-security-iii-are-you-on-the-list/" target="_blank">Part III</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/07/28/parse-security-v-how-to-make-friends/" target="_blank">Part V</a></span>
+<span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/06/30/parse-security-i-are-you-the-key-master/" target="_blank">Part I</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/07/07/parse-security-ii-class-hysteria/" target="_blank">Part II</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/07/14/parse-security-iii-are-you-on-the-list/" target="_blank">Part III</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/07/28/parse-security-v-how-to-make-friends/" target="_blank">Part V</a></span>

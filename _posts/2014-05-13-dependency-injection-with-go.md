@@ -4,7 +4,7 @@ title: Dependency Injection with Go
 date: 2014-05-13T12:00:45+00:00
 author: naitikshah
 layout: post
-guid: http://blog.parse.com/?p=2327
+guid: http://blog.parseplatform.org/?p=2327
 permalink: /learn/engineering/dependency-injection-with-go/
 post_format:
   - basic

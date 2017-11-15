@@ -4,7 +4,7 @@ title: Groupon Taiwan Uses Parse Push to Offer Deals with Ease
 date: 2014-07-11T21:44:25+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=2425
+guid: http://blog.parseplatform.org/?p=2425
 permalink: /customers/groupon-taiwan-uses-parse-push-to-deal-offers-with-ease/
 dsq_thread_id:
   - "3687614324"

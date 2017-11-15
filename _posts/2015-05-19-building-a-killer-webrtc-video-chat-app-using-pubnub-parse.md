@@ -4,7 +4,7 @@ title: 'Building a Killer WebRTC Video Chat App using PubNub &#038; Parse'
 date: 2015-05-19T13:10:03+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=3551
+guid: http://blog.parseplatform.org/?p=3551
 permalink: /learn/building-a-killer-webrtc-video-chat-app-using-pubnub-parse/
 post_format:
   - basic

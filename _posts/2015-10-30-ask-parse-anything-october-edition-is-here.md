@@ -4,7 +4,7 @@ title: 'Ask Parse Anything - October Edition Is Here!'
 date: 2015-10-30T15:04:53+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=3866
+guid: http://blog.parseplatform.org/?p=3866
 permalink: /videos/ask-parse-anything-october-edition-is-here/
 post_format:
   - feat-video

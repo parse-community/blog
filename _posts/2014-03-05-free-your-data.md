@@ -4,7 +4,7 @@ title: Free Your Data
 date: 2014-03-05T10:21:38+00:00
 author: mattieugamacheasselin
 layout: post
-guid: http://blog.parse.com/?p=2151
+guid: http://blog.parseplatform.org/?p=2151
 permalink: /announcements/free-your-data/
 dsq_thread_id:
   - "3690240586"

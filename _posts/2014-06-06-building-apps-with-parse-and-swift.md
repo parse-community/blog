@@ -4,7 +4,7 @@ title: Building Apps with Parse and Swift
 date: 2014-06-06T05:18:21+00:00
 author: foscomarotto
 layout: post
-guid: http://blog.parse.com/?p=2342
+guid: http://blog.parseplatform.org/?p=2342
 permalink: /announcements/building-apps-with-parse-and-swift/
 dsq_thread_id:
   - "3685461122"

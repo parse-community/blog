@@ -4,7 +4,7 @@ title: 'Get Off My Lawn: a New Way to Control Access to Your App'
 date: 2014-10-21T18:35:56+00:00
 author: jamiekarraker
 layout: post
-guid: http://blog.parse.com/?p=2572
+guid: http://blog.parseplatform.org/?p=2572
 permalink: /learn/get-off-my-lawn-a-new-way-to-control-access-to-your-app/
 post_format:
   - basic
@@ -13,7 +13,7 @@ dsq_thread_id:
 categories:
   - Learn
 ---
-Security plays an important part in releasing an app on Parse, and [Access Control Lists (ACLs)](https://parse.com/docs/data#security-objects) are one of the most powerful ways to secure your app. As Bryan mentioned in [part III of his security series](http://blog.parse.com/2014/07/14/parse-security-iii-are-you-on-the-list/), “If you have a production app and you aren’t using ACLs, you’re almost certainly doing it wrong.” In that blog post he examines how to create and save ACLs in code. Another effective way to create and manage ACLs is through the [data browser](https://parse.com/docs/data#data-browser), and today that is much easier with a new and improved ACL editor. The data browser is already one of our most popular and most frequently used tools, and now you can also use the data browser to easily edit and manage your app's ACLs.
+Security plays an important part in releasing an app on Parse, and [Access Control Lists (ACLs)](https://parse.com/docs/data#security-objects) are one of the most powerful ways to secure your app. As Bryan mentioned in [part III of his security series](http://blog.parseplatform.org/2014/07/14/parse-security-iii-are-you-on-the-list/), “If you have a production app and you aren’t using ACLs, you’re almost certainly doing it wrong.” In that blog post he examines how to create and save ACLs in code. Another effective way to create and manage ACLs is through the [data browser](https://parse.com/docs/data#data-browser), and today that is much easier with a new and improved ACL editor. The data browser is already one of our most popular and most frequently used tools, and now you can also use the data browser to easily edit and manage your app's ACLs.
 
 An ACL is essentially a list of users that are allowed to read or write a Parse object. For example, let's say your social networking app has a `Post` object, and you want the user who created that post, `jack`, to be the only person who can see it. You would then create an ACL on that object and give Jack read permissions. By default, ACLs are public read and write, so to add an ACL on Jack, first uncheck public read and write, and then type Jack's username into the ACL editor. Each step is shown in the new editor, along with the equivalent code in iOS.
 
@@ -24,7 +24,7 @@ PFObject *post = [PFObject objectWithClassName:@"Post"];
 PFACL *acl = [PFACL ACL];
 [acl setReadAccess:true forUser:jack];</pre>
 
-Now Jack's post is private, and Jack is the only one who can see it. But nobody has write permissions on the object, so its fields can only be changed by using the [master key](http://blog.parse.com/2014/06/30/parse-security-i-are-you-the-key-master/). What if Jack wants to edit his post? To allow this, you need to give Jack write permissions in the object's ACL.
+Now Jack's post is private, and Jack is the only one who can see it. But nobody has write permissions on the object, so its fields can only be changed by using the [master key](http://blog.parseplatform.org/2014/06/30/parse-security-i-are-you-the-key-master/). What if Jack wants to edit his post? To allow this, you need to give Jack write permissions in the object's ACL.
 
 `<a href="{{ site.url }}/assets/wp-content/uploads/2014/10/Screenshot-2014-10-20-19.49.00.png"><img class="alignnone size-large wp-image-2574" src="{{ site.url }}/assets/wp-content/uploads/2014/10/Screenshot-2014-10-20-19.49.00-1024x799.png" alt="Screenshot 2014-10-20 19.49.00" width="584" height="455" /></a>`
 

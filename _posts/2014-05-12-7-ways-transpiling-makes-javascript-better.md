@@ -4,7 +4,7 @@ title: 7 Ways Transpiling Makes JavaScript Better
 date: 2014-05-12T11:43:23+00:00
 author: bryanklimt
 layout: post
-guid: http://blog.parse.com/?p=2316
+guid: http://blog.parseplatform.org/?p=2316
 permalink: /learn/engineering/7-ways-transpiling-makes-javascript-better/
 dsq_thread_id:
   - "3687754696"

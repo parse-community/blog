@@ -4,7 +4,7 @@ title: Parse is Back in NYC
 date: 2015-05-21T13:05:41+00:00
 author: devincheevers
 layout: post
-guid: http://blog.parse.com/?p=3570
+guid: http://blog.parseplatform.org/?p=3570
 permalink: /events/parse-is-back-in-nyc/
 post_format:
   - event

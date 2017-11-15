@@ -4,7 +4,7 @@ title: Voltage Entertainment Launches Another Hit With Parse
 date: 2015-01-21T19:30:48+00:00
 author: devincheevers
 layout: post
-guid: http://blog.parse.com/?p=2677
+guid: http://blog.parseplatform.org/?p=2677
 permalink: /customers/voltage-entertainment-launches-another-hit-with-parse/
 post_format:
   - basic
