@@ -4,7 +4,7 @@ title: Using Node.js with Parse
 date: 2015-09-14T16:13:20+00:00
 author: foscomarotto
 layout: post
-guid: http://blog.parse.com/?p=3798
+guid: http://blog.parseplatform.org/?p=3798
 permalink: /learn/using-node-js-with-parse/
 post_format:
   - basic

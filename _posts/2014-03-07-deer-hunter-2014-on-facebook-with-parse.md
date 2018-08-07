@@ -4,7 +4,7 @@ title: Glu Brings Deer Hunter 2014 to Facebook with Parse
 date: 2014-03-07T16:49:03+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2162
+guid: http://blog.parseplatform.org/?p=2162
 permalink: /non-technical/deer-hunter-2014-on-facebook-with-parse/
 dsq_thread_id:
   - "3687556860"

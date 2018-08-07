@@ -4,7 +4,7 @@ title: 'MongoDB + RocksDB: Writing so Fast it Makes Your Head Spin'
 date: 2015-05-07T09:35:00+00:00
 author: mikekania
 layout: post
-guid: http://blog.parse.com/?p=3504
+guid: http://blog.parseplatform.org/?p=3504
 permalink: /learn/engineering/mongodb-rocksdb-writing-so-fast-it-makes-your-head-spin/
 post_format:
   - basic
@@ -20,7 +20,7 @@ tags:
   - mongodb
   - RocksDB
 ---
-[Last week](http://blog.parse.com/learn/engineering/mongodb-rocksdb-benchmark-setup-compression/), I talked about how we set up Flashback to start benchmarking MongoDB 3.0 and highlighted the insane storage efficiencies achieved with both RocksDB and WiredTiger. As a recap, the amount of storage used dropped by more than **10x** when importing a production replica set into either RocksDB or WiredTiger.
+[Last week](http://blog.parseplatform.org/learn/engineering/mongodb-rocksdb-benchmark-setup-compression/), I talked about how we set up Flashback to start benchmarking MongoDB 3.0 and highlighted the insane storage efficiencies achieved with both RocksDB and WiredTiger. As a recap, the amount of storage used dropped by more than **10x** when importing a production replica set into either RocksDB or WiredTiger.
 
 This next post will dive into how MongoDB with RocksDB performs against production workloads.
 

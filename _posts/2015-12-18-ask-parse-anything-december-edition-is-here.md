@@ -4,7 +4,7 @@ title: 'Ask Parse Anything - December Edition Is Here!'
 date: 2015-12-18T08:55:10+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=3901
+guid: http://blog.parseplatform.org/?p=3901
 permalink: /videos/ask-parse-anything-december-edition-is-here/
 post_format:
   - feat-video

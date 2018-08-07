@@ -4,7 +4,7 @@ title: Introducing the new ParseUI for iOS
 date: 2014-11-06T21:00:03+00:00
 author: nikitalutsenko
 layout: post
-guid: http://blog.parse.com/?p=2599
+guid: http://blog.parseplatform.org/?p=2599
 permalink: /announcements/introducing-the-new-parseui-for-ios/
 post_format:
   - feat-image

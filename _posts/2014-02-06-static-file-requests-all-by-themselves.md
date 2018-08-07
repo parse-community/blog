@@ -4,7 +4,7 @@ title: Static File Requests, All by Themselves
 date: 2014-02-06T18:31:20+00:00
 author: christineyen
 layout: post
-guid: http://blog.parse.com/?p=2073
+guid: http://blog.parseplatform.org/?p=2073
 permalink: /announcements/static-file-requests-all-by-themselves/
 dsq_thread_id:
   - "3690488046"

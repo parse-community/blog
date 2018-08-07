@@ -4,7 +4,7 @@ title: Moving Parse Apps to the More Secure SHA-2 Industry Standard
 date: 2015-08-04T12:09:47+00:00
 author: stanleywang
 layout: post
-guid: http://blog.parse.com/?p=3659
+guid: http://blog.parseplatform.org/?p=3659
 permalink: /announcements/moving-parse-apps-to-the-more-secure-sha-2-industry-standard/
 post_format:
   - basic
@@ -49,4 +49,4 @@ We also want to better understand the impact of this change for our developers. 
 
 * * *
 
-We are always working to make Parse more secure. In addition to improving our overall platform, we also provide several tools to help you manage and secure your app's data. You can learn more about them [here](http://blog.parse.com/tags/security/).
+We are always working to make Parse more secure. In addition to improving our overall platform, we also provide several tools to help you manage and secure your app's data. You can learn more about them [here](http://blog.parseplatform.org/tags/security/).

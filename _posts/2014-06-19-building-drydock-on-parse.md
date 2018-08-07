@@ -4,7 +4,7 @@ title: Building DryDock on Parse
 date: 2014-06-19T22:42:35+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=2370
+guid: http://blog.parseplatform.org/?p=2370
 permalink: /learn/engineering/building-drydock-on-parse/
 post_format:
   - basic

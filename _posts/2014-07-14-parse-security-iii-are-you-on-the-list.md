@@ -4,16 +4,16 @@ title: 'Parse Security III - Are You On the List?'
 date: 2014-07-14T17:44:25+00:00
 author: bryanklimt
 layout: post
-guid: http://blog.parse.com/?p=2413
+guid: http://blog.parseplatform.org/?p=2413
 permalink: /learn/engineering/parse-security-iii-are-you-on-the-list/
 dsq_thread_id:
   - "3687646299"
 categories:
   - Engineering
 ---
-In <a href="http://blog.parse.com/2014/07/07/parse-security-ii-class-hysteria/" target="_blank">Part II</a>, we looked at class-level permissions, which allow you to quickly set permissions for an entire class at once. But often, the different objects in a class will need to be accessible by different people. For example, a user's private personal data should be accessible only to them. For that, you have to use an Access Control List, usually referred to as an ACL. If you have a production app and you aren't using ACLs, you're almost certainly doing it wrong.
+In <a href="http://blog.parseplatform.org/2014/07/07/parse-security-ii-class-hysteria/" target="_blank">Part II</a>, we looked at class-level permissions, which allow you to quickly set permissions for an entire class at once. But often, the different objects in a class will need to be accessible by different people. For example, a user's private personal data should be accessible only to them. For that, you have to use an Access Control List, usually referred to as an ACL. If you have a production app and you aren't using ACLs, you're almost certainly doing it wrong.
 
-An ACL specifies a set of users who can read or write an object's data. So, before you can use ACLs, you have to have Users. There are many ways to handle users on Parse. You can have usernames and passwords, or you can use <a href="https://developers.facebook.com/docs/facebook-login/v2.0" target="_blank">Facebook Login</a>. If you don't want to make your users create usernames just to log in, you can even use Parse's <a href="http://blog.parse.com/2012/04/02/protect-user-data-with-new-parse-features/" target="_blank">automatic anonymous users feature</a>. That allows you to create a user and log them in on a particular device in a secure way. If they later decide to set a username and password, or link the account with Facebook, then they can then log in from any other device. Setting up automatic anonymous users is easy, so you have no excuse not to protect per-user data!
+An ACL specifies a set of users who can read or write an object's data. So, before you can use ACLs, you have to have Users. There are many ways to handle users on Parse. You can have usernames and passwords, or you can use <a href="https://developers.facebook.com/docs/facebook-login/v2.0" target="_blank">Facebook Login</a>. If you don't want to make your users create usernames just to log in, you can even use Parse's <a href="http://blog.parseplatform.org/2012/04/02/protect-user-data-with-new-parse-features/" target="_blank">automatic anonymous users feature</a>. That allows you to create a user and log them in on a particular device in a secure way. If they later decide to set a username and password, or link the account with Facebook, then they can then log in from any other device. Setting up automatic anonymous users is easy, so you have no excuse not to protect per-user data!
 
 <pre class="brush: objc; gutter: false">[PFUser enableAutomaticUser];</pre>
 
@@ -50,4 +50,4 @@ Of course, this snippet assumes you've already created a role called “admins�
 
 So far in this security series, we've covered class-level permissions and ACLs. These features are sufficient to secure the vast majority of apps. In Part IV, we'll look at how you can use Cloud Code to secure apps even in rare edge cases.
 
-<span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/06/30/parse-security-i-are-you-the-key-master/" target="_blank">Part I</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/07/07/parse-security-ii-class-hysteria/" target="_blank">Part II</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/07/21/parse-security-iv-ahead-in-the-cloud/" target="_blank">Part IV</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/07/28/parse-security-v-how-to-make-friends/" target="_blank">Part V</a></span>
+<span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/06/30/parse-security-i-are-you-the-key-master/" target="_blank">Part I</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/07/07/parse-security-ii-class-hysteria/" target="_blank">Part II</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/07/21/parse-security-iv-ahead-in-the-cloud/" target="_blank">Part IV</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/07/28/parse-security-v-how-to-make-friends/" target="_blank">Part V</a></span>

@@ -4,7 +4,7 @@ title: The League Meets Its Backend Match in Parse
 date: 2015-02-05T22:22:19+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=2628
+guid: http://blog.parseplatform.org/?p=2628
 permalink: /customers/the-league-meets-its-backend-match-in-parse/
 post_format:
   - basic

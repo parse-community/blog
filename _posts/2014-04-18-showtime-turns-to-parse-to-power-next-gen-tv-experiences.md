@@ -4,7 +4,7 @@ title: Showtime Turns to Parse to Power Next Gen TV Experiences
 date: 2014-04-18T17:47:16+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2258
+guid: http://blog.parseplatform.org/?p=2258
 permalink: /non-technical/showtime-turns-to-parse-to-power-next-gen-tv-experiences/
 dsq_thread_id:
   - "3687614671"

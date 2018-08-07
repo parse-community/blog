@@ -4,7 +4,7 @@ title: 'Ask Parse Anything - June Edition Is Here!'
 date: 2015-06-30T11:29:33+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=3634
+guid: http://blog.parseplatform.org/?p=3634
 permalink: /videos/ask-parse-anything-june-edition-is-here/
 post_format:
   - feat-video

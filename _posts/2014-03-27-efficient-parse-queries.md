@@ -4,7 +4,7 @@ title: Writing Efficient Parse Queries
 date: 2014-03-27T10:56:41+00:00
 author: abhishekkona
 layout: post
-guid: http://blog.parse.com/?p=2194
+guid: http://blog.parseplatform.org/?p=2194
 permalink: /learn/engineering/efficient-parse-queries/
 dsq_thread_id:
   - "3687773395"

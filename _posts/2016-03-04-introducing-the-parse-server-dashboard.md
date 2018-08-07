@@ -4,7 +4,7 @@ title: Introducing the Parse Server Dashboard
 date: 2016-03-04T12:58:58+00:00
 author: drewgross
 layout: post
-guid: http://blog.parse.com/?p=3955
+guid: http://blog.parseplatform.org/?p=3955
 permalink: /announcements/introducing-the-parse-server-dashboard/
 post_format:
   - basic
@@ -15,7 +15,7 @@ hide_from_index:
 categories:
   - Announcements
 ---
-With the winding down of the Parse hosted service and the transition to the Open Source <a href="http://blog.parse.com/announcements/what-is-parse-server/" target="_blank">Parse Server</a>, many of you have been asking how you will manage your app when it’s running on your own system. Today we are answering that question with <a href="https://github.com/ParsePlatform/parse-dashboard" target="_blank">Parse Dashboard</a>. You can start using it today to manage the apps that you have already moved to Parse Server, your apps that are still on <a href="http://parse.com/" target="_blank">Parse.com</a>, and your apps that are still in development and running on Parse Server on your development machine. You can even manage them all from the same dashboard.
+With the winding down of the Parse hosted service and the transition to the Open Source <a href="http://blog.parseplatform.org/announcements/what-is-parse-server/" target="_blank">Parse Server</a>, many of you have been asking how you will manage your app when it’s running on your own system. Today we are answering that question with <a href="https://github.com/ParsePlatform/parse-dashboard" target="_blank">Parse Dashboard</a>. You can start using it today to manage the apps that you have already moved to Parse Server, your apps that are still on <a href="http://parse.com/" target="_blank">Parse.com</a>, and your apps that are still in development and running on Parse Server on your development machine. You can even manage them all from the same dashboard.
 
 ## Getting Started
 

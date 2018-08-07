@@ -4,7 +4,7 @@ title: Hosting Files on Parse Server
 date: 2016-02-19T13:31:52+00:00
 author: patrickpelletier
 layout: post
-guid: http://blog.parse.com/?p=3935
+guid: http://blog.parseplatform.org/?p=3935
 permalink: /announcements/hosting-files-on-parse-server/
 post_format:
   - basic

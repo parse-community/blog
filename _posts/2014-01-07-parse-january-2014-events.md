@@ -4,7 +4,7 @@ title: Parse January 2014 Events
 date: 2014-01-07T19:21:09+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2009
+guid: http://blog.parseplatform.org/?p=2009
 permalink: /events/parse-january-2014-events/
 dsq_thread_id:
   - "3834836034"
@@ -14,7 +14,7 @@ categories:
 ---
 Parse is starting off the New Year with a couple of events in the month of January, including:
 
-**<a href="http://blog.parse.com/2013/12/29/parse-at-mit-iap/" target="_blank">MIT Independent Activities Period </a>– January 8-13, 2014 – Boston, MA**
+**<a href="http://blog.parseplatform.org/2013/12/29/parse-at-mit-iap/" target="_blank">MIT Independent Activities Period </a>– January 8-13, 2014 – Boston, MA**
   
 Parse MIT Alums Jamie Karraker, Christine Yen, and Stanley Wang will be leading sessions, having office hours, and hosting a happy hour during MIT's winter Independent Activities Period.
 

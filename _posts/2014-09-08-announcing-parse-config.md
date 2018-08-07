@@ -4,7 +4,7 @@ title: Announcing Parse Config
 date: 2014-09-08T17:38:23+00:00
 author: karangajwani
 layout: post
-guid: http://blog.parse.com/?p=2508
+guid: http://blog.parseplatform.org/?p=2508
 permalink: /announcements/announcing-parse-config/
 post_format:
   - feat-image

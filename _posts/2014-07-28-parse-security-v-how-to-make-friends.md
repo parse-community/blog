@@ -4,7 +4,7 @@ title: 'Parse Security V - How to Make Friends'
 date: 2014-07-28T17:28:54+00:00
 author: bryanklimt
 layout: post
-guid: http://blog.parse.com/?p=2415
+guid: http://blog.parseplatform.org/?p=2415
 permalink: /learn/engineering/parse-security-v-how-to-make-friends/
 dsq_thread_id:
   - "3687697544"
@@ -64,4 +64,4 @@ Over the course of this five-part series on how to secure your Parse app, we've 
 
 We hope that you'll use these tools to do everything you can to keep your app's data and your users' data secure. Together, we can make the web a safer place.
 
-<span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/06/30/parse-security-i-are-you-the-key-master/" target="_blank">Part I</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/07/07/parse-security-ii-class-hysteria/" target="_blank">Part II</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/07/14/parse-security-iii-are-you-on-the-list/" target="_blank">Part III</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/07/21/parse-security-iv-ahead-in-the-cloud/" target="_blank">Part IV</a></span>
+<span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/06/30/parse-security-i-are-you-the-key-master/" target="_blank">Part I</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/07/07/parse-security-ii-class-hysteria/" target="_blank">Part II</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/07/14/parse-security-iii-are-you-on-the-list/" target="_blank">Part III</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/07/21/parse-security-iv-ahead-in-the-cloud/" target="_blank">Part IV</a></span>

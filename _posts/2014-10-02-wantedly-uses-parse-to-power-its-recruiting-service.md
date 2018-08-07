@@ -4,7 +4,7 @@ title: Wantedly Uses Parse to Power Its Recruiting Service
 date: 2014-10-02T18:52:23+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=2437
+guid: http://blog.parseplatform.org/?p=2437
 permalink: /customers/wantedly-uses-parse-to-power-its-recruiting-service/
 post_format:
   - basic

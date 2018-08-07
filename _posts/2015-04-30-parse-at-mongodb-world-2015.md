@@ -4,7 +4,7 @@ title: Parse at MongoDB World 2015
 date: 2015-04-30T15:38:49+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=3453
+guid: http://blog.parseplatform.org/?p=3453
 permalink: /events/parse-at-mongodb-world-2015/
 post_format:
   - event

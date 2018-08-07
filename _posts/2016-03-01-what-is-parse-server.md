@@ -4,7 +4,7 @@ title: What is Parse Server?
 date: 2016-03-01T10:31:09+00:00
 author: foscomarotto
 layout: post
-guid: http://blog.parse.com/?p=3949
+guid: http://blog.parseplatform.org/?p=3949
 permalink: /announcements/what-is-parse-server/
 post_format:
   - feat-image

@@ -4,7 +4,7 @@ title: Take Your App Offline with Parse Local Datastore
 date: 2014-04-30T17:30:18+00:00
 author: grantlandchew
 layout: post
-guid: http://blog.parse.com/?p=2274
+guid: http://blog.parseplatform.org/?p=2274
 permalink: /announcements/take-your-app-offline-with-parse-local-datastore/
 post_format:
   - basic

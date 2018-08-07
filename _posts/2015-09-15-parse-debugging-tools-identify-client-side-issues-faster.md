@@ -4,7 +4,7 @@ title: 'Parse Debugging Tools: Identify Client-Side Issues Faster'
 date: 2015-09-15T12:51:51+00:00
 author: mengyanwang
 layout: post
-guid: http://blog.parse.com/?p=3801
+guid: http://blog.parseplatform.org/?p=3801
 permalink: /announcements/parse-debugging-tools-identify-client-side-issues-faster/
 post_format:
   - basic
@@ -21,7 +21,7 @@ tags:
   - loginterceptor
   - stethointerceptor
 ---
-In order to build amazing apps you sometimes need to quickly debug issues. We recently launched the [Parse Explorer](http://blog.parse.com/learn/chart-new-territory-with-parse-explorer/) tool to help with this process; it allows you to better investigate issues with your app’s API requests. However, even before diving into your API requests, you need to identify whether issues may be occurring on the client side instead. Today we're happy to introduce new Parse debugging tools for iOS and Android, which help you to identify client-side issues by surfacing requests and responses between the Parse SDK and Parse server.
+In order to build amazing apps you sometimes need to quickly debug issues. We recently launched the [Parse Explorer](http://blog.parseplatform.org/learn/chart-new-territory-with-parse-explorer/) tool to help with this process; it allows you to better investigate issues with your app’s API requests. However, even before diving into your API requests, you need to identify whether issues may be occurring on the client side instead. Today we're happy to introduce new Parse debugging tools for iOS and Android, which help you to identify client-side issues by surfacing requests and responses between the Parse SDK and Parse server.
 
 * * *
 

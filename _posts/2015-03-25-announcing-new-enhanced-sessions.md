@@ -4,7 +4,7 @@ title: Announcing New Enhanced Sessions
 date: 2015-03-25T10:50:03+00:00
 author: stanleywang
 layout: post
-guid: http://blog.parse.com/?p=3388
+guid: http://blog.parseplatform.org/?p=3388
 permalink: /announcements/announcing-new-enhanced-sessions/
 post_format:
   - feat-image
@@ -24,7 +24,7 @@ tags:
   - security
   - sessions
 ---
-At Parse, we're constantly striving to provide the tools you need to make your app more successful. One of the most important aspects of an app's success is security, so that people can trust your app when they use it. Parse already provides several tools to secure your app, including [Access Control Lists (ACLs)](https://parse.com/docs/data#security-objects) for Parse Objects, [Class-Level Permissions](http://blog.parse.com/2015/02/23/secure-your-app-one-class-at-a-time) for each data table on Parse, and [Cloud Code](http://blog.parse.com/2014/07/21/parse-security-iv-ahead-in-the-cloud/) for even more in-depth security customizations. Today, we're excited to announce an update to our previous sessions functionality. With the new Enhanced Sessions feature, we're giving developers and people more control than ever over data security.
+At Parse, we're constantly striving to provide the tools you need to make your app more successful. One of the most important aspects of an app's success is security, so that people can trust your app when they use it. Parse already provides several tools to secure your app, including [Access Control Lists (ACLs)](https://parse.com/docs/data#security-objects) for Parse Objects, [Class-Level Permissions](http://blog.parseplatform.org/2015/02/23/secure-your-app-one-class-at-a-time) for each data table on Parse, and [Cloud Code](http://blog.parseplatform.org/2014/07/21/parse-security-iv-ahead-in-the-cloud/) for even more in-depth security customizations. Today, we're excited to announce an update to our previous sessions functionality. With the new Enhanced Sessions feature, we're giving developers and people more control than ever over data security.
 
 Prior to this launch, if a user logged into your app through multiple devices, this same session token was shared across all devices. This session token was not revocable, and upon logging out, the token was not destroyed.
 

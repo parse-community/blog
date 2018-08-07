@@ -4,7 +4,7 @@ title: A Toast to Windows Phone Users
 date: 2014-04-03T09:00:55+00:00
 author: andrewimm
 layout: post
-guid: http://blog.parse.com/?p=2000
+guid: http://blog.parseplatform.org/?p=2000
 permalink: /announcements/toast-to-windows-phone-users/
 dsq_thread_id:
   - "3705317154"

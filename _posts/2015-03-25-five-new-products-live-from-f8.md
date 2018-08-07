@@ -4,7 +4,7 @@ title: Five New Products, Live From F8
 date: 2015-03-25T17:51:23+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=3399
+guid: http://blog.parseplatform.org/?p=3399
 permalink: /announcements/five-new-products-live-from-f8/
 post_format:
   - feat-image
@@ -32,7 +32,7 @@ Since F8 2014, our community of developers has grown to include over 400,000 of 
   
 Giving you more control than ever over your app's security, the new Enhanced Sessions feature allows you to manage session logins for each device that your users log in with.
 
-[Read more](http://blog.parse.com/announcements/announcing-enhanced-sessions/){.btn}
+[Read more](http://blog.parseplatform.org/announcements/announcing-enhanced-sessions/){.btn}
 
 &nbsp;
 
@@ -40,7 +40,7 @@ Giving you more control than ever over your app's security, the new Enhanced Ses
   
 Starting today, it is easier than ever to use Parse to build apps for devices like garage door openers, smart batteries, thermostats, security cameras, and much more. Using our new SDK for the Arduino Yún and our Embedded C SDK for Linux and Real Time Operating Systems (RTOS), you can now use the power of Parse to more easily connect apps to hardware devices.
 
-[Check out the new SDKs](http://blog.parse.com/2015/03/25/connecting-hardware-with-the-cloud-parse-for-iot/){.btn}
+[Check out the new SDKs](http://blog.parseplatform.org/2015/03/25/connecting-hardware-with-the-cloud-parse-for-iot/){.btn}
 
 &nbsp;
 
@@ -48,7 +48,7 @@ Starting today, it is easier than ever to use Parse to build apps for devices li
   
 Meet our new Parse + React library, making it incredibly easy and seamless for you to access and store Parse data from React applications. Build complex and dynamic apps like never before.
 
-[Access these tools now](http://blog.parse.com/2015/03/25/parse-and-react-shared-chemistry/){.btn}
+[Access these tools now](http://blog.parseplatform.org/2015/03/25/parse-and-react-shared-chemistry/){.btn}
 
 &nbsp;
 
@@ -56,7 +56,7 @@ Meet our new Parse + React library, making it incredibly easy and seamless for y
   
 With the new Cloud Code Webhooks, you now have the freedom to write code in whatever language or framework you want. As long as you have a server running it, your Cloud Code can integrate with it.
 
-[Get started here](http://blog.parse.com/2015/03/25/introducing-cloud-code-webhooks/){.btn}
+[Get started here](http://blog.parseplatform.org/2015/03/25/introducing-cloud-code-webhooks/){.btn}
 
 &nbsp;
 
@@ -64,7 +64,7 @@ With the new Cloud Code Webhooks, you now have the freedom to write code in what
   
 Try our brand-new, powerful debugging tool for production issues in your Parse app. Investigate what's happening with a subset of your app's API requests with our powerful yet easy-to-use query language.
 
-[Find out more](http://blog.parse.com/2015/03/25/chart-new-territory-with-parse-explorer/){.btn}
+[Find out more](http://blog.parseplatform.org/2015/03/25/chart-new-territory-with-parse-explorer/){.btn}
 
 &nbsp;
 
@@ -76,4 +76,4 @@ Prior to today, integrating the Facebook SDK with our Parse iOS and Android SDKs
 
 &nbsp;
 
-We hope you enjoy exploring these new releases. Tune in to [the livestream](https://f8.facebooklive.com/) today and tomorrow to catch five in-depth [Parse sessions](http://blog.parse.com/2015/03/24/tune-in-to-f8-tomorrow/), in addition to exclusive online content from F8. Happy building!
+We hope you enjoy exploring these new releases. Tune in to [the livestream](https://f8.facebooklive.com/) today and tomorrow to catch five in-depth [Parse sessions](http://blog.parseplatform.org/2015/03/24/tune-in-to-f8-tomorrow/), in addition to exclusive online content from F8. Happy building!

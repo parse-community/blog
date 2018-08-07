@@ -4,7 +4,7 @@ title: 'Introducing Account Keys: Better Authentication for the Command Line Too
 date: 2015-08-27T10:54:25+00:00
 author: pavanathivarapu
 layout: post
-guid: http://blog.parse.com/?p=3755
+guid: http://blog.parseplatform.org/?p=3755
 permalink: /announcements/introducing-account-keys-better-authentication-for-the-command-line-tool/
 post_format:
   - basic

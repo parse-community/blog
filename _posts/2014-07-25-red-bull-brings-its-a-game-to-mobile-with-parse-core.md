@@ -4,7 +4,7 @@ title: Red Bull Brings Its A-Game to Mobile With Parse Core
 date: 2014-07-25T16:53:33+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=2446
+guid: http://blog.parseplatform.org/?p=2446
 permalink: /customers/red-bull-brings-its-a-game-to-mobile-with-parse-core/
 dsq_thread_id:
   - "3687614539"

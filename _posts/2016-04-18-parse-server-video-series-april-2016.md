@@ -4,7 +4,7 @@ title: 'Parse Server Video Series - April 2016'
 date: 2016-04-18T11:13:33+00:00
 author: foscomarotto
 layout: post
-guid: http://blog.parse.com/?p=3989
+guid: http://blog.parseplatform.org/?p=3989
 permalink: /learn/parse-server-video-series-april-2016/
 post_format:
   - basic
@@ -90,7 +90,7 @@ In this video, we cover a few features of JavaScript and discuss the changes nec
 
 <ol class="standard-list">
   <li>
-    <a href="http://blog.parse.com/learn/engineering/whats-so-great-about-javascript-promises/" target="_blank">Using Promises</a>
+    <a href="http://blog.parseplatform.org/learn/engineering/whats-so-great-about-javascript-promises/" target="_blank">Using Promises</a>
   </li>
   <li>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions" target="_blank">Arrow Functions</a>

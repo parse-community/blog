@@ -5,7 +5,7 @@ date: 2015-04-15T02:30:22+00:00
 author: georgekedenburgiii
 excerpt: "We've given the blog a full, from-scratch overhaul to help you keep up with the latest Parse happenings through a much more pleasant experience."
 layout: post
-guid: http://blog.parse.com/?p=3419
+guid: http://blog.parseplatform.org/?p=3419
 permalink: /announcements/the-new-parse-blog/
 post_format:
   - feat-image
@@ -26,7 +26,7 @@ tags:
 ---
 No, you're not seeing things — **we've got a brand new blog!**
 
-We've given the blog a full, from-scratch overhaul to help you keep up with the latest Parse happenings through a much more pleasant experience. In most ways, our blog has been pretty much the same since <a href="http://web.archive.org/web/20121004161320/http://blog.parse.com/" target="_blank">2012</a>. Three years is basically a lifetime on the Internet, so it wasn't hard to convince people internally that it was time for a change.
+We've given the blog a full, from-scratch overhaul to help you keep up with the latest Parse happenings through a much more pleasant experience. In most ways, our blog has been pretty much the same since <a href="http://web.archive.org/web/20121004161320/http://blog.parseplatform.org/" target="_blank">2012</a>. Three years is basically a lifetime on the Internet, so it wasn't hard to convince people internally that it was time for a change.
 
 * * *
 
@@ -68,13 +68,13 @@ We heard your feedback Noah, and we know just as well as you do how important th
   </div>
 </div>
 
-From now on, we'll be keeping our Parse video collection up-to-date in the new <a href="http://blog.parse.com/videos/" target="_blank">Videos</a> category. Go check out all the awesome videos from F8 2015!
+From now on, we'll be keeping our Parse video collection up-to-date in the new <a href="http://blog.parseplatform.org/videos/" target="_blank">Videos</a> category. Go check out all the awesome videos from F8 2015!
 
 ### Events
 
-[<img class="alignnone wp-image-3469 size-full" src="{{ site.url }}/assets/wp-content/uploads/2015/04/Screen-Shot-2015-04-16-at-9.55.06-AM.png" alt="Event Page" width="832" height="600" srcset="{{ site.url }}/assets/wp-content/uploads/2015/04/Screen-Shot-2015-04-16-at-9.55.06-AM.png 832w, {{ site.url }}/assets/wp-content/uploads/2015/04/Screen-Shot-2015-04-16-at-9.55.06-AM-300x216.png 300w" sizes="(max-width: 832px) 100vw, 832px" />](http://blog.parse.com/events/parse-at-twilios-2015-signal-conference/)
+[<img class="alignnone wp-image-3469 size-full" src="{{ site.url }}/assets/wp-content/uploads/2015/04/Screen-Shot-2015-04-16-at-9.55.06-AM.png" alt="Event Page" width="832" height="600" srcset="{{ site.url }}/assets/wp-content/uploads/2015/04/Screen-Shot-2015-04-16-at-9.55.06-AM.png 832w, {{ site.url }}/assets/wp-content/uploads/2015/04/Screen-Shot-2015-04-16-at-9.55.06-AM-300x216.png 300w" sizes="(max-width: 832px) 100vw, 832px" />](http://blog.parseplatform.org/events/parse-at-twilios-2015-signal-conference/)
 
-We've got an awesome new <a href="http://blog.parse.com/events/" target="_blank">Events</a> category that makes it simple to find out where we'll be and what we've got coming up. On each individual event page there is a map so you know where you're headed, plus all the event specifics in one place for you in the details area. <a title="Parse at Twilio’s 2015 Signal Conference" href="http://blog.parse.com/events/parse-at-twilios-2015-signal-conference/" target="_blank">Take a look!</a>
+We've got an awesome new <a href="http://blog.parseplatform.org/events/" target="_blank">Events</a> category that makes it simple to find out where we'll be and what we've got coming up. On each individual event page there is a map so you know where you're headed, plus all the event specifics in one place for you in the details area. <a title="Parse at Twilio’s 2015 Signal Conference" href="http://blog.parseplatform.org/events/parse-at-twilios-2015-signal-conference/" target="_blank">Take a look!</a>
 
 * * *
 

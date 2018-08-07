@@ -4,7 +4,7 @@ title: Parse is Coming to London!
 date: 2014-05-08T08:50:48+00:00
 author: ilyasukhar
 layout: post
-guid: http://blog.parse.com/?p=2321
+guid: http://blog.parseplatform.org/?p=2321
 permalink: /announcements/parse-is-coming-to-london/
 post_format:
   - feat-image

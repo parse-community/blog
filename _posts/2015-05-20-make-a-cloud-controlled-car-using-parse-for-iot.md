@@ -4,7 +4,7 @@ title: Make a Cloud-Controlled Car using Parse for IoT
 date: 2015-05-20T12:19:58+00:00
 author: ronaldyang
 layout: post
-guid: http://blog.parse.com/?p=3558
+guid: http://blog.parseplatform.org/?p=3558
 permalink: /learn/make-a-cloud-controlled-car-using-parse-for-iot/
 post_format:
   - basic
@@ -26,7 +26,7 @@ If you walk into a model shop or toy store today, you'll probably see a wide var
 
 <img class="alignnone wp-image-3559 size-medium" style="border: 0pt none; float: right; padding-left: 10px; padding-bottom: 10px;" src="{{ site.url }}/assets/wp-content/uploads/2015/05/Cloud-Car-1-300x286.png" alt="Cloud Car 1" width="300" height="286" srcset="{{ site.url }}/assets/wp-content/uploads/2015/05/Cloud-Car-1-300x286.png 300w, {{ site.url }}/assets/wp-content/uploads/2015/05/Cloud-Car-1.png 535w" sizes="(max-width: 300px) 100vw, 300px" />
 
-But with a cloud-controlled car, you can control it from anywhere in the world. In this post, we'll walk you through the steps of how to build this fun toy using Parse's [tools for connected devices](http://blog.parse.com/learn/connecting-hardware-with-the-cloud-parse-for-iot/) (and you can find the full source code at the bottom of the post). After reading this, we hope you can build your own cloud-controlled car with much less engineering effort than ever before — or maybe this will inspire you to build something even more amazing.
+But with a cloud-controlled car, you can control it from anywhere in the world. In this post, we'll walk you through the steps of how to build this fun toy using Parse's [tools for connected devices](http://blog.parseplatform.org/learn/connecting-hardware-with-the-cloud-parse-for-iot/) (and you can find the full source code at the bottom of the post). After reading this, we hope you can build your own cloud-controlled car with much less engineering effort than ever before — or maybe this will inspire you to build something even more amazing.
 
 Let's hit the road:
 

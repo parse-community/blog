@@ -4,7 +4,7 @@ title: The New Parse Developer Experience
 date: 2015-12-09T13:16:44+00:00
 author: andrewimm
 layout: post
-guid: http://blog.parse.com/?p=3886
+guid: http://blog.parseplatform.org/?p=3886
 permalink: /announcements/the-new-parse-developer-experience/
 post_format:
   - feat-image

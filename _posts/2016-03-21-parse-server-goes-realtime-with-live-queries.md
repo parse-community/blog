@@ -4,7 +4,7 @@ title: Parse Server Goes Realtime with Live Queries
 date: 2016-03-21T11:35:05+00:00
 author: mengyanwang
 layout: post
-guid: http://blog.parse.com/?p=3970
+guid: http://blog.parseplatform.org/?p=3970
 permalink: /announcements/parse-server-goes-realtime-with-live-queries/
 post_format:
   - basic

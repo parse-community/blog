@@ -4,7 +4,7 @@ title: Secure Your App, One Class at a Time
 date: 2015-02-23T21:29:17+00:00
 author: jamiekarraker
 layout: post
-guid: http://blog.parse.com/?p=2689
+guid: http://blog.parseplatform.org/?p=2689
 permalink: /learn/secure-your-app-one-class-at-a-time/
 post_format:
   - basic
@@ -20,7 +20,7 @@ tags:
   - mustread
   - security
 ---
-Security is one of the most critical aspects of releasing a production app, and with Parse there are lots of ways you can secure your app. As Bryan laid out in his [5-part security series](http://blog.parse.com/2014/06/30/parse-security-i-are-you-the-key-master/), Parse provides a powerful security toolset, including the [master key](http://blog.parse.com/2014/06/30/parse-security-i-are-you-the-key-master/), [Access Control Lists (ACLs)](https://parse.com/docs/data#security-objects), [Class-Level Permissions (CLPs)](https://parse.com/docs/data#security-classes), and [Cloud Code](http://blog.parse.com/2014/07/21/parse-security-iv-ahead-in-the-cloud/). Every successful production app uses some features out of this toolset, and we are always working to improve its ease of use for Parse developers to take advantage of these effective tools. A few months ago, we released an [updated ACL editor](http://blog.parse.com/2014/10/21/get-off-my-lawn-a-new-way-to-control-access-to-your-app/), making it much easier to view and edit ACLs in the data browser. Today we are releasing a new and improved CLP editor, so you can view and edit your app's Class-Level Permissions just as easily as its object-level ACLs!
+Security is one of the most critical aspects of releasing a production app, and with Parse there are lots of ways you can secure your app. As Bryan laid out in his [5-part security series](http://blog.parseplatform.org/2014/06/30/parse-security-i-are-you-the-key-master/), Parse provides a powerful security toolset, including the [master key](http://blog.parseplatform.org/2014/06/30/parse-security-i-are-you-the-key-master/), [Access Control Lists (ACLs)](https://parse.com/docs/data#security-objects), [Class-Level Permissions (CLPs)](https://parse.com/docs/data#security-classes), and [Cloud Code](http://blog.parseplatform.org/2014/07/21/parse-security-iv-ahead-in-the-cloud/). Every successful production app uses some features out of this toolset, and we are always working to improve its ease of use for Parse developers to take advantage of these effective tools. A few months ago, we released an [updated ACL editor](http://blog.parseplatform.org/2014/10/21/get-off-my-lawn-a-new-way-to-control-access-to-your-app/), making it much easier to view and edit ACLs in the data browser. Today we are releasing a new and improved CLP editor, so you can view and edit your app's Class-Level Permissions just as easily as its object-level ACLs!
 
 Just like ACLs, CLPs are lists of [users](https://parse.com/docs/ios_guide#users/iOS) or [roles](https://parse.com/docs/ios_guide#roles/iOS) that can access a specific class of your app. As with ACLs, you can give each user/role read or write access. Let's see how this works in an example. Say we have a restaurant app, with a `Restaurant` class. To edit the CLPs for the `Restaurant` class, click the 'Security' button at the top of the data browser. This will open the new CLP editor, and you will notice that the default permissions for every class is public read and write ([with some exceptions](https://parse.com/docs/data#security-edgecases)).
 

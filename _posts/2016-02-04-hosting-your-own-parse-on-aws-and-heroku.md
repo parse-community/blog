@@ -4,7 +4,7 @@ title: Hosting Your Own Parse on AWS and Heroku
 date: 2016-02-04T14:00:55+00:00
 author: jamesyu
 layout: post
-guid: http://blog.parse.com/?p=3919
+guid: http://blog.parseplatform.org/?p=3919
 permalink: /announcements/hosting-your-own-parse-on-aws-and-heroku/
 post_format:
   - basic
@@ -15,7 +15,7 @@ hide_from_index:
 categories:
   - Announcements
 ---
-Last week, we released [Parse Server](http://blog.parse.com/announcements/introducing-parse-server-and-the-database-migration-tool/), the open source version of the Parse backend. Since then, the repository has already received over 4,000 stars, 700 forks, and dozens of pull requests. We are working hard to make it the best open source app framework. Developers with an existing Parse app should [migrate their apps to Parse Server now](https://www.parse.com/docs/server/guide). In addition, if you’re building a new mobile app, Parse Server is a great way to build out your backend, coupled with the [Parse SDKs](https://parse.com/docs/downloads).
+Last week, we released [Parse Server](http://blog.parseplatform.org/announcements/introducing-parse-server-and-the-database-migration-tool/), the open source version of the Parse backend. Since then, the repository has already received over 4,000 stars, 700 forks, and dozens of pull requests. We are working hard to make it the best open source app framework. Developers with an existing Parse app should [migrate their apps to Parse Server now](https://www.parse.com/docs/server/guide). In addition, if you’re building a new mobile app, Parse Server is a great way to build out your backend, coupled with the [Parse SDKs](https://parse.com/docs/downloads).
 
 Today, we want to highlight some great options for hosting Parse Server. We partnered closely with [Heroku](https://www.heroku.com), [Amazon Web Services (AWS)](https://aws.amazon.com/), and [mLab](https://mlab.com/) to produce in-depth guides and best practices for getting your Parse app running on their infrastructures.
 

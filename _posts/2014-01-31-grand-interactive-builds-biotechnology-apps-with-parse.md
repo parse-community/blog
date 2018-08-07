@@ -4,7 +4,7 @@ title: Grand Interactive Builds Biotechnology Apps with Parse
 date: 2014-01-31T20:43:35+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2066
+guid: http://blog.parseplatform.org/?p=2066
 permalink: /non-technical/grand-interactive-builds-biotechnology-apps-with-parse/
 dsq_thread_id:
   - "3738046131"

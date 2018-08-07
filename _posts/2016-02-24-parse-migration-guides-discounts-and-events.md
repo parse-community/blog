@@ -4,7 +4,7 @@ title: Parse Migration Guides, Discounts, and Events
 date: 2016-02-24T12:13:04+00:00
 author: ericnakagawa
 layout: post
-guid: http://blog.parse.com/?p=3945
+guid: http://blog.parseplatform.org/?p=3945
 permalink: /announcements/parse-migration-guides-discounts-and-events/
 post_format:
   - basic
@@ -81,7 +81,7 @@ IBM — [IBM Bluemix + Compose](https://developer.ibm.com/clouddataservices/201
 
 <u>**Parse Push Migration**</u>
 
-Parse Server Push — [Parse Server Push Notifications](http://blog.parse.com/announcements/parse-server-push-notifications/)
+Parse Server Push — [Parse Server Push Notifications](http://blog.parseplatform.org/announcements/parse-server-push-notifications/)
   
 Urban Airship — [Parse Migration
   

@@ -4,7 +4,7 @@ title: Introducing Parse Pigeon
 date: 2015-04-01T16:20:51+00:00
 author: georgekedenburgiii
 layout: post
-guid: http://blog.parse.com/?p=3401
+guid: http://blog.parseplatform.org/?p=3401
 permalink: /announcements/introducing-parse-pigeon/
 post_format:
   - feat-image

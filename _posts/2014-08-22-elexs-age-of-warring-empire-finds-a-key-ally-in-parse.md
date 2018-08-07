@@ -4,7 +4,7 @@ title: "Elex's Age of Warring Empire Finds A Key Ally in Parse"
 date: 2014-08-22T18:21:12+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=2439
+guid: http://blog.parseplatform.org/?p=2439
 permalink: /customers/elexs-age-of-warring-empire-finds-a-key-ally-in-parse/
 post_format:
   - basic

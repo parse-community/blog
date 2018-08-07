@@ -4,7 +4,7 @@ title: 'Parse Security II - Class Hysteria!'
 date: 2014-07-07T16:28:18+00:00
 author: bryanklimt
 layout: post
-guid: http://blog.parse.com/?p=2410
+guid: http://blog.parseplatform.org/?p=2410
 permalink: /learn/engineering/parse-security-ii-class-hysteria/
 dsq_thread_id:
   - "3687646155"
@@ -17,9 +17,9 @@ hide_from_index:
 categories:
   - Engineering
 ---
-_**Update: With pointer permissions, CLPs just got a lot more powerful, and they can now handle a lot more use cases! Check out our <a href="http://blog.parse.com/learn/secure-your-app-from-the-data-browser-with-pointer-permissions/" target="_blank">blog post</a> and <a href="https://parse.com/docs/ios/guide#security-pointer-permissions" target="_blank">docs</a>.**_
+_**Update: With pointer permissions, CLPs just got a lot more powerful, and they can now handle a lot more use cases! Check out our <a href="http://blog.parseplatform.org/learn/secure-your-app-from-the-data-browser-with-pointer-permissions/" target="_blank">blog post</a> and <a href="https://parse.com/docs/ios/guide#security-pointer-permissions" target="_blank">docs</a>.**_
 
-In <a href="http://blog.parse.com/2014/06/30/parse-security-i-are-you-the-key-master/" target="_blank">Part I</a>, we took a look at the different keys that a Parse app has and what they mean. As we learned, your client keys are easily accessible to anybody, so you need to rely on Parse's security features to lock down what the client key is allowed to do.
+In <a href="http://blog.parseplatform.org/2014/06/30/parse-security-i-are-you-the-key-master/" target="_blank">Part I</a>, we took a look at the different keys that a Parse app has and what they mean. As we learned, your client keys are easily accessible to anybody, so you need to rely on Parse's security features to lock down what the client key is allowed to do.
 
 The easiest way to lock down your app is with class-level permissions. Almost every class that you create should have these permissions tweaked to some degree. For classes where every object has the same permissions, class-level settings will be most effective. For example, one common use case: having a class of static data that can be read by anyone but written by no one. If you need different objects to have different permissions, you'll have to use ACLs--Access Control Lists--(discussed in Part III). To edit your class-level permissions, click on "Set permissions" under the "More" menu in the Data Browser for the class you want to configure.
 
@@ -58,4 +58,4 @@ There's also an app-level permission to disable client class creation. You shoul
 
 Class-level permissions are great for globally-shared data where permissions for each object in the class should be exactly the same. In Part III, we'll learn about ACLs, which allow you to have different permissions for each object in a class.
 
-<span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/06/30/parse-security-i-are-you-the-key-master/" target="_blank">Part I</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/07/14/parse-security-iii-are-you-on-the-list/" target="_blank">Part III</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/07/21/parse-security-iv-ahead-in-the-cloud/" target="_blank">Part IV</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parse.com/2014/07/28/parse-security-v-how-to-make-friends/" target="_blank">Part V</a></span>
+<span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/06/30/parse-security-i-are-you-the-key-master/" target="_blank">Part I</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/07/14/parse-security-iii-are-you-on-the-list/" target="_blank">Part III</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/07/21/parse-security-iv-ahead-in-the-cloud/" target="_blank">Part IV</a></span>   <span style="text-decoration: underline;"><a href="http://blog.parseplatform.org/2014/07/28/parse-security-v-how-to-make-friends/" target="_blank">Part V</a></span>

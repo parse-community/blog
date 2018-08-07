@@ -4,7 +4,7 @@ title: Introducing Bolts for Parse SDKs
 date: 2014-10-15T16:39:28+00:00
 author: nikitalutsenko
 layout: post
-guid: http://blog.parse.com/?p=2558
+guid: http://blog.parseplatform.org/?p=2558
 permalink: /learn/introducing-bolts-for-parse-sdks/
 post_format:
   - feat-image
@@ -16,7 +16,7 @@ image: /wp-content/uploads/2014/10/bolts1.jpg
 categories:
   - Learn
 ---
-Earlier this year we introduced the <a title="Bolts Framework" href="http://github.com/boltsframework" target="_blank">Bolts Framework</a>, a set of low-level libraries to make developing mobile apps easier and faster. One of the core components of Bolts is **Tasks**. Tasks brings the programming model of <a title="JavaScript Promises" href="http://blog.parse.com/2013/01/29/whats-so-great-about-javascript-promises/" target="_blank">JavaScript Promises</a> to iOS and Android.
+Earlier this year we introduced the <a title="Bolts Framework" href="http://github.com/boltsframework" target="_blank">Bolts Framework</a>, a set of low-level libraries to make developing mobile apps easier and faster. One of the core components of Bolts is **Tasks**. Tasks brings the programming model of <a title="JavaScript Promises" href="http://blog.parseplatform.org/2013/01/29/whats-so-great-about-javascript-promises/" target="_blank">JavaScript Promises</a> to iOS and Android.
 
 Today, we are proud to open an entirely new set of public APIs with the new versions of our <a title="Parse iOS SDK" href="https://parse.com/docs/downloads/" target="_blank">iOS</a>, <a title="Parse OS X SDK" href="https://parse.com/docs/downloads/" target="_blank">OS X</a> and <a title="Parse Android SDK" href="https://parse.com/docs/downloads/" target="_blank">Android</a> SDKs. Inside this release you will find that every method that was once intended to be asynchronous now has a Tasks-based counterpart. Organizing complex asynchronous code is now much more manageable in addition to being easier and faster to implement.
 

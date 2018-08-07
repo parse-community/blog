@@ -4,7 +4,7 @@ title: Parse is Speaking at React Rally
 date: 2015-08-20T15:17:49+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=3732
+guid: http://blog.parseplatform.org/?p=3732
 permalink: /events/parse-is-speaking-at-react-rally/
 post_format:
   - event

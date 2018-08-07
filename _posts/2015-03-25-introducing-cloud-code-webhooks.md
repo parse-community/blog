@@ -4,7 +4,7 @@ title: Introducing Cloud Code Webhooks
 date: 2015-03-25T10:50:42+00:00
 author: jamiekarraker
 layout: post
-guid: http://blog.parse.com/?p=3390
+guid: http://blog.parseplatform.org/?p=3390
 permalink: /announcements/introducing-cloud-code-webhooks/
 post_format:
   - feat-image

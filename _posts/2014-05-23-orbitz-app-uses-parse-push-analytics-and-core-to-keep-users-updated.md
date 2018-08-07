@@ -4,7 +4,7 @@ title: Orbitz App Uses Parse Push, Analytics, and Core to Keep Users Updated
 date: 2014-05-23T20:03:53+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2337
+guid: http://blog.parseplatform.org/?p=2337
 permalink: /non-technical/orbitz-app-uses-parse-push-analytics-and-core-to-keep-users-updated/
 post_format:
   - basic

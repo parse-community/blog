@@ -4,7 +4,7 @@ title: Smart Indexing at Parse
 date: 2014-04-01T10:30:24+00:00
 author: charitymajors
 layout: post
-guid: http://blog.parse.com/?p=2232
+guid: http://blog.parseplatform.org/?p=2232
 permalink: /learn/engineering/smart-indexing-at-parse/
 dsq_thread_id:
   - "3687483692"
@@ -75,4 +75,4 @@ We score each query according to the above metrics, and run `ensureIndex()` on t
 
 When we first started using smart indexing, all indexes were ensured inline with each API request. This created some unfortunate pile-on behavior any time a large app had schema or query pattern changes. Instead of ensuring the index in the request path, we now drop the indexing job in a queue where it is consumed by an indexer worker. This ensures that no more than one index can be generated at a time per replica set, which protects us from these pile-on effects.
 
-Even the best indexing strategy can be defeated by suboptimal queries. Please see [Abhishek's primer](http://blog.parse.com/2014/03/27/efficient-parse-queries/) from last week on how to write queries that aren't terrible.
+Even the best indexing strategy can be defeated by suboptimal queries. Please see [Abhishek's primer](http://blog.parseplatform.org/2014/03/27/efficient-parse-queries/) from last week on how to write queries that aren't terrible.

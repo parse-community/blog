@@ -4,7 +4,7 @@ title: HarperCollins Pages Parse to Tackle Mobile
 date: 2014-06-13T19:34:38+00:00
 author: nancyxiao
 layout: post
-guid: http://blog.parse.com/?p=2353
+guid: http://blog.parseplatform.org/?p=2353
 permalink: /customers/harpercollins-pages-parse-to-tackle-mobile/
 dsq_thread_id:
   - "3687614842"

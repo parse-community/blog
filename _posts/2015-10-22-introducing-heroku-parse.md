@@ -4,7 +4,7 @@ title: Introducing Heroku + Parse
 date: 2015-10-22T10:00:53+00:00
 author: pavanathivarapu
 layout: post
-guid: http://blog.parse.com/?p=3857
+guid: http://blog.parseplatform.org/?p=3857
 permalink: /announcements/introducing-heroku-parse/
 post_format:
   - feat-image
@@ -24,7 +24,7 @@ tags:
   - heroku
   - node
 ---
-One powerful feature of Parse is [Webhooks](http://blog.parse.com/announcements/introducing-cloud-code-webhooks/), which lets you connect your Parse app to any server on the web to use a custom server environment rather than Parse's hosted Cloud Code. We're always looking for ways to make Parse easier to use, and recently, we [released Node.js middleware](http://blog.parse.com/learn/using-node-js-with-parse/) to make it easier to connect your Parse app to a Node.js server.
+One powerful feature of Parse is [Webhooks](http://blog.parseplatform.org/announcements/introducing-cloud-code-webhooks/), which lets you connect your Parse app to any server on the web to use a custom server environment rather than Parse's hosted Cloud Code. We're always looking for ways to make Parse easier to use, and recently, we [released Node.js middleware](http://blog.parseplatform.org/learn/using-node-js-with-parse/) to make it easier to connect your Parse app to a Node.js server.
 
 Today we're excited to announce that we're partnering with [Heroku](https://www.heroku.com/) to make it even easier to connect your Parse app to Node.js code. If you like Parse's Cloud Code but wish you had a full Node.js environment, this is a great solution. We've created a smooth experience for you to run code on either Heroku or the Parse Cloud and we're very excited about the opportunities this combination has to offer.
 

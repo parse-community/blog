@@ -4,7 +4,7 @@ title: Parse + Facebook at SXSW 2014
 date: 2014-02-27T20:24:45+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2142
+guid: http://blog.parseplatform.org/?p=2142
 permalink: /events/parse-facebook-at-sxsw-2014/
 dsq_thread_id:
   - "3702660745"

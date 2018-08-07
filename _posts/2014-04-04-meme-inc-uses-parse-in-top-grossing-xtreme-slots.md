@@ -4,7 +4,7 @@ title: Meme, Inc Uses Parse in Top-Grossing Xtreme Slots
 date: 2014-04-04T19:12:23+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2246
+guid: http://blog.parseplatform.org/?p=2246
 permalink: /non-technical/meme-inc-uses-parse-in-top-grossing-xtreme-slots/
 dsq_thread_id:
   - "3687614132"

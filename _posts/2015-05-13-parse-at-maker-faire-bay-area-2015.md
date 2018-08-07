@@ -4,7 +4,7 @@ title: Parse at Maker Faire Bay Area 2015
 date: 2015-05-13T10:29:47+00:00
 author: devincheevers
 layout: post
-guid: http://blog.parse.com/?p=3516
+guid: http://blog.parseplatform.org/?p=3516
 permalink: /events/parse-at-maker-faire-bay-area-2015/
 post_format:
   - event
@@ -35,4 +35,4 @@ categories:
 tags:
   - hardware
 ---
-We're excited for Maker Faire Bay Area 2015 this weekend! The Parse team will be attending all three days. Come say hi at the Parse + Facebook booth! We'll have Parse for IoT demos, free goodies and the engineering team behind Parse for IoT in attendance. In the meantime take a peek at [Parse for IoT](http://blog.parse.com/learn/connecting-hardware-with-the-cloud-parse-for-iot/) which we recently released to help connect hardware with the cloud. See you there!
+We're excited for Maker Faire Bay Area 2015 this weekend! The Parse team will be attending all three days. Come say hi at the Parse + Facebook booth! We'll have Parse for IoT demos, free goodies and the engineering team behind Parse for IoT in attendance. In the meantime take a peek at [Parse for IoT](http://blog.parseplatform.org/learn/connecting-hardware-with-the-cloud-parse-for-iot/) which we recently released to help connect hardware with the cloud. See you there!

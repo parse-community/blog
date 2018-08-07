@@ -4,7 +4,7 @@ title: Move Uses Parse Push to Power Notifications in Realtor.com App
 date: 2014-05-16T18:30:09+00:00
 author: courtneywitmer
 layout: post
-guid: http://blog.parse.com/?p=2334
+guid: http://blog.parseplatform.org/?p=2334
 permalink: /customers/move-uses-parse-push-to-power-notifications-in-realtor-com-app/
 dsq_thread_id:
   - "3692630924"
