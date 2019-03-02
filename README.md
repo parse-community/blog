@@ -52,3 +52,37 @@ categories: [Announcements, Learn, Events, Customers, Videos]
 ```
 
 More info can be found in the [official docs](http://jekyllrb.com/docs/posts/).
+
+## Using categories & adding new ones
+
+When adding a category to a blog post please remember to capitalise words.
+
+The current list of categories:
+- Announcements
+- Community
+- Customers
+- Events
+- GitHub
+- JavaScript
+- Learn
+- New Year
+- NodeJS
+- Notice
+- PHP
+- Release
+- SDK
+- Security
+- Update
+- Videos
+
+If you would like to use a new category please make a new file in blog > categories e.g:
+```
+---
+layout: blog
+permalink: /blog/categories/announcements/
+pagination:
+    enabled: true
+    category: Announcements
+    permalink: /:num/
+---
+```
