@@ -4,7 +4,7 @@ title: Parse PHP SDK Release 1.4.0
 date: 2017-12-05 20:24 -0700
 comments: true
 author: montymxb
-categories: [PHP, SDK, Release, 1.4.0]
+categories: [PHP, SDK, Release]
 ---
 
 Version 1.4.0 of the Parse PHP SDK is [now available](https://github.com/parse-community/parse-php-sdk/releases/tag/1.4.0) for use.
@@ -26,7 +26,7 @@ Here are some of the major changes that were made in this release.
 - Adds Purge & Polygon to ParseSchema
 - Adds Parse Server Health Check
 - Adds ability to Request Verification Emails
-- Adds the ability to set/save in `ParseConfig` 
+- Adds the ability to set/save in `ParseConfig`
 - Adds `ParseLogs`
 - Adds `ParseAudience`
 - Adds jobs to `ParseCloud`
@@ -34,5 +34,5 @@ Here are some of the major changes that were made in this release.
 - Support for managing indexes via **ParseSchema** (thanks to [Diamond Lewis](https://github.com/dplewis))
 
 You can find more detail regarding these changes on the [1.4.0 release page](https://github.com/parse-community/parse-php-sdk/releases/tag/1.4.0).
-As always we hope you enjoy these new features. If you have any questions feel free to reach out to us on [github](https://github.com/parse-community/parse-php-sdk) and let us know what you think. 
+As always we hope you enjoy these new features. If you have any questions feel free to reach out to us on [github](https://github.com/parse-community/parse-php-sdk) and let us know what you think.
 We're always open to improving parse server and it's sdks for the community!

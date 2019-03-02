@@ -4,7 +4,7 @@ title: Happy New Year!
 date: 2018-01-01 11:16 -0700
 comments: true
 author: montymxb
-categories: [community, New Year]
+categories: [Community, New Year]
 ---
 
 We'd like to take a moment to say thank you to everyone in the community and beyond.

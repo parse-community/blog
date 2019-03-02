@@ -4,7 +4,7 @@ title: Parse PHP SDK Release 1.3.0
 date: 2017-09-08 11:02 -0700
 comments: true
 author: montymxb
-categories: [PHP, SDK, Release, 1.3.0, HHVM, fullText]
+categories: [PHP, SDK, Release]
 ---
 
 Version 1.3.0 of the Parse PHP SDK is [now available](https://github.com/parse-community/parse-php-sdk/releases/tag/1.3.0) for use.
