@@ -40,7 +40,7 @@ Everything but name is optional.
 
 ## Authoring an Article
 
-To generate a new post, create a new file in the `_posts` directory. Be sure to add your name as the author of the post and include several categories to file the post under. Here is a sample header:
+To generate a new post, create a new file in the `_posts` directory. Be sure to add your name as the author of the post and include several [categories](#Using categories & adding new ones) if appropriate. Here is a sample header:
 
 ```yaml
 layout: post
@@ -75,8 +75,8 @@ The current list of categories:
 - Update
 - Videos
 
-If you would like to use a new category please make a new file in blog > categories e.g:
-```
+If you would like to use a new category please make a new file in the [categories folder](blog/categories), for example:
+```yaml
 ---
 layout: blog
 permalink: /blog/categories/announcements/
