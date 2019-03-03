@@ -19,11 +19,11 @@ The Gitter chat remains quite active but discussions can be hard to follow which
 
 <a href="https://community.parseplatform.org" target="_blank"><button class="btn btn--outline">Checkout the new community forum</button></a>
 
-## The departure of [@flovilmart](https://twitter.com/flovilmart)
+## The departure of [flovilmart](https://twitter.com/flovilmart)
 
-As of February 2019 [@flovilmart](https://twitter.com/flovilmart) has officially retired as a core maintainer of the Parse Platform, in his own words he no longer has the "pleasure of using the project on a daily basis". We would like to thank him for his unrelenting and longstanding support of the Parse Platform and wish him luck in the future.
+As of February 2019 [flovilmart](https://twitter.com/flovilmart) has officially retired as a core maintainer of the Parse Platform, in his own words he no longer has the "pleasure of using the project on a daily basis". We would like to thank him for his unrelenting and longstanding support of the Parse Platform and wish him luck in the future.
 
-As [@flovilmart](https://twitter.com/flovilmart) moves on, the platform will continue under new leadership of [@acinader](https://twitter.com/acinader) and other longstanding maintainers.
+As [flovilmart](https://twitter.com/flovilmart) moves on, the platform will continue under new leadership of [acinader](https://twitter.com/acinader) and other longstanding maintainers.
 
 ## To all new contributors both expert and novice
 
@@ -49,3 +49,10 @@ To summarise over the last year Parse has seen:
 - __666,000 downloads__ for Parse Server on npm in 2018, on track for 770,000 in 2019
 - Over __1470 issues closed__ - 4 every day!
 - More than __800 pull request closed__ - 2 every day!
+
+## What are we working on?
+
+- The addition of support for GraphQL is well underway for Parse Server, see [#5014](https://github.com/parse-community/parse-server/pull/5014) and [#5304](https://github.com/parse-community/parse-server/pull/5304)
+- We're working on cleaning up the platform website and giving more love to this blog
+- [Phill Wiggins](https://github.com/phillwiggins) is working on a [Parse Flutter SDK](https://github.com/phillwiggins/flutter_parse_sdk) with 14 releases and over 150 commits in 2019 alone
+- As always we are continually improving the docs, fixing bugs and merging pull requests
