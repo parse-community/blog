@@ -7,7 +7,7 @@ author: tom-fox1
 categories: [Announcements, Update]
 ---
 
-The Parse Platform has changed a lot over the the past few months with the departure of one core contributor and the introduction of new contributors. We also look back at the successes of the last year.
+The Parse Platform has changed a lot over the the past few months with the departure of one core contributor and the arrival of new contributors. We also look back at the successes of the last year and what's in the works for the coming months.
 
 <!-- more -->
 
@@ -25,9 +25,9 @@ As of February 2019 [flovilmart](https://twitter.com/flovilmart) has officially 
 
 As [flovilmart](https://twitter.com/flovilmart) moves on, the platform will continue under new leadership of [acinader](https://twitter.com/acinader) and other longstanding maintainers.
 
-## To all new contributors both expert and novice
+## I'm new, how can I get involved?
 
-The Parse Community is always looking for new contributors both with expert programming and backend experience and novices. To the experts please dive into the complex issues and pull request of the [Parse Server GitHub repository](https://github.com/parse-community/parse-server) and client SDKs.
+The Parse Community is always looking for new contributors both experts and novices. To the experts please dive into the complex issues and pull request of the [Parse Server GitHub repository](https://github.com/parse-community/parse-server) and client SDKs.
 
 If you want to keep up to date with the Parse Server repo you can star or watch it:
 
@@ -35,7 +35,13 @@ If you want to keep up to date with the Parse Server repo you can star or watch 
 
 <iframe src="https://ghbtns.com/github-btn.html?user=parse-community&repo=parse-server&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
-To the beginners out there please don't be shy there is plenty to get stuck into. Please get involved where ever you feel comfortable and venture into the unknown as well - thats how we grow! I myself was unsure how to contribute to the Parse Community so here I am writing a blog post. We also recommend making updates to the [docs](https://github.com/parse-community/docs), improving the many READMEs across the platform, helping resolve simple issues and helping out on Stack Overflow on the [Parse Server](https://stackoverflow.com/questions/tagged/parse-server) or [Parse.com](https://stackoverflow.com/questions/tagged/parse.com) tags.
+We also really value even small contributions from Parse/programming newbies. Please get involved where ever you feel comfortable and venture into the unknown as well - thats how we grow!
+
+How can I help?
+- Making updates to the [docs](https://github.com/parse-community/docs)
+- Improving the many READMEs across the platform
+- Helping resolve simple issues and questions on Stack Overflow with the [Parse Server](https://stackoverflow.com/questions/tagged/parse-server) or [Parse.com](https://stackoverflow.com/questions/tagged/parse.com) tags.
+- Writing blog posts
 
 ## A summary of the last year for the Parse Platform
 
