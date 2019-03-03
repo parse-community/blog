@@ -35,7 +35,7 @@ If you want to keep up to date with the Parse Server repo you can star or watch 
 
 <iframe src="https://ghbtns.com/github-btn.html?user=parse-community&repo=parse-server&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
-To the beginners out there please don't be shy there is plenty to get stuck into. Please get involved where ever you feel comfortable and venture into the unknown as well - thats how we grow! I myself was unsure how to contribute to the Parse Community so here I am writing a blog post. We also recommend making updates to the [docs](), improving the many READMEs across the platform, helping resolve simple issues and helping out on Stack Overflow on the [Parse Server](https://stackoverflow.com/questions/tagged/parse-server) or [Parse.com](https://stackoverflow.com/questions/tagged/parse.com) tags.
+To the beginners out there please don't be shy there is plenty to get stuck into. Please get involved where ever you feel comfortable and venture into the unknown as well - thats how we grow! I myself was unsure how to contribute to the Parse Community so here I am writing a blog post. We also recommend making updates to the [docs](https://github.com/parse-community/docs), improving the many READMEs across the platform, helping resolve simple issues and helping out on Stack Overflow on the [Parse Server](https://stackoverflow.com/questions/tagged/parse-server) or [Parse.com](https://stackoverflow.com/questions/tagged/parse.com) tags.
 
 ## A summary of the last year for the Parse Platform
 
