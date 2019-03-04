@@ -1,6 +1,28 @@
 ---
 layout: page
 ---
+
+<!-- Twitter cards metadata -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@vdaubry">
+<meta name="twitter:creator" content="@vdaubry">
+{% if page.title %}
+  <meta name="twitter:title" content="{{ page.title }}">
+{% else %}
+  <meta name="twitter:title" content="{{ site.title }}">
+{% endif %}
+{% if page.url %}
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+{% endif %}
+{% if page.description %}
+  <meta name="twitter:description" content="{{ page.description }}">
+{% else %}
+  <meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
+{% if page.header-img %}
+  <meta name="twitter:image:src" content="{{ site.url }}/{{ page.header-img }}">
+{% endif %}
+
 <aside class="hero hero--docs-landing">
     <div class="grid-container">
         <div class="col--9">
