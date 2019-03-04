@@ -25,6 +25,8 @@ As of February 2019 [flovilmart](https://twitter.com/flovilmart) has officially 
 
 As [flovilmart](https://twitter.com/flovilmart) moves on, the platform will continue under new leadership of [acinader](https://twitter.com/acinader) and other longstanding maintainers.
 
+The Parse Platform is still keeping up the pace under new leadership with [acinader](https://twitter.com/acinader) releasing version 2.2 of the JavaScript SDK just last week with special mention going to [dplewis](https://github.com/dplewis) for his amazing work on adding Local Datastore.
+
 ## I'm new, how can I get involved?
 
 The Parse Community is always looking for new contributors both experts and novices. To the experts please dive into the complex issues and pull request of the [Parse Server GitHub repository](https://github.com/parse-community/parse-server) and client SDKs.
@@ -51,10 +53,11 @@ To summarise over the last year Parse has seen:
 - A gain of __2,300__ stars across the platform
 - Growth of the Open Collective budget to a current total of __$10,000__
 - __900__ new forks across the platform
-- __13 releases for Parse Server__ with 2 major milestones of 3.0 for Parse Server and 2.0 for the JavaScript SDK
-- __666,000 downloads__ for Parse Server on npm in 2018, on track for 770,000 in 2019
 - Over __1470 issues closed__ - 4 every day!
 - More than __800 pull request closed__ - 2 every day!
+- __13 releases for Parse Server__ with the major milestones of 3.0
+- _666,000 downloads__ for Parse Server on npm, on track for __770,000 in 2019__
+- __1,574,000 downloads__ for the Parse JavaScript SDK
 
 ## What are we working on?
 
