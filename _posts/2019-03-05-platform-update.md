@@ -11,6 +11,8 @@ The Parse Platform has changed a lot over the the past few months with the depar
 
 <!-- more -->
 
+* * *
+
 ## The new community forum
 
 Over the years, we have tried many ways to help you discuss implementation details, report bugs and suggest new features. Overall, we were not completely happy with the status quo.
@@ -62,6 +64,6 @@ A lot has happened in the world of Parse over the last year and we want to say t
 ## What are we working on?
 
 - The addition of support for __GraphQL__ is well underway for Parse Server, see [#5014](https://github.com/parse-community/parse-server/pull/5014) and [#5304](https://github.com/parse-community/parse-server/pull/5304)
-- We're working on cleaning up the platform website and giving more love to this blog
+- We're working on cleaning up the platform website and giving more love to this blog - I'm working on adding a tweet button to the blog (have a look below, it might be there now!)
 - [Phill Wiggins](https://github.com/phillwiggins) is working on a [__Parse Flutter SDK__](https://github.com/phillwiggins/flutter_parse_sdk) with __14 releases and over 150 commits in 2019 alone__
 - As always we are continually improving the docs, fixing bugs and merging pull requests
