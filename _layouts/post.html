@@ -1,11 +1,13 @@
 ---
 layout: page
 ---
+
+{% assign author = site.authors[page.author] %}
+
 <aside class="hero hero--docs-landing">
     <div class="grid-container">
         <div class="col--9">
             <div class="hero--docs-landing__content">
-                {% assign author = site.authors[page.author] %}
                 {% assign postdate = page.date %}
                 {% include posts/author.html %}
                 <h1 class="h1 h1--white">
@@ -36,6 +38,43 @@ layout: page
                 <span class="margin-left-10 margin-right-10"><a href="{{ author.site }}">Site</a></span>
                 {% endif %}
             </div>
+
+            <!-- Twitter cards metadata -->
+            <meta name="twitter:card" content="summary">
+            <meta name="twitter:site" content="@ParsePlatform">
+
+            {% if author.twitter %}
+              <meta name="twitter:creator" content="@{{author.twitter}}">
+            {% endif %}
+
+            {% if page.title %}
+              <meta name="twitter:title" content="{{ page.title }}">
+            {% else %}
+              <meta name="twitter:title" content="{{ site.title }}">
+            {% endif %}
+
+            {% if page.url %}
+              <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+            {% endif %}
+
+            {% if page.excerpt %}
+              <meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
+            {% else %}
+              <meta name="twitter:description" content="{{ site.description }}">
+            {% endif %}
+
+            <meta name="twitter:image" content="https://blog.parseplatform.org/img/favicon/apple-touch-icon-144x144.png">
+
+            {% assign authorName = "" %}
+
+            {% if author.twitter %}
+              {% capture authorName %}@{{author.twitter}}{% endcapture %}
+            {% else %}
+              {% assign authorName = author.name %}
+            {% endif %}
+
+            <a class="btn btn--outline btn--twitter" href="https://twitter.com/intent/tweet?hashtags=ParsePlatform&original_referer={{ site.url }}{{ page.url }}&ref_src=twsrc%5Etfw&text={{ page.title }} by {{ authorName }}&tw_p=tweetbutton&url={{ site.url }}{{ page.url }}&via=ParsePlatform">Tweet this post</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
         </div>
     </article>
 </div>
