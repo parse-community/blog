@@ -73,7 +73,7 @@ layout: page
               {% assign authorName = author.name %}
             {% endif %}
 
-            <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="{{ page.title }} by {{ authorName }}" data-via="ParsePlatform" data-hashtags="ParsePlatform" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <a class="btn btn--outline" href="https://twitter.com/intent/tweet?hashtags=ParsePlatform&original_referer={{ site.url }}{{ page.url }}&ref_src=twsrc%5Etfw&text={{ page.title }} by {{ authorName }}&tw_p=tweetbutton&url={{ site.url }}{{ page.url }}&via=ParsePlatform">Tweet this post 2</a>
 
         </div>
     </article>
