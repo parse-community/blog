@@ -2,10 +2,13 @@
 layout: page
 ---
 
+{% assign author = site.authors[page.author] %}
+
 <!-- Twitter cards metadata -->
 <meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@vdaubry">
-<meta name="twitter:creator" content="@vdaubry">
+<meta name="twitter:site" content="@ParsePlatform">
+<meta name="twitter:creator" content="@{{author.twitter}}">
+
 {% if page.title %}
   <meta name="twitter:title" content="{{ page.title }}">
 {% else %}
@@ -27,7 +30,6 @@ layout: page
     <div class="grid-container">
         <div class="col--9">
             <div class="hero--docs-landing__content">
-                {% assign author = site.authors[page.author] %}
                 {% assign postdate = page.date %}
                 {% include posts/author.html %}
                 <h1 class="h1 h1--white">
