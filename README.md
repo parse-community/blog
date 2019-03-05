@@ -55,7 +55,7 @@ More info can be found in the [official docs](http://jekyllrb.com/docs/posts/).
 
 ## Using categories & adding new ones
 
-When adding a category to a blog post please remember to capitalise words.
+When adding a category to a blog post please remember to capitalize words.
 
 The current list of categories:
 - Announcements
