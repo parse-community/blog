@@ -4,31 +4,6 @@ layout: page
 
 {% assign author = site.authors[page.author] %}
 
-<!-- Twitter cards metadata -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@ParsePlatform">
-<meta name="twitter:creator" content="@{{author.twitter}}">
-
-{% if page.title %}
-  <meta name="twitter:title" content="{{ page.title }}">
-{% else %}
-  <meta name="twitter:title" content="{{ site.title }}">
-{% endif %}
-
-{% if page.url %}
-  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-{% endif %}
-
-{% if page.excerpt %}
-  <meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
-{% else %}
-  <meta name="twitter:description" content="{{ site.description }}">
-{% endif %}
-
-<!-- {% if page.header-img %}
-  <meta name="twitter:image:src" content="{{ site.url }}/{{ page.header-img }}">
-{% endif %} -->
-
 <aside class="hero hero--docs-landing">
     <div class="grid-container">
         <div class="col--9">
@@ -63,6 +38,31 @@ layout: page
                 <span class="margin-left-10 margin-right-10"><a href="{{ author.site }}">Site</a></span>
                 {% endif %}
             </div>
+
+            <!-- Twitter cards metadata -->
+            <meta name="twitter:card" content="summary">
+            <meta name="twitter:site" content="@ParsePlatform">
+            <meta name="twitter:creator" content="@{{author.twitter}}">
+
+            {% if page.title %}
+              <meta name="twitter:title" content="{{ page.title }}">
+            {% else %}
+              <meta name="twitter:title" content="{{ site.title }}">
+            {% endif %}
+
+            {% if page.url %}
+              <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+            {% endif %}
+
+            {% if page.excerpt %}
+              <meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
+            {% else %}
+              <meta name="twitter:description" content="{{ site.description }}">
+            {% endif %}
+
+            <!-- {% if page.header-img %}
+              <meta name="twitter:image:src" content="{{ site.url }}/{{ page.header-img }}">
+            {% endif %} -->
 
             {% assign authorName = "" %}
 
