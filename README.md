@@ -40,7 +40,7 @@ Everything but name is optional.
 
 ## Authoring an Article
 
-To generate a new post, create a new file in the `_posts` directory. Be sure to add your name as the author of the post and include several categories to file the post under. Here is a sample header:
+To generate a new post, create a new file in the `_posts` directory. Be sure to add your name as the author of the post and include several [categories](#using-categories--adding-new-ones) if appropriate. Here is a sample header:
 
 ```yaml
 layout: post
@@ -52,3 +52,37 @@ categories: [Announcements, Learn, Events, Customers, Videos]
 ```
 
 More info can be found in the [official docs](http://jekyllrb.com/docs/posts/).
+
+## Using categories & adding new ones
+
+When adding a category to a blog post please remember to capitalize words.
+
+The current list of categories:
+- Announcements
+- Community
+- Customers
+- Events
+- GitHub
+- JavaScript
+- Learn
+- New Year
+- NodeJS
+- Notice
+- PHP
+- Release
+- SDK
+- Security
+- Update
+- Videos
+
+If you would like to use a new category please make a new file in the [categories folder](blog/categories), for example:
+```yaml
+---
+layout: blog
+permalink: /blog/categories/announcements/
+pagination:
+    enabled: true
+    category: Announcements
+    permalink: /:num/
+---
+```
