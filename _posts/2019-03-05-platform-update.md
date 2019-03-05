@@ -11,8 +11,6 @@ The Parse Platform has changed a lot over the the past few months with the depar
 
 <!-- more -->
 
-* * *
-
 ## The new community forum
 
 Over the years, we have tried many ways to help you discuss implementation details, report bugs and suggest new features. Overall, we were not completely happy with the status quo.
