@@ -42,7 +42,10 @@ layout: page
             <!-- Twitter cards metadata -->
             <meta name="twitter:card" content="summary">
             <meta name="twitter:site" content="@ParsePlatform">
-            <meta name="twitter:creator" content="@{{author.twitter}}">
+
+            {% if author.twitter %}
+              <meta name="twitter:creator" content="@{{author.twitter}}">
+            {% endif %}
 
             {% if page.title %}
               <meta name="twitter:title" content="{{ page.title }}">
