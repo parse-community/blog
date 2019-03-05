@@ -64,7 +64,15 @@ layout: page
                 {% endif %}
             </div>
 
-            <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="{{ page.title }} by @{{ author.twitter }}" data-via="ParsePlatform" data-hashtags="ParsePlatform" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            {% assign authorName = "" %}
+
+            {% if author.twitter %}
+              {% capture authorName %}@{{author.twitter}}{% endcapture %}
+            {% else %}
+              {% assign authorName = author.name %}
+            {% endif %}
+
+            <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="{{ page.title }} by {{ authorName }}" data-via="ParsePlatform" data-hashtags="ParsePlatform" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
         </div>
     </article>
