@@ -74,6 +74,11 @@ The current list of categories:
 - Security
 - Update
 - Videos
+- Tutorial
+- Open-Source
+- Hacktoberfest
+- Engineering
+- Design
 
 If you would like to use a new category please make a new file in the [categories folder](blog/categories), for example:
 ```yaml
