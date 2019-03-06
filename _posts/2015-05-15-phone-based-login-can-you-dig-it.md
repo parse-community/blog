@@ -19,7 +19,6 @@ feature_image_style:
 image: /wp-content/uploads/2015/05/AnyPhone-hero.jpg
 categories:
   - Announcements
-  - Sample App
 tags:
   - anyphone
   - cloudcode

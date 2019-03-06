@@ -10,7 +10,6 @@ dsq_thread_id:
   - "3687613973"
 categories:
   - Customers
-  - Non-Technical
 tags:
   - EMEA
 ---

@@ -19,7 +19,6 @@ dsq_thread_id:
 image: /wp-content/uploads/2014/04/Blog-post-Pricing.png
 categories:
   - Announcements
-  - Non-Technical
 tags:
   - pricing
 ---
@@ -60,7 +59,7 @@ Moving forward, there won't be different 'tiers' of Parse. There's only one type
       </li>
     </ul>
   </li>
-  
+
   <li>
     Parse Push <ul class="standard-list">
       <li>
@@ -71,7 +70,7 @@ Moving forward, there won't be different 'tiers' of Parse. There's only one type
       </li>
     </ul>
   </li>
-  
+
   <li>
     Parse Analytics <ul class="standard-list">
       <li>

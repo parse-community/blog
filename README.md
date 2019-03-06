@@ -55,7 +55,7 @@ More info can be found in the [official docs](http://jekyllrb.com/docs/posts/).
 
 ## Using categories & adding new ones
 
-When adding a category to a blog post please remember to capitalize words.
+When adding a category to a blog post please remember to capitalize words. For categories with multiple words please separate words with dashes instead of spaces eg. New-Year not New Year.
 
 The current list of categories:
 - Announcements
@@ -65,7 +65,7 @@ The current list of categories:
 - GitHub
 - JavaScript
 - Learn
-- New Year
+- New-Year
 - NodeJS
 - Notice
 - PHP
@@ -74,6 +74,11 @@ The current list of categories:
 - Security
 - Update
 - Videos
+- Tutorial
+- Open-Source
+- Hacktoberfest
+- Engineering
+- Design
 
 If you would like to use a new category please make a new file in the [categories folder](blog/categories), for example:
 ```yaml

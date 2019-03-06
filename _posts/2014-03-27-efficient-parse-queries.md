@@ -10,7 +10,6 @@ dsq_thread_id:
   - "3687773395"
 categories:
   - Engineering
-  - Ops
 ---
 Any time you store objects on Parse, they get stored on a database. Usually, a database stores a bag of data on disk, and when you issue Parse queries it looks up the data and returns the matching objects. Since it doesn't make sense for the database to look at all the data present in a particular Parse class for every query, the database uses something called an index. An index is a sorted list of items matching a given criteria. Indexes help because they allow the database to do an efficient search and return matching results without looking at all of the data. For the more algorithmically inclined, this is an _O(log(n)) vs O(n)_ tradeoff. Indexes are typically smaller in size and fit in memory, resulting in faster lookups.
 

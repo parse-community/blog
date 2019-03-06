@@ -10,7 +10,6 @@ dsq_thread_id:
   - "3687615180"
 categories:
   - Customers
-  - Non-Technical
 tags:
   - US
 ---

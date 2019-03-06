@@ -10,7 +10,6 @@ dsq_thread_id:
   - "3688874071"
 categories:
   - Customers
-  - Non-Technical
 tags:
   - APAC
 ---

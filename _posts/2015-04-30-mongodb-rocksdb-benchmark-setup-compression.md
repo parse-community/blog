@@ -18,7 +18,6 @@ dsq_thread_id:
   - "3725884852"
 categories:
   - Engineering
-  - Ops
 tags:
   - mongodb
   - RocksDB

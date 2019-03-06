@@ -16,7 +16,6 @@ dsq_thread_id:
   - "3678794636"
 categories:
   - Customers
-  - Non-Technical
 tags:
   - analytics
   - push

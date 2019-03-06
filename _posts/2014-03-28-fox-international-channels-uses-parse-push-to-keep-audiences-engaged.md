@@ -16,7 +16,6 @@ hide_from_index:
   - "0"
 categories:
   - Customers
-  - Non-Technical
 tags:
   - LATAM
 ---

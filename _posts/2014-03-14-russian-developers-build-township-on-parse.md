@@ -10,7 +10,6 @@ dsq_thread_id:
   - "3687614256"
 categories:
   - Customers
-  - Non-Technical
 tags:
   - EMEA
 ---
@@ -23,5 +22,5 @@ The game uses Parse Data to store players’ profiles. Using Parse in this way i
 Township was launched on iOS in late 2013 and on Google Play early in 2014. In just over three months, the game achieved almost 4 million downloads with a healthy retention, allowing the game to grow organically and achieve a 4.5 star rating across 80,000 reviews on both the iTunes App Store and Google Play.
 
 _You can download Township for free on the <a href="https://itunes.apple.com/app/id638689075" target="_blank">iTunes App Store</a>, <a href="https://play.google.com/store/apps/details?id=com.playrix.township" target="_blank">Google Play</a>, and <a href="http://www.amazon.com/Playrix-Township/dp/B00IG2DOKM/" target="_blank">Amazon</a> and play online on <a href="https://apps.facebook.com/township/" target="_blank">Facebook</a>.
-  
+
 _
