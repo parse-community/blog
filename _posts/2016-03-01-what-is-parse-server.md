@@ -18,7 +18,7 @@ image: /wp-content/uploads/2016/01/Open-DB-Launch.png
 categories:
   - Announcements
 tags:
-  - open source
+  - Open-Source
 ---
 In this post, I will attempt to convince you that <a href="https://github.com/ParsePlatform/parse-server" target="_blank">Parse Server</a> is worthy of your time and interest, even if you've never heard of Parse before. I will also make the case that <a href="https://github.com/ParsePlatform/parse-server" target="_blank">Parse Server</a> is and can be objectively better than the hosted Parse service. I hope that by the end of it, you will consider evaluating it for your next project.
 

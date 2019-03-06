@@ -10,7 +10,6 @@ dsq_thread_id:
   - "3687615193"
 categories:
   - Customers
-  - Non-Technical
 tags:
   - APAC
   - Japan
@@ -26,7 +25,7 @@ The team working on Pashaoku turned to Parse when they started looking for a ser
 In addition to push, Pashaoku also stores targeting data in Parse. App developer Caesar Wirth, an iOS and Android developer who worked on the iOS version of Pashaoku, explains that, “Since Parse is so flexible, it is easy to add or remove targeting criteria. We keep Parse synchronized with our own database, so everything is always up to date.” After using Parse in Pashaoku, Caesar continues:
 
 > I am a big fan of the data querying system and history log. We send pushes to certain subsets of users, and some of our queries can get a little complex. Parse handles it all. Afterwards, we can look back and see everything we sent, and to whom, so we can reproduce anything we want.
-> 
+>
 > Parse provides such a stable and flexible infrastructure, that it would take many man hours to develop something internal. With the correct strategy, you could probably have something up and running within a matter of days as opposed to weeks. Even a free account provides many of the benefits.
 
 With 520K+ downloads on <a href="https://itunes.apple.com/jp/app/pashaoku/id536462239?l=ja&ls=1&mt=8" target="_blank">iOS</a> and 300K+ on <a href="https://play.google.com/store/apps/details?id=jp.cyberagent.pashaoku" target="_blank">Android</a>, Pashaoku is still going strong long after its initial release. You can learn more about <a href="http://www.cyberagent.co.jp/en/" target="_blank">CyberAgent</a> and the story behind its success <a href="http://systemsofexchange.org/2014/03/cyberagent/" target="_blank">here</a>.

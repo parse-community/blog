@@ -16,8 +16,7 @@ categories:
   - Learn
   - Tutorial
 tags:
-  - open source
-  - tutorial
+  - Tutorial
 ---
 We're really excited about the community which is forming around Parse Server and Parse Dashboard. In just 80 days since we launched Parse Server, more than 60 contributors from all over the world have already taken part. Parse Server is one of the most active open-source projects at Facebook, and growing incredibly quickly. This month we're releasing a group of screencasts we hope will be helpful to developers looking to get started with Parse Server. We'll span the process from setting up your development environment and running your first app, to migrating your database and even submitting changes on the open-source repository. We will also talk about JavaScript, testing, and code reviews. Let's get started!
 

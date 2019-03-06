@@ -16,7 +16,6 @@ dsq_thread_id:
   - "4095638922"
 categories:
   - Engineering
-  - Ops
 tags:
   - go
   - mongodb

@@ -10,7 +10,6 @@ dsq_thread_id:
   - "3678708617"
 categories:
   - Engineering
-  - Ops
 ---
 **[TokuMX](http://www.tokutek.com/)** is an open source distribution of MongoDB that replaces the default B-tree data structure with a [fractal tree index](http://www.tokutek.com/resources/technology/), which can lead to dramatic improvements in data storage size and write speeds. [Mark Callaghan](http://www.blogger.com/profile/09590445221922043181) made a series of awesome [blog posts](http://smalldatum.blogspot.com/) on benchmarking InnoDB, TokuMX and MongoDB, which demonstrate TokuMX's remarkable write performance and extraordinarily efficient space utilization. We decided to benchmark TokuMX against several real-world scenarios that we encountered in the Parse environment. We also built a set of tools for capturing and replaying query streams. We are open sourcing these tools on [github](https://github.com/ParsePlatform/flashback) so that others may also benefit from them (we'll discuss more about them in the last section).
 
@@ -20,7 +19,7 @@ In our benchmarks, we tested three aspects of TokuMX: 1. Exporting and importin
 
 * * *
 
-## 
+##
 
 We frequently need to migrate data by exporting and importing collections between replica sets. However, this process can be painful because sometimes the migration rate is ridiculously slow, especially for collections with a lot of small entries and/or complicated indexes. To test importing and exporting, we performed an import/export on two representative large collections with varying object counts.
 
@@ -55,7 +54,7 @@ TokuMX            53 minutes</pre>
 
 * * *
 
-## 
+##
 
 One of our sample write-intensive apps issues a heavy volume of “update” requests with large object sizes. Since TokuMX is a write-optimized database, we decided to benchmark this query stream against both MongoDB and TokuMX. We recorded 10 hours of sample traffic, and replayed it against both replica sets. From the benchmark results, TokuMX performs 3x faster for this app with much smaller latencies at all histogram percentiles.
 
@@ -83,7 +82,7 @@ One of our sample write-intensive apps issues a heavy volume of “update” req
 
 * * *
 
-## 
+##
 
 Space efficiency is another big selling point for TokuMX. How much can TokuMX save in terms of disk utilization? To figure this out, we exported the data of one of our shared replica sets (with 2.4T ****data in total) and imported them into TokuMX instances. The result was stunning: TokuMX used only 379G disk space —**about 15% of the original size.**
 

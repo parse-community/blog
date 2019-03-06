@@ -10,7 +10,6 @@ dsq_thread_id:
   - "3709042194"
 categories:
   - Events
-  - Non-Technical
 ---
 The Parse + Facebook team is heading to <a href="http://developerweek.com/" target="_blank">DeveloperWeek</a> in San Francisco next week, and we have lots of great events around the conference for you to attend! Check out our schedule of DeveloperWeek events below:
 

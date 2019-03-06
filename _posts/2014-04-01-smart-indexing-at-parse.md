@@ -10,7 +10,6 @@ dsq_thread_id:
   - "3687483692"
 categories:
   - Engineering
-  - Ops
 ---
 We love running databases at Parse! We also believe that mobile app developers shouldn't have to be DBAs to build beautiful, performant apps.
 

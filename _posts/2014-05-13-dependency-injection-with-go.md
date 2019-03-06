@@ -16,7 +16,6 @@ dsq_thread_id:
   - "3679500557"
 categories:
   - Engineering
-  - Ops
 tags:
   - go
 ---
