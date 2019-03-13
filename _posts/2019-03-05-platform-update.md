@@ -53,7 +53,6 @@ A lot has happened in the world of Parse over the last year and we want to say t
 - A gain of __2,300__ stars across the platform
 - Growth of the Open Collective budget to a current total of __$10,000__
 - 900 new forks across the platform
-- Over __1470 issues closed__ - 4 every day!
 - More than __800 pull request closed__ - 2 every day!
 - __13 releases for Parse Server__ with the major milestones of 3.0
 - __666,000 downloads__ for Parse Server on npm, on track for 770,000 in 2019
