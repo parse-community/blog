@@ -1,4 +1,10 @@
-# Parse Community Blog [WIP]
+# Parse Community Blog
+
+[![Join The Conversation](https://img.shields.io/discourse/https/community.parseplatform.org/topics.svg)](https://community.parseplatform.org/c/parse-server)
+[![Backers on Open Collective](https://opencollective.com/parse-server/backers/badge.svg)](#backers)
+[![Sponsors on Open Collective](https://opencollective.com/parse-server/sponsors/badge.svg)](#sponsors)
+[![License][license-svg]][license-link]
+![Twitter Follow](https://img.shields.io/twitter/follow/ParsePlatform.svg?label=Follow%20us%20on%20Twitter&style=social)
 
 ## Setup
 
@@ -91,3 +97,6 @@ pagination:
     permalink: /:num/
 ---
 ```
+
+[license-svg]: https://img.shields.io/badge/license-BSD-lightgrey.svg
+[license-link]: https://github.com/parse-community/Parse-SDK-JS/blob/master/LICENSE
