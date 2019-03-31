@@ -99,4 +99,4 @@ pagination:
 ```
 
 [license-svg]: https://img.shields.io/badge/license-BSD-lightgrey.svg
-[license-link]: https://github.com/parse-community/Parse-SDK-JS/blob/master/LICENSE
+[license-link]: LICENSE
