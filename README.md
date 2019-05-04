@@ -1,4 +1,10 @@
-# Parse Community Blog [WIP]
+# Parse Community Blog
+
+[![Join The Conversation](https://img.shields.io/discourse/https/community.parseplatform.org/topics.svg)](https://community.parseplatform.org/c/parse-server)
+[![Backers on Open Collective](https://opencollective.com/parse-server/backers/badge.svg)][open-collective-link]
+[![Sponsors on Open Collective](https://opencollective.com/parse-server/sponsors/badge.svg)][open-collective-link]
+[![License][license-svg]][license-link]
+[![Twitter Follow](https://img.shields.io/twitter/follow/ParsePlatform.svg?label=Follow%20us%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=ParsePlatform)
 
 ## Setup
 
@@ -55,7 +61,7 @@ More info can be found in the [official docs](http://jekyllrb.com/docs/posts/).
 
 ## Using categories & adding new ones
 
-When adding a category to a blog post please remember to capitalize words.
+When adding a category to a blog post please remember to capitalize words. For categories with multiple words please separate words with dashes instead of spaces eg. New-Year not New Year.
 
 The current list of categories:
 - Announcements
@@ -65,7 +71,7 @@ The current list of categories:
 - GitHub
 - JavaScript
 - Learn
-- New Year
+- New-Year
 - NodeJS
 - Notice
 - PHP
@@ -74,6 +80,11 @@ The current list of categories:
 - Security
 - Update
 - Videos
+- Tutorial
+- Open-Source
+- Hacktoberfest
+- Engineering
+- Design
 
 If you would like to use a new category please make a new file in the [categories folder](blog/categories), for example:
 ```yaml
@@ -86,3 +97,7 @@ pagination:
     permalink: /:num/
 ---
 ```
+
+[license-svg]: https://img.shields.io/badge/license-BSD-lightgrey.svg
+[license-link]: LICENSE
+[open-collective-link]: https://opencollective.com/parse-server
