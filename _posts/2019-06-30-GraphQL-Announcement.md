@@ -15,6 +15,8 @@ Parse Server is now the easiest way to instantly create a GraphQL API.
 
 The 3.5.0 release automatically generates the main queries and mutations to have a GraphQL API running on top of ParseServer, including: Auto Schema, Users Authentication, Files, Class Objects supporting all data types and CRUD operations for MongoDB and Postgres.
 
+We'd like to thank [Davi Macedo](https://github.com/davimacedo) and [Douglas Muraoka](https://github.com/douglasmuraoka) for making this happen.
+
 The ParseGraphQLServer is an optional feature (such as ParseLiveQuery) that can play together with ParseServer or solo. The implementation includes a new set of files and do not change the current Parse Server implementation.
 
 [GraphQL](https://graphql.org/) is an open-source data query and manipulation language for APIs. In addition to the traditional REST API, Parse Server automatically generates a GraphQL API based on your current application schema.
