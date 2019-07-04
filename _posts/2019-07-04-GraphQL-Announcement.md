@@ -1,13 +1,13 @@
 ---
 layout: post
 title: GraphQL Support for Parse Server
-date: 2019-06-25 22:10 -0000
+date: 2019-07-04 18:00 -0000
 comments: true
 author: tomwfox
 categories: [Announcements, Release]
 ---
 
-We're glad to announce that Parse Server now has support for GraphQL. GraphQl is a growing technology that helps developers build fast and stable apps. GraphQL uses types to ensure Apps only ask for what’s possible and provide clear and helpful errors.
+We're glad to announce that Parse Server now has support for GraphQL. [GraphQL](https://graphql.org/) is an open-source data query and manipulation language that helps developers build fast and stable apps. It uses types to ensure Apps only ask for what’s possible and provide clear and helpful errors.
 
 Parse Server is now the easiest way to instantly create a GraphQL API.
 
@@ -17,9 +17,7 @@ The 3.5.0 release automatically generates the main queries and mutations to have
 
 We'd like to thank [Davi Macedo](https://github.com/davimacedo) and [Douglas Muraoka](https://github.com/douglasmuraoka) for making this happen.
 
-The ParseGraphQLServer is an optional feature (such as ParseLiveQuery) that can play together with ParseServer or solo. The implementation includes a new set of files and do not change the current Parse Server implementation.
-
-[GraphQL](https://graphql.org/) is an open-source data query and manipulation language for APIs. In addition to the traditional REST API, Parse Server automatically generates a GraphQL API based on your current application schema.
+The ParseGraphQLServer is an optional feature (like ParseLiveQuery) that can play together with ParseServer or solo. In addition to the traditional REST API, Parse Server automatically generates a GraphQL API based on your current application schema.
 
 ## Getting Started with GraphQL
 
