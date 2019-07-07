@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GraphQL Support for Parse Server
-date: 2019-07-04 18:00 -0000
+date: 2019-07-10 18:00 -0000
 comments: true
 author: tomwfox
 categories: [Announcements, Release]
