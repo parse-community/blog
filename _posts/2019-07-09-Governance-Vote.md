@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adoption of a Governance Model
-date: 2019-07-04 15:00 -0000
+date: 2019-07-09 15:00 +0100
 comments: true
 author: tomwfox
 categories: [Update, Governance]
