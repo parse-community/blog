@@ -37,6 +37,7 @@ pagination:
    permalink: /blog/:num/
    sort_field: 'date'
    sort_reverse: true
+destination: ./build
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
