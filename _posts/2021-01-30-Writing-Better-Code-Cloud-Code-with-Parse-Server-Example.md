@@ -28,7 +28,7 @@ In previous versions of our Parse javascript docs, we had many examples of javas
 Using `var` can result in variables becoming accidently overridden, causing unwanted bugs, such as:
 
 ```javascript
-Parse.Cloud.beforeSave('function', function(request) {
+Parse.Cloud.beforeSave('test', function(request) {
   var object = request.object;
   var user = request.user;
   var query = new Parse.Query('Object');
@@ -43,7 +43,7 @@ Parse.Cloud.beforeSave('function', function(request) {
 As of ES6, we have evolved all our example code away from var.
 
 ```javascript
-Parse.Cloud.beforeSave('function', function(request) {
+Parse.Cloud.beforeSave('test', function(request) {
   const object = request.object;
   const user = request.user;
   const query = new Parse.Query('Object');
@@ -73,7 +73,7 @@ Parse.Cloud.beforeSave('test', function(request) {
 ES6 shorthand syntax:
 
 ```
-Parse.Cloud.beforeSave('function', ({object,user}) => {
+Parse.Cloud.beforeSave('test', ({object,user}) => {
   console.log(object, user);
 });
 ```
@@ -89,7 +89,7 @@ Unless your code requires series excecution (e.g one task after an other), you s
 Poorly Optimized:
 
 ```javascript
-Parse.Cloud.define('function', ({user, params:{name, type}}) => {
+Parse.Cloud.define('testFunction', ({user, params:{name, type}}) => {
   const nameQuery = new Parse.Query('Name');
   nameQuery.equalTo('name', name);
   const nameData = await nameQuery.first({useMasterKey:true});
@@ -116,7 +116,7 @@ This code is poorly optimized as it resolves the query for `name`, and then the 
 
 Using Promise.all:
 ```javascript
-Parse.Cloud.define('function', ({user, params:{name, type}}) => {
+Parse.Cloud.define('testFunction', ({user, params:{name, type}}) => {
   const nameQuery = new Parse.Query('Name');
   nameQuery.equalTo('name', name);
   const typeQuery = new Parse.Query('Type');
