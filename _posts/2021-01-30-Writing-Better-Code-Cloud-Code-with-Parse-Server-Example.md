@@ -19,7 +19,7 @@ Today, I'm going to introduce you to the newest features in the [Parse Server Ex
 
 Having well written code can save you a lot of time in the long run. There is nothing worse than looking back at old code you've written and needing to spend hours to wrap your head around it. 
 
-I would recommend writing code as cleanly and simply as you can, making use of:
+There have been _many_ improvements to Javascript since the initial release of Parse Server. Here are a few of them:
 
 ## Using const or let instead of var
 
@@ -66,15 +66,15 @@ ES5:
 Parse.Cloud.beforeSave('test', function(request) {
   var object = request.object;
   var user = request.user;
-  console.log(object, user);
+  request.log.info(object, user);
 });
 ```
 
 ES6 shorthand syntax:
 
 ```
-Parse.Cloud.beforeSave('test', ({object,user}) => {
-  console.log(object, user);
+Parse.Cloud.beforeSave('test', ({object,user,log}) => {
+  log.info(object, user);
 });
 ```
 
@@ -84,7 +84,7 @@ With ES6, you can write loops using `for (const object of objects)` rather than 
 
 ## Promise.all
 
-Unless your code requires series excecution (e.g one task after an other), you should try to leverage `Promise.all` in your cloud functions. This will allow your cloud code to resolve much faster.
+Unless your code requires series excecution (i.e one task after an other), you should try to leverage `Promise.all` in your cloud functions. This will allow your cloud code to resolve much faster.
 
 Poorly Optimized:
 
@@ -138,7 +138,7 @@ Parse.Cloud.define('testFunction', ({user, params:{name, type}}) => {
 });
 ```
 
-These are only a few examples of how to write better cloud code. On the latest [Parse Server Example](https://github.com/parse-community/parse-server-example) project, you can now run `npm run lint` , which will run over your cloud code and check for any mistakes. You can also run `npm run lint-fix` to fix any easy errors, such as indentation.
+These are only a few examples of how to write better cloud code. On the latest [Parse Server Example](https://github.com/parse-community/parse-server-example) project, you can now run `npm run prettier` to style your code, followed by `npm run lint` , which will run over your cloud code and check for quality issues. You can also run `npm run lint-fix` to fix any easy errors, such as indentation.
 
 # Testing
 
@@ -148,7 +148,7 @@ Automated testing is a good way to be assured that your functions are running as
 
 On the latest [Parse Server Example](https://github.com/parse-community/parse-server-example) project, you can create tests by creating `*.spec.js` files in `/spec`. 
 
-This will boot up a mock database, start a Parse Server based off your `index.js`. You don't have to worry about tests impacting your database.
+This will boot up a mock database, start a Parse Server based off your `index.js`. You don't have to worry about tests impacting your production database.
 
 We have written some example tests to show you how it works.
 
@@ -163,13 +163,17 @@ Some helpful tips:
 
 Now you've learnt testing, it's important to make sure as much of your cloud functions are covered by tests, so you can be sure that they are all running as expected.
 
-After you've written and tested a few tests, you can run `npm run coverage`. This will create a new folder `/coverage`. Navigate to `/coverage/lcov-report` and open `index.html`, and you'll be able to visually see what bits of your code you need to write tests for, and which sections are covered.
+After you've written and tested a few tests, you can run `npm run coverage`. This will create a new folder `/coverage`. Navigate to `/coverage/lcov-report` and open `index.html`, and you'll be able to visually see what bits of your code you need to write tests for, and which sections are covered. The more of your cloud code you cover, the more you can be assured that changes don't have any unforseen consequences.
+
+# Watching Cloud Code
+
+Traditionally, you have to restart your Parse Server whenever you make changes to cloud code. Now, you can type `npm run watch`, and your Parse Server will auto-restart when any affected files are changed.
 
 # Tying this all together
 
-Great, now you can be assured that your Parse Server's code is working as expected, and is clean as it can be.
+Great, now you can be assured that your Parse Server's cloud code is working as expected, and is clean as it can be.
 
-If you want to go one step further, you can use GitHub actions to check your servers linting and tests prior to commit.
+If you want to go one step further, you can use GitHub actions to check your codes' linting and tests prior to commit.
 
 You'll have to create a fork of the Parse Server example repo though - we recommend creating it privately so that your data is protected.
 
