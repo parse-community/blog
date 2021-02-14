@@ -69,94 +69,10 @@ authors:
     byline: Core Contributor
     github: tomwfox
     twitter: T0mfox
-  # Original Parse Team
-  courtneywitmer:
-    name: Courtney Witmer
-  andrewimm:
-    name: Andrew Imm
-  foscomarotto:
-    name: Fosco Marotto
-  bennham:
-    name: Ben Nham
-  listiarsowastuargo:
-    name: Listiarso Wastuargo
-  christineyen:
-    name: Christine Yen
-  beardouglas:
-    name: Bear Douglas
-  mattieugamacheasselin:
-    name: Mattieu Gamache-Asselin
-  ashleysmith:
-    name: Ashley Smith
-  hectorramos:
-    name: Héctor Ramos
-  abhishekkona:
-    name: Abhishek Kona
-  christophetauziet:
-    name: Christophe Tauziet
-  charitymajors:
-    name: Charity Majors
-  ilyasukhar:
-    name: Ilya Sukhar
-  grantlandchew:
-    name: Grantland Chew
-  bryanklimt:
-    name: Bryan Klimt
-  naitikshah:
-    name: Naitik Shah
-  nancyxiao:
-    name: Nancy Xiao
-  kailiu:
-    name: Kai Liu
-  stanleywang:
-    name: Stanley Wang
-  christineabernathy:
-    name: Christine Abernathy
-  jamiekarraker:
-    name: Jamie Karraker
-  karangajwani:
-    name: Karan Gajwani
-  thomasbouldin:
-    name: Thomas Bouldin
-  nikitalutsenko:
-    name: Nikita Lutsenko
-  georgekedenburgiii:
-    name: George Kedenburg III
-  devincheevers:
-    name: Devin Cheevers
-  jamesyu:
-    name: James Yu
-  parse:
-    name: Parse
-  mikekania:
-    name: Mike Kania
-  ronaldyang:
-    name: Ronald Yang
-  björnkaiser:
-    name: Björn Kaiser
-  pavanathivarapu:
-    name: Pavan Athivarapu
-  drewgross:
-    name: Drew Gross
-  ericnakagawa:
-    name: Eric Nakagawa
-  vítorfernandes:
-    name: Vítor Fernandes
-  damiankowalewski:
-    name: Damian Kowalewski
-  travisredman:
-    name: Travis Redman
-  mengyanwang:
-    name: Mengyan Wang
-  georgeyakovlev:
-    name: George Yakovlev
-  richardross:
-    name: Richard Ross
-  jakeblakeley:
-    name: Jake Blakeley
-  kevinlacker:
-    name: Kevin Lacker
-  patrickpelletier:
-    name: Patrick Pelletier
   dblythy:
     name: Daniel Blyth
+    github: dblythy
+    byline: Parse Contributor
+  # Original Parse Team
+  foscomarotto:
+    name: Fosco Marotto
