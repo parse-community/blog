@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contributing to Parse Server
+title: How to start contributing to Parse Server
 date: 2020-12-16 15:00 +0100
 comments: true
 author: dblythy
@@ -146,6 +146,7 @@ In order to merge with the master repo, let's check a few things:
 
 - Replace `fit` in tests with `it`. It's important that all new code added by the new features are captured by tests, so write more tests if required.
 - Run `npm test` to make sure the new feature doesn't break any other feature
+- Run `npm run prettier` to clean up code style
 - Run `npm run lint-fix` to fix any lint issues
 - Run `npm run lint` to identify any remaining lint issues
 - Add our changes to the changelog
