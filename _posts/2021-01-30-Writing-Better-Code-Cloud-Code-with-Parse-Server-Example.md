@@ -19,7 +19,7 @@ Today, I'm going to introduce you to the newest features in the [Parse Server Ex
 
 Having well written code can save you a lot of time in the long run. There is nothing worse than looking back at old code you've written and needing to spend hours to wrap your head around it. 
 
-There have been _many_ improvements to Javascript since the initial release of Parse Server. Here are a few of them:
+There have been _many_ improvements to JavaScript since the initial release of Parse Server. Here are a few of them:
 
 ## Using const or let instead of var
 
@@ -84,7 +84,7 @@ With ES6, you can write loops using `for (const object of objects)` rather than 
 
 ## Promise.all
 
-Unless your code requires series excecution (i.e one task after an other), you should try to leverage `Promise.all` in your cloud functions. This will allow your cloud code to resolve much faster.
+Unless your code requires series excecution (i.e one task after an other), you should try to leverage `Promise.all` in your Cloud Functions. This will allow your Cloud Code to resolve much faster.
 
 Poorly Optimized:
 
@@ -165,7 +165,7 @@ Some helpful tips:
 
 Now you've learnt testing, it's important to make sure as much of your cloud functions are covered by tests, so you can be sure that they are all running as expected.
 
-After you've written and tested a few tests, you can run `npm run coverage`. This will create a new folder `/coverage`. Navigate to `/coverage/lcov-report` and open `index.html`, and you'll be able to visually see what bits of your code you need to write tests for, and which sections are covered. The more of your cloud code you cover, the more you can be assured that changes don't have any unforseen consequences.
+After you've written and tested a few tests, you can run `npm run coverage`. This will create a new folder `/coverage`. Navigate to `/coverage/lcov-report` and open `index.html`, and you'll be able to visually see what bits of your code you need to write tests for, and which sections are covered. The more of your Cloud Code you cover, the more you can be assured that changes don't have any unforeseen consequences.
 
 # Watching Cloud Code
 
