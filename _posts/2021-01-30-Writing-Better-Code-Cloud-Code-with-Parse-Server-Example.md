@@ -138,7 +138,7 @@ Parse.Cloud.define('testFunction', ({user, params:{name, type}}) => {
 });
 ```
 
-These are only a few examples of how to write better cloud code. On the latest [Parse Server Example](https://github.com/parse-community/parse-server-example) project, you can now run `npm run prettier` to style your code, followed by `npm run lint` , which will run over your cloud code and check for quality issues. You can also run `npm run lint-fix` to fix any easy errors, such as indentation.
+These are only a few examples of how to write better Cloud Code. On the latest [Parse Server Example](https://github.com/parse-community/parse-server-example) project, you can now run `npm run prettier` to style your code, followed by `npm run lint` , which will run over your Cloud Code and check for quality issues. You can also run `npm run lint-fix` to fix any easy errors, such as indentation.
 
 # Testing
 
