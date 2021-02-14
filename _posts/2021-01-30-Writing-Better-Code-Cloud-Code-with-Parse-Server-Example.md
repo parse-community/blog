@@ -146,7 +146,7 @@ As your Parse Server project gets larger and more complex, it can be challenging
 
 Automated testing is a good way to be assured that your functions are running as expected.
 
-On the latest [Parse Server Example](https://github.com/parse-community/parse-server-example) project, you can create tests by creating `*.spec.js` files in `/spec`. 
+On the latest [Parse Server Example](https://github.com/parse-community/parse-server-example) project, you can add tests by creating `*.spec.js` files in `/spec`. 
 
 This will boot up a mock database, start a Parse Server based off your `index.js`. You don't have to worry about tests impacting your production database.
 
