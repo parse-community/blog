@@ -180,7 +180,7 @@ Traditionally, you have to restart your Parse Server whenever you make changes t
 
 # Tying this all together
 
-Great, now you can be assured that your Parse Server's cloud code is working as expected, and is clean as it can be.
+Great, now you can be assured that your Parse Server's Cloud Code is working as expected, and is clean as it can be.
 
 If you want to go one step further, you can use GitHub actions to check your codes' linting and tests prior to commit.
 
