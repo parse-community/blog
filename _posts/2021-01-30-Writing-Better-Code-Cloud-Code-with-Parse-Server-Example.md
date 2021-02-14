@@ -167,7 +167,7 @@ After you've written and tested a few tests, you can run `npm run coverage`. Thi
 
 # Watching Cloud Code
 
-Traditionally, you have to restart your Parse Server whenever you make changes to cloud code. Now, you can type `npm run watch`, and your Parse Server will auto-restart when any affected files are changed.
+Traditionally, you have to restart your Parse Server whenever you make changes to Cloud Code. Now, you can type `npm run watch`, and your Parse Server will auto-restart when any affected files are changed.
 
 # New Scripts
 
