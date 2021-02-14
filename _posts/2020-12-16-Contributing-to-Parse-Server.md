@@ -1,10 +1,10 @@
 ---
 layout: post
 title: How to start contributing to Parse Server
-date: 2020-12-16 15:00 +0100
+date: 2021-02-14 15:00 +0100
 comments: true
 author: dblythy
-categories: [Learn]
+categories: [Learn, Tutorial, Community, NodeJS]
 ---
 
 The most amazing feature of Parse Server is that it's accessible for developers of all skill levels.
