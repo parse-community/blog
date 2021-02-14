@@ -84,7 +84,7 @@ With ES6, you can write loops using `for (const object of objects)` rather than 
 
 ## Promise.all
 
-Unless your code requires series excecution (i.e one task after an other), you should try to leverage `Promise.all` in your cloud functions. This will allow your cloud code to resolve much faster.
+Unless your code requires series excecution (i.e one task after an other), you should try to leverage `Promise.all` in your Cloud Functions. This will allow your Cloud Code to resolve much faster.
 
 Poorly Optimized:
 
