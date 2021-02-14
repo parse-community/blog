@@ -138,7 +138,9 @@ Parse.Cloud.define('testFunction', ({user, params:{name, type}}) => {
 });
 ```
 
-These are only a few examples of how to write better Cloud Code. On the latest [Parse Server Example](https://github.com/parse-community/parse-server-example) project, you can now run `npm run prettier` to style your code, followed by `npm run lint` , which will run over your Cloud Code and check for quality issues. You can also run `npm run lint-fix` to fix any easy errors, such as indentation.
+These are only a few examples of how to write better Cloud Code. You can learn more about new ES6, ES7, ES8, and other ES release features [here](https://www.w3schools.com/js/js_es6.asp).
+
+On the latest [Parse Server Example](https://github.com/parse-community/parse-server-example) project, you can now run `npm run prettier` to style your code, followed by `npm run lint` , which will run over your Cloud Code and check for quality issues. You can also run `npm run lint-fix` to fix any easy errors, such as indentation.
 
 # Testing
 
@@ -152,7 +154,7 @@ This will boot up a mock database, start a Parse Server based off your `index.js
 
 We have written some example tests to show you how it works.
 
-Now, run `npm run test` and `jasmine` (the testing framework) will check to make sure the tests run as expected. 
+Now, run `npm run test` and `jasmine` ([the testing framework](https://jasmine.github.io/)) will check to make sure the tests run as expected. 
 
 Some helpful tips:
 - If you create a test using `fit()` or `fdescribe()`, jasmine will focus on those tests only, and others will be ignored.
@@ -182,9 +184,9 @@ Traditionally, you have to restart your Parse Server whenever you make changes t
 
 Great, now you can be assured that your Parse Server's Cloud Code is working as expected, and is clean as it can be.
 
-If you want to go one step further, you can use GitHub actions to check your codes' linting and tests prior to commit.
+If you want to go one step further, you can use [GitHub Actions](https://github.com/features/actions) or another CI platform to check your codes' linting and tests prior to commit.
 
-You'll have to create a fork of the Parse Server example repo though - we recommend creating it privately so that your data is protected.
+You'll have to create a clone the Parse Server example repo though - we recommend creating it privately so that your data is protected.
 
 The script that GitHub uses to check your Parse Server is located at `.github/workflows/ci.yml`. You can also create other commands here, such as packaging up and deploying to your production server. Be sure to use GitHub secrets for any sensitive keys!
 
