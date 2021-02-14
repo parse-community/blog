@@ -174,7 +174,7 @@ Traditionally, you have to restart your Parse Server whenever you make changes t
 * `npm run watch` will start your Parse Server and restart if you make any changes.
 * `npm run lint` will check the linting of your Cloud Code, tests and `index.js`, as defined in `.eslintrc.json`.
 * `npm run lint-fix` will attempt to fix the linting of your Cloud Code, tests and `index.js`.
-* `npm run prettier` will help improve the formatting and layout of your cloud code, tests and `index.js`, as defined in `.prettierrc`.
+* `npm run prettier` will help improve the formatting and layout of your Cloud Code, tests and `index.js`, as defined in `.prettierrc`.
 * `npm run test` will run any tests that are written in `/spec`.
 * `npm run coverage` will run tests and check coverage. Output is available in the `/coverage` folder.
 
