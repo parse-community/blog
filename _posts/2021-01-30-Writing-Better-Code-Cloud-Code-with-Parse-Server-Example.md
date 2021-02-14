@@ -19,7 +19,7 @@ Today, I'm going to introduce you to the newest features in the [Parse Server Ex
 
 Having well written code can save you a lot of time in the long run. There is nothing worse than looking back at old code you've written and needing to spend hours to wrap your head around it. 
 
-There have been _many_ improvements to Javascript since the initial release of Parse Server. Here are a few of them:
+There have been _many_ improvements to JavaScript since the initial release of Parse Server. Here are a few of them:
 
 ## Using const or let instead of var
 
