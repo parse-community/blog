@@ -163,7 +163,7 @@ Some helpful tips:
 
 # Coverage
 
-Now you've learnt testing, it's important to make sure as much of your cloud functions are covered by tests, so you can be sure that they are all running as expected.
+Now you've learnt testing, it's important to make sure as much of your Cloud Functions are covered by tests, so you can be sure that they are all running as expected.
 
 After you've written and tested a few tests, you can run `npm run coverage`. This will create a new folder `/coverage`. Navigate to `/coverage/lcov-report` and open `index.html`, and you'll be able to visually see what bits of your code you need to write tests for, and which sections are covered. The more of your Cloud Code you cover, the more you can be assured that changes don't have any unforeseen consequences.
 
