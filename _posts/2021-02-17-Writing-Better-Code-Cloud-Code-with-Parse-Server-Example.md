@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Writing Better Cloud Code with Parse Server Example
-date: 2021-01-30 15:00 +0100
+date: 2021-02-17 15:00 +0100
 comments: true
 author: dblythy
-categories: [Learn,JavaScript,GitHub]
+categories: [Learn,JavaScript,GitHub,Tutorial]
 ---
 
 Parse Server is a great, quick way to create an app backend without requiring years of knowledge and time.
@@ -17,7 +17,7 @@ Today, I'm going to introduce you to the newest features in the [Parse Server Ex
 
 # Linting
 
-Having well written code can save you a lot of time in the long run. There is nothing worse than looking back at old code you've written and needing to spend hours to wrap your head around it. 
+Having well written code can save you a lot of time in the long run. There is nothing worse than looking back at old code you've written and needing to spend hours to wrap your head around it.
 
 There have been _many_ improvements to JavaScript since the initial release of Parse Server. Here are a few of them:
 
@@ -148,13 +148,13 @@ As your Parse Server project gets larger and more complex, it can be challenging
 
 Automated testing is a good way to be assured that your functions are running as expected.
 
-On the latest [Parse Server Example](https://github.com/parse-community/parse-server-example) project, you can add tests by creating `*.spec.js` files in `/spec`. 
+On the latest [Parse Server Example](https://github.com/parse-community/parse-server-example) project, you can add tests by creating `*.spec.js` files in `/spec`.
 
 This will boot up a mock database, start a Parse Server based off your `index.js`. You don't have to worry about tests impacting your production database.
 
 We have written some example tests to show you how it works.
 
-Now, run `npm run test` and `jasmine` ([the testing framework](https://jasmine.github.io/)) will check to make sure the tests run as expected. 
+Now, run `npm run test` and `jasmine` ([the testing framework](https://jasmine.github.io/)) will check to make sure the tests run as expected.
 
 Some helpful tips:
 - If you create a test using `fit()` or `fdescribe()`, jasmine will focus on those tests only, and others will be ignored.
