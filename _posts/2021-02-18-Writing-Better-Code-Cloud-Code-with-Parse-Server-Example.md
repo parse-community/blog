@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Writing Better Cloud Code with Parse Server Example
-date: 2021-02-17 15:00 +0100
+date: 2021-02-18 11:00 +0100
 comments: true
 author: dblythy
 categories: [Learn,JavaScript,GitHub,Tutorial]
