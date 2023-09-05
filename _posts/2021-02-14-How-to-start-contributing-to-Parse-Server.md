@@ -33,9 +33,9 @@ Ok, great! Now we have a local copy of Parse Server.
 
 ## Creating a Branch
 
-In order to add code to Parse Server, we need to create a "Branch". This allows git to track any differences from our "Branch" vs the "master" branch, so we can hopefully merge our changes with the main project in the future.
+In order to add code to Parse Server, we need to create a "code branch". This allows git to track any differences from our contribution vs. the current codebase, so we can hopefully merge our changes with the repository in the future.
 
-First, set current repository to the clone of Parse Server, and then press the branch.
+First, set the current repository to the clone of Parse Server, and then select the working branch, which is the "alpha" branch in case of the Parse Server repository.
 
 <img width="960" alt="Creating a Branch" src="https://user-images.githubusercontent.com/4974769/102357283-495ee480-4002-11eb-9c95-d84982e135b2.png">
 
