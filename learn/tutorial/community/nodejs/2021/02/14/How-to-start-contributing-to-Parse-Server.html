@@ -1,0 +1,416 @@
+<!doctype html>
+<html>
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-102564547-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-102564547-2');
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>How to start contributing to Parse Server</title>
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon-180x180.png">
+    <meta name="apple-mobile-web-app-title" content="Parse">
+    <link rel="icon" type="image/png" href="/img/favicon/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/img/favicon/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="/img/favicon/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/img/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/img/favicon/favicon-32x32.png" sizes="32x32">
+    <meta name="msapplication-TileColor" content="#5298fc">
+    <meta name="msapplication-TileImage" content="/img/favicon/apple-touch-icon-144x144.png">
+    <meta name="application-name" content="Parse">
+    <meta name="theme-color" content="#5298fc">
+    <!-- CSS -->
+    <!-- build:css -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.5.0/styles/default.min.css">
+    <link href="/css/blog.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/docsearch.js/2/docsearch.min.css" rel="stylesheet" />
+    <!-- endbuild -->
+    <!--[if lte IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/classlist/2014.01.31/classList.min.js"></script>
+    <![endif]-->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/anchor-js/3.2.2/anchor.js"></script>
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/ie7.css" />
+    <![endif]-->
+    <!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/ie8.css" />
+    <![endif]-->
+    <!--[if lt IE 10]>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/ie89.css" />
+    <![endif]-->
+    <script>if(Function('/*@cc_on return document.documentMode===10@*/')()){document.documentElement.className+=' ie10';}</script>
+    <meta name="csrf-param" content="authenticity_token">
+    <meta name="csrf-token" content="KxDoKysxiXDIRV8VXwDYlQStDGzjbGZ24y6ZgQLYAsE=">
+    <meta name="description" content="The best place to stay up-to-date with the latest Parse news and events.
+">
+    <meta name="keywords" content="backend, mobile, development, server, code">
+    <meta property="fb:app_id" content="361736430535656">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Parse">
+    <meta property="og:image" content="http://blog.parseplatform.org//assets/images/social.jpg">
+    <meta property="og:description" content="The best place to stay up-to-date with the latest Parse news and events.
+">
+    <meta property="og:url" content="http://blog.parseplatform.org//learn/tutorial/community/nodejs/2021/02/14/How-to-start-contributing-to-Parse-Server.html">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body class="pure p_docs p_docs_index  user_logged_in">
+<div class="site__wrapper">
+    <div class="site__content">
+        <div class="content__wrapper">
+            <header class="site__header site__header--white">
+    <div class="container">
+        <a href="/" class="header-logo">
+            <span class="hidden">Parse</span>
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+            	 viewBox="0 0 152 60" style="enable-background:new 0 0 152 60;" xml:space="preserve">
+            <g>
+            	<path class="line one" d="M23.072,39.678c-0.011,3.348-2.395,4.615-4.909,4.615c-2.851,0-4.541-1.701-4.541-4.357
+            		c0-2.964,2.031-4.667,5.35-4.725h13.611c6.428,0.079,10.137-5.391,10.137-9.953c0-4.598-3.485-9.598-9.622-9.842
+            		c-6.083-0.242-9.99,5.281-9.99,11.167v3.863"/>
+            	<path class="line two" d="M23.072,39.678c-0.011,3.348-2.395,4.615-4.909,4.615c-2.851,0-4.541-1.701-4.541-4.357
+            		c0-2.964,2.031-4.667,5.35-4.725h13.611c6.428,0.079,10.137-5.391,10.137-9.953c0-4.598-3.485-9.598-9.622-9.842
+            		c-6.083-0.242-9.99,5.281-9.99,11.167v3.863"/>
+            	<path class="line three" d="M23.072,39.678c-0.011,3.348-2.395,4.615-4.909,4.615c-2.851,0-4.541-1.701-4.541-4.357
+            		c0-2.964,2.031-4.667,5.35-4.725h13.611c6.428,0.079,10.137-5.391,10.137-9.953c0-4.598-3.485-9.598-9.622-9.842
+            		c-6.083-0.242-9.99,5.281-9.99,11.167v3.863"/>
+            	<path class="st1" d="M151.88,31.106c0-4.561-2.575-7.835-7.173-7.872c-5.665-0.037-9.197,4.12-9.197,10.484v0.11
+            		c0,6.033,3.863,9.601,9.601,9.601c1.839,0,4.083-0.405,5.739-1.177v-3.568c-1.839,0.956-3.752,1.398-5.408,1.398
+            		c-3.568,0-6.07-1.803-6.18-5.959h12.36C151.807,33.056,151.88,32.026,151.88,31.106z M148.312,31.07h-8.829
+            		c0.625-3.053,2.354-4.745,4.966-4.745c2.575,0,3.863,1.729,3.863,4.561V31.07z"/>
+            	<path class="st1" d="M125.725,34.712l0.405,0.147c2.869,1.03,3.531,1.655,3.531,2.906c0,1.471-0.993,2.428-3.458,2.428
+            		c-1.986,0-4.12-0.662-6.364-1.692v3.752c1.803,0.699,4.12,1.177,6.364,1.177c4.819,0,7.21-2.428,7.21-5.812
+            		c0-2.943-1.471-4.525-5.408-5.959l-0.405-0.147c-3.127-1.14-3.752-1.655-3.752-2.869c0-1.361,0.956-2.281,3.237-2.281
+            		c1.839,0,3.642,0.589,5.408,1.435v-3.531c-1.582-0.625-3.348-1.03-5.26-1.03c-4.598,0-7.1,2.575-7.1,5.886
+            		C120.134,31.695,121.679,33.24,125.725,34.712"/>
+            	<path class="st1" d="M110.863,29.892c1.288-2.023,3.09-3.016,5.26-3.016c0.773,0,1.508,0.11,2.17,0.331v-3.384
+            		c-0.625-0.258-1.361-0.405-2.134-0.405c-2.281,0-4.01,1.03-5.518,3.09l-0.258-2.869h-3.164v19.386h3.642V29.892z"/>
+            	<path class="st1" d="M96.481,23.197c-2.281,0-4.672,0.699-6.474,1.692v3.605c2.023-1.251,4.378-2.023,6.254-2.023
+            		c2.612,0,3.679,1.14,3.679,3.274v1.619c-5.334,0.147-8.461,1.03-10.116,2.685c-1.177,1.14-1.692,2.685-1.692,4.267
+            		c0,3.274,2.354,5.15,5.702,5.15c2.244,0,4.378-0.92,6.327-2.796l0.221,2.354h3.164V30.003
+            		C103.544,25.405,101.263,23.197,96.481,23.197z M99.938,37.728c-1.471,1.619-3.2,2.722-5.297,2.722
+            		c-1.729,0-2.833-0.883-2.833-2.428c0-2.281,1.876-3.642,8.13-3.826V37.728z"/>
+            	<path class="st1" d="M77.609,17.643h-8.571v25.383h3.826v-8.314h4.745c5.923,0,9.491-3.164,9.491-8.498V26.14
+            		C87.1,20.806,83.532,17.643,77.609,17.643z M83.311,26.214c0,3.421-1.986,5.04-5.444,5.04h-5.003V21.101h5.04
+            		c3.421,0,5.408,1.619,5.408,5.04V26.214z"/>
+            	<path class="st1" d="M27.838,2.192C12.204,2.192-0.12,14.589-0.12,30.15c0,15.597,12.323,27.958,27.958,27.958
+            		c15.634,0,27.958-12.36,27.958-27.958C55.795,14.589,43.472,2.192,27.838,2.192z M32.473,36.955H18.752
+            		c-1.986,0-3.164,1.214-3.164,3.017c0,1.582,1.067,2.722,2.612,2.722c1.766,0,2.796-1.214,2.906-3.016h4.01
+            		c-0.184,4.341-2.906,6.658-6.953,6.658c-3.789,0-6.585-2.575-6.585-6.401c0-3.973,2.98-6.769,7.394-6.769h13.611
+            		c4.598,0,8.093-3.348,8.093-7.909c0-4.598-3.127-7.799-7.578-7.799c-4.414,0-7.946,3.237-7.946,9.123v3.863h-4.046v-3.863
+            		c0-7.872,5.076-12.986,12.066-12.986c6.695,0,11.551,4.782,11.551,11.588C44.723,32.026,39.499,36.955,32.473,36.955z"/>
+            </g>
+            </svg>
+        </a>
+        <a class="header-hamburger" data-menu-trigger="toggle">
+            <span class="header-hamburger__wrap">
+                <span class="header-hamburger__line--top"></span>
+                <span class="header-hamburger__line--middle"></span>
+                <span class="header-hamburger__line--bottom"></span>
+                <span class="header-hamburger__line--arrow-top"></span>
+                <span class="header-hamburger__line--arrow-bottom"></span>
+            </span>
+        </a>
+        <ul class="header-nav">
+            <li><a href="http://docs.parseplatform.org">Docs</a></li>
+            <li><a class="active" href="/">Blog</a></li>
+        </ul>
+	</div><!-- container -->
+</header>
+
+            
+
+<aside class="hero hero--docs-landing">
+    <div class="grid-container">
+        <div class="col--9">
+            <div class="hero--docs-landing__content">
+                
+                <div>
+    <span class="author">Daniel Blyth -</span>
+    <span class="date">
+        February
+        
+        14th,
+        
+        2021
+    </span>
+</div>
+
+                <h1 class="h1 h1--white">
+                    How to start contributing to Parse Server
+                </h1>
+            </div>
+        </div>
+    </div>
+</aside><!-- .hero -->
+<div class="container padding-top-40 padding-bottom-50" data-nav-waypoint>
+    <article role="article" class="posts">
+        
+        <div>
+    
+    <a href="/blog/categories/learn" class="btn btn--dark--outline btn--xsmall category">Learn</a>
+    
+    <a href="/blog/categories/tutorial" class="btn btn--dark--outline btn--xsmall category">Tutorial</a>
+    
+    <a href="/blog/categories/community" class="btn btn--dark--outline btn--xsmall category">Community</a>
+    
+    <a href="/blog/categories/nodejs" class="btn btn--dark--outline btn--xsmall category">NodeJS</a>
+    
+</div>
+
+        <div class="padding-bottom-20 padding-top-20">
+  
+  
+</div>
+        <div class="padding-bottom-40 post"><p>The most amazing feature of Parse Server is that it’s accessible for developers of all skill levels.</p>
+
+<p>Personally, I started playing around with Objective-C in 2012.</p>
+
+<p>Parse was a way for me to build a complete online app, without having the in-depth knowledge of <em>how</em> to build networking, storage, user systems, etc.</p>
+
+<p>The more I built with Parse, the more I learnt JavaScript, which has fortunately allowed me to contribute to Parse Server.</p>
+
+<p>Although it might seem daunting, contributing to our great open-source project is encouraged to all developers, and in this blog post, I’m going to give you an insight as to how.</p>
+
+<!-- more -->
+
+<h2 id="cloning-parse-server">Cloning Parse Server</h2>
+
+<p>Ok. I like to use GitHub desktop as it’s a visual git tool and sometimes I find git to be confusing. The first step after installing is to make a copy (or “clone”) of the Parse Server repo locally.</p>
+
+<ul>
+  <li>Press <em>File</em> &gt; <em>Clone Repository</em>, select ‘url’ and type <a href="https://github.com/parse-community/parse-server">https://github.com/parse-community/parse-server</a></li>
+</ul>
+
+<p><img width="960" alt="Cloning Parse Server" src="https://user-images.githubusercontent.com/4974769/102356603-8676a700-4001-11eb-8c8a-a9a2be910b57.png" /></p>
+
+<p>Next, select “Clone”.</p>
+
+<p>Ok, great! Now we have a local copy of Parse Server.</p>
+
+<h2 id="creating-a-branch">Creating a Branch</h2>
+
+<p>In order to add code to Parse Server, we need to create a “code branch”. This allows git to track any differences from our contribution vs. the current codebase, so we can hopefully merge our changes with the repository in the future.</p>
+
+<p>First, set the current repository to the clone of Parse Server, and then select the working branch, which is the “alpha” branch in case of the Parse Server repository.</p>
+
+<p><img width="960" alt="Creating a Branch" src="https://user-images.githubusercontent.com/4974769/102357283-495ee480-4002-11eb-9c95-d84982e135b2.png" /></p>
+
+<p>Next, select “New Branch. Name your branch appropriately according to the feature you are working on.</p>
+
+<p><img width="960" alt="Creating a Branch" src="https://user-images.githubusercontent.com/4974769/102357356-52e84c80-4002-11eb-8066-5285e3fb8791.png" /></p>
+
+<p>For this blog post, I am working on adding <code class="language-plaintext highlighter-rouge">request.context</code> to an <code class="language-plaintext highlighter-rouge">afterFind</code> trigger, so I will name this branch <code class="language-plaintext highlighter-rouge">afterFind-context</code>.</p>
+
+<h2 id="diving-in">Diving in</h2>
+
+<p>Ok, now for the fun part! Next, select “Open the repository in your external editor”. I am using Visual Studio Code.</p>
+
+<p>You will notice there are a lot of files here. Don’t be alarmed, we <em>try</em> to keep things as intuitive and organized as possible.</p>
+
+<p>Let’s open a new terminal and run <code class="language-plaintext highlighter-rouge">npm run watch</code> so that changes to the src folder take effect.</p>
+
+<p><img width="960" alt="npm run watch" src="https://user-images.githubusercontent.com/4974769/102359017-60063b00-4004-11eb-861e-7ac457d44413.png" /></p>
+
+<p><img width="960" alt="Screen Shot 2020-12-17 at 1 08 04 am" src="https://user-images.githubusercontent.com/4974769/102359009-5d0b4a80-4004-11eb-92ed-d2c1c62f34ec.png" /></p>
+
+<h3 id="spec-files">Spec Files</h3>
+
+<p>The first thing I like to do for an issue like this, is write a failing test case so I can be clear as to what I am fixing.</p>
+
+<p>If you’re not familiar with test cases, they are essentially javascript files that automatically test and ensure that logic prevails. Parse Server uses Jasmine tests to ensure that new features do not affect existing functionality.</p>
+
+<p>You will find all the Parse Server testing under <code class="language-plaintext highlighter-rouge">/spec</code>.</p>
+
+<p>The issue I am fixing is related to Cloud Code, so the spec file I am adding to is <code class="language-plaintext highlighter-rouge">CloudCode.spec.js</code>.</p>
+
+<p><img width="960" alt="Screen Shot 2020-12-17 at 1 16 15 am" src="https://user-images.githubusercontent.com/4974769/102359907-795bb700-4005-11eb-93fe-a37ac966eb2a.png" /></p>
+
+<p>Here I have added my new test. You will notice that the code here is the same as you’d use in Parse Cloud code, with a few small changes.</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">it</code> is used to tell Jasmine that this is a new test. <code class="language-plaintext highlighter-rouge">fit</code> is so that Jasmine will only run this test whilst I debug.</li>
+  <li><code class="language-plaintext highlighter-rouge">expect</code> is Jasmine method used to ensure expected outcomes of logic. In is example, an error will be thrown if <code class="language-plaintext highlighter-rouge">request.context.a</code> is not <code class="language-plaintext highlighter-rouge">a</code>.</li>
+</ul>
+
+<p>To run this test, click <em>Terminal</em> &gt; <em>Split Terminal</em> and in the new terminal window, type <code class="language-plaintext highlighter-rouge">npm test spec/CloudCode.spec.js</code>. This might take a moment.</p>
+
+<p>Here are the results:</p>
+
+<p><img width="960" alt="Screen Shot 2020-12-17 at 1 26 31 am" src="https://user-images.githubusercontent.com/4974769/102361054-e754ae00-4006-11eb-87d6-6c07d0b6e729.png" /></p>
+
+<p>As expected, the test failed with “Error: Cannot read property ‘a’ of undefined”. This confirms that this is indeed a bug, or a feature that is yet to be extended. So let’s get to work!</p>
+
+<h2 id="isolating-and-fixing">Isolating and Fixing</h2>
+
+<p>It can be daunting at first to work out where the changes need to be made. The Parse Core team and other contributors are always happy to give tips and pointers and would rather your time not go wasted, so always feel free to ask in the <a href="https://community.parseplatform.org">community forum</a>. The <a href="https://docs.parseplatform.org/parse-server/guide/#notable-files">notable files</a> is also a good resource too. It’s unrealistic for us to expect <em>anyone</em> new to be fully across the code base, so there is no shame in asking for pointers.</p>
+
+<p>The file I am working on to start is <code class="language-plaintext highlighter-rouge">Triggers.js</code>. Here’s the process I went to find that:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">Parse.Cloud.js</code> is where the cloud functions are handled, and the afterFind section has the code: <code class="language-plaintext highlighter-rouge">triggers.Types.afterFind</code></li>
+  <li>Searching the project (control / command F) for <code class="language-plaintext highlighter-rouge">triggers.Types.afterFind</code> reveals <code class="language-plaintext highlighter-rouge">RestQuery.js</code></li>
+  <li><code class="language-plaintext highlighter-rouge">RestQuery.js</code> has a function <code class="language-plaintext highlighter-rouge">RestQuery.prototype.runAfterFindTrigger</code> that calls the trigger, <code class="language-plaintext highlighter-rouge">triggers.maybeRunAfterFindTrigger</code>, which is located in <code class="language-plaintext highlighter-rouge">Triggers.js</code></li>
+</ul>
+
+<p>Looking at the other functions, they all have <code class="language-plaintext highlighter-rouge">context</code> passed to them, but <code class="language-plaintext highlighter-rouge">maybeRunAfterFindTrigger</code> does not. Let’s try apply the existing logic to <code class="language-plaintext highlighter-rouge">maybeRunAfterFindTrigger</code></p>
+
+<p>No <code class="language-plaintext highlighter-rouge">context</code>:
+<img width="960" alt="Screen Shot 2020-12-17 at 1 44 33 am" src="https://user-images.githubusercontent.com/4974769/102363348-71057b00-4009-11eb-8b73-6868bd1b3815.png" /></p>
+
+<p><code class="language-plaintext highlighter-rouge">context</code>:
+<img width="960" alt="Screen Shot 2020-12-17 at 1 45 17 am" src="https://user-images.githubusercontent.com/4974769/102363445-867aa500-4009-11eb-9d74-1388a551430d.png" /></p>
+
+<p>So, let’s add <code class="language-plaintext highlighter-rouge">context</code> in, as it is in the other functions:</p>
+
+<p><img width="960" alt="Screen Shot 2020-12-17 at 1 46 59 am" src="https://user-images.githubusercontent.com/4974769/102363696-c3469c00-4009-11eb-8413-318b4e6db547.png" /></p>
+
+<p>We also need to add the afterFind type to triggers with context:</p>
+
+<p><img width="960" alt="Screen Shot 2020-12-17 at 2 32 31 am" src="https://user-images.githubusercontent.com/4974769/102369592-3c48f200-4010-11eb-8541-e82dfc4eee4c.png" /></p>
+
+<p>Cool! However, when I searched <code class="language-plaintext highlighter-rouge">maybeRunAfterFindTrigger</code>, I noticed that no context element was passed from RestQuery. So we’ll add that:</p>
+
+<p><img width="960" alt="Screen Shot 2020-12-17 at 1 49 28 am" src="https://user-images.githubusercontent.com/4974769/102363990-1b7d9e00-400a-11eb-95b5-03c5fb9bc3df.png" /></p>
+
+<p>Next, <code class="language-plaintext highlighter-rouge">context</code> is never passed to <code class="language-plaintext highlighter-rouge">RestQuery.js</code>, so it won’t know what <code class="language-plaintext highlighter-rouge">this.context</code> is. Let’s add that too, with a similar pattern to <code class="language-plaintext highlighter-rouge">RestWrite.js</code>:</p>
+
+<p><img width="960" alt="Screen Shot 2020-12-17 at 1 51 45 am" src="https://user-images.githubusercontent.com/4974769/102364345-6f888280-400a-11eb-9882-c945db735ecc.png" /></p>
+
+<p>Ok great. Now we’ve got to pass the final context parameter to <code class="language-plaintext highlighter-rouge">RestQuery.js</code>, and then we should be good to run our test again. The context argument needs to be added to <code class="language-plaintext highlighter-rouge">new RestQuery(...</code> in <code class="language-plaintext highlighter-rouge">rest.js</code></p>
+
+<p><img width="960" alt="Screen Shot 2020-12-17 at 2 00 57 am" src="https://user-images.githubusercontent.com/4974769/102368856-7239a680-400f-11eb-91fb-b813be492c74.png" /></p>
+
+<h2 id="re-running-the-tests">Re-running the tests</h2>
+
+<p>I’m <em>pretty sure</em> I’ve added context everywhere it’s needed. I can always come back and continue editing the files, or temporarily add <code class="language-plaintext highlighter-rouge">console.log</code> in a few places to work out what’s going on.</p>
+
+<p>Let’s run <code class="language-plaintext highlighter-rouge">npm test spec/CloudCode.spec.js</code> and see if the test passes:</p>
+
+<h3 id="result">Result:</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Started
+.
+
+
+Ran 1 of 130 specs
+1 spec, 0 failures
+</code></pre></div></div>
+
+<p>Awesome, this means that the test passed and <code class="language-plaintext highlighter-rouge">request.context</code> is now available in <code class="language-plaintext highlighter-rouge">afterFind</code> triggers!</p>
+
+<h2 id="preparing-for-merge">Preparing for Merge</h2>
+
+<p>In order to merge with the master repo, let’s check a few things:</p>
+
+<ul>
+  <li>Replace <code class="language-plaintext highlighter-rouge">fit</code> in tests with <code class="language-plaintext highlighter-rouge">it</code>. It’s important that all new code added by the new features are captured by tests, so write more tests if required.</li>
+  <li>Run <code class="language-plaintext highlighter-rouge">npm test</code> to make sure the new feature doesn’t break any other feature</li>
+  <li>Run <code class="language-plaintext highlighter-rouge">npm run prettier</code> to clean up code style</li>
+  <li>Run <code class="language-plaintext highlighter-rouge">npm run lint-fix</code> to fix any lint issues</li>
+  <li>Run <code class="language-plaintext highlighter-rouge">npm run lint</code> to identify any remaining lint issues</li>
+  <li>Add our changes to the changelog</li>
+</ul>
+
+<p>So, we’re all good to go! Let’s jump back into GitHub desktop.</p>
+
+<h2 id="publishing-your-branch">Publishing your Branch</h2>
+
+<p><img width="960" alt="Screen Shot 2020-12-17 at 2 38 12 am" src="https://user-images.githubusercontent.com/4974769/102370204-ea549c00-4010-11eb-9993-d3d8b5edf2ac.png" /></p>
+
+<p>Here you can review all the changes you’ve made compared to the master branch. In order to upload these changes, type in a summary, and press <em>Commit</em>.</p>
+
+<ul>
+  <li>If you see “You do not have write access to Parse-Server. Want to create a fork?”, press <em>Create a Fork</em>, and then <em>Fork this Repository</em></li>
+</ul>
+
+<p>The summary of the first commit is what will show under GitHub file structures, so I try to give a little explanation here.</p>
+
+<p>Today I’ll use:</p>
+
+<p><strong>Fix: context for afterFind</strong></p>
+
+<p>Next, hit <em>Publish Branch</em>.</p>
+
+<p>Now, your branch is available on GitHub. You can install this fork and test it on your own Parse Server using <code class="language-plaintext highlighter-rouge">npm install github:myUsername/parse-server#my-awesome-feature</code>.</p>
+
+<p>GitHub Desktop will now say “Create a pull request from your current branch”. Press <em>Create Pull Request</em>. This will open GitHub in your browser to create a pull request (aka PR) that will add your changes to the master repo.</p>
+
+<p>All you have to do from here, is fill out the form, and hit <em>Create Pull Request</em>. The core Parse Team will review your changes, provide feedback, and eventually merge the changes with the master.</p>
+
+<p><a href="https://github.com/parse-community/parse-server/pull/7078">You can see my PR for this feature here.</a></p>
+
+<p><strong>And that’s all! You’re on the way to becoming a Parse Contributor!</strong></p>
+
+<p>Remember, if you’re willing to contribute to our amazing project, the Core Team and many other contributors (such as myself 🤩) will be more than happy to help you learn. We are after all, a community.</p>
+
+<p>Thanks for reading!</p>
+</div>
+        <div class="copy-block margin-top-40 signature">
+            <div>
+                <span class="author">Daniel Blyth,</span> <span class="byline">Parse Contributor</span>
+            </div>
+            <div class="margin-top-20">
+                
+                <span class="margin-left-10 margin-right-10"><a href="https://github.com/dblythy">GitHub</a></span>
+                
+                
+                
+            </div>
+
+            <!-- Twitter cards metadata -->
+            <meta name="twitter:card" content="summary">
+            <meta name="twitter:site" content="@ParsePlatform">
+
+            
+
+            
+              <meta name="twitter:title" content="How to start contributing to Parse Server">
+            
+
+            
+              <meta name="twitter:url" content="http://blog.parseplatform.org/learn/tutorial/community/nodejs/2021/02/14/How-to-start-contributing-to-Parse-Server.html">
+            
+
+            
+              <meta name="twitter:description" content="The most amazing feature of Parse Server is that it’s accessible for developers of all skill levels.
+
+">
+            
+
+            <meta name="twitter:image" content="https://blog.parseplatform.org/img/favicon/apple-touch-icon-144x144.png">
+
+            
+
+            
+
+            <a class="btn btn--outline btn--twitter" href="https://twitter.com/intent/tweet?hashtags=ParsePlatform&original_referer=http://blog.parseplatform.org/learn/tutorial/community/nodejs/2021/02/14/How-to-start-contributing-to-Parse-Server.html&ref_src=twsrc%5Etfw&text=How to start contributing to Parse Server by Daniel Blyth&tw_p=tweetbutton&url=http://blog.parseplatform.org/learn/tutorial/community/nodejs/2021/02/14/How-to-start-contributing-to-Parse-Server.html&via=ParsePlatform">Tweet this post</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+        </div>
+    </article>
+</div>
+
+        </div><!-- /.content__wrapper -->
+    </div><!-- /.site__content -->
+</div><!-- /.site__wrapper -->
+</body>
+
+<script>
+    anchors.options = {
+      placement: 'left'
+    };
+    anchors.add();
+</script>
+</html>
